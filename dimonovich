@@ -7638,404 +7638,413 @@ http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" tvg-logo="http://epg.it999.ru/img/4629.png",Мир Баскетбола
 http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2ODM3NDUxNDksImlhdCI6MTY4MzY1ODc0OSwiY2lkIjo2LCJ1aWQiOjU4MjMwMTc4OSwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.SekpimKbJpg2QALVxMTIpD6ZnCTW6YYmXbw0zmPaNVE&offset=10
 
+
+
+
+
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Первый канал HD
-http://95.181.17.26/dvr01/hd1/1kanal_hd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.26/dvr01/hd1/1kanal_hd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Первый канал
-http://arbiter.bolshoe.tv/?path=streaming/1kanal/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/1kanal/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Россия К
-http://arbiter.bolshoe.tv/?path=abr1/kultura/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/kultura/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",ТНТ4
-http://95.181.17.14/dvr02/mobile2/comedytv/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.14/dvr02/mobile2/comedytv/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",ТНТ
-http://95.181.17.26/dvr02/sd2/tnt/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.26/dvr02/sd2/tnt/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",НТВ
-http://arbiter.bolshoe.tv/?path=streaming/ntv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/ntv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",РЕН ТВ
-http://arbiter.bolshoe.tv/?path=streaming/rentv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/rentv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Travel+Adventure HD
-http://95.181.17.26/dvr01/mobile1/TravAdHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.26/dvr01/mobile1/TravAdHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Viasat Explore
-http://arbiter.bolshoe.tv/?path=streaming/viasat_explorer/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/viasat_explorer/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Viasat History
-http://arbiter.bolshoe.tv/?path=streaming/viasat_history/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/viasat_history/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",ТНВ-Планета
-http://arbiter.bolshoe.tv/?path=streaming/tnvpl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/tnvpl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Моя планета HD
-http://arbiter.bolshoe.tv/?path=abr1/IQHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/IQHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Первый космический
-http://arbiter.bolshoe.tv/?path=abr2/hd_eureka/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/hd_eureka/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",HD Life
-http://arbiter.bolshoe.tv/?path=abr2/hdlife/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/hdlife/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Телепутешествия
-http://arbiter.bolshoe.tv/?path=abr1/teletravel/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/teletravel/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Большая азия
-http://arbiter.bolshoe.tv/?path=abr3/bigasia/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr3/bigasia/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Ocean TV
-http://95.181.17.18/abr3/ocean/71/copy/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.18/abr3/ocean/71/copy/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Terra HD
-http://arbiter.bolshoe.tv/?path=abr2/natgeo_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/natgeo_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Terra
-http://arbiter.bolshoe.tv/?path=abr4/natgeo/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr4/natgeo/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Наша Сибирь HD
-http://arbiter.bolshoe.tv/?path=streaming/nashasibirHD/71/hd/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/nashasibirHD/71/hd/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",.Sci-fi
-http://arbiter.bolshoe.tv/?path=streaming/axnscifi/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/axnscifi/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",.Red
-http://arbiter.bolshoe.tv/?path=streaming/set/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/set/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Русский Иллюзион
-http://arbiter.bolshoe.tv/?path=streaming/rusillusion/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/rusillusion/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Иллюзион+
-http://arbiter.bolshoe.tv/?path=abr2/illusionplus/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/illusionplus/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Русский Роман
-http://arbiter.bolshoe.tv/?path=streaming/rus_roman/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/rus_roman/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",TV XXI
-http://95.181.17.6/streaming/tv21/71/mobile2/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.6/streaming/tv21/71/mobile2/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Феникс+кино
-http://arbiter.bolshoe.tv/?path=streaming/fenixkino/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/fenixkino/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Киносемья
-http://arbiter.bolshoe.tv/?path=streaming/kinofamily/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/kinofamily/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Кинохит
-http://arbiter.bolshoe.tv/?path=streaming/kinohit/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/kinohit/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Индийское кино
-http://arbiter.bolshoe.tv/?path=abr1/india/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/india/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Кинокомедия
-http://arbiter.bolshoe.tv/?path=abr1/komedia/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/komedia/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Киносвидание
-http://arbiter.bolshoe.tv/?path=abr3/kinosvidanie/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr3/kinosvidanie/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Наше новое кино
-http://arbiter.bolshoe.tv/?path=abr4/nashe_novoe_kino/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr4/nashe_novoe_kino/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Мосфильм. Золотая коллекция HD
-http://arbiter.bolshoe.tv/?path=abr4/mosfilm/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr4/mosfilm/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Fan HD
-http://arbiter.bolshoe.tv/?path=abr3/fan_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr3/fan_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Победа
-http://arbiter.bolshoe.tv/?path=abr1/pobeda/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/pobeda/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",TV1000
-http://arbiter.bolshoe.tv/?path=streaming/tv1000/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/tv1000/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",VIP Premiere HD
-http://arbiter.bolshoe.tv/?path=abr2/tv1000_premium_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/tv1000_premium_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",VIP Comedy HD
-http://arbiter.bolshoe.tv/?path=abr2/tv_1000_comedy_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/tv_1000_comedy_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",VIP Megahit HD
-http://arbiter.bolshoe.tv/?path=abr2/tv_1000_megahit_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/tv_1000_megahit_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",НСТ
-http://arbiter.bolshoe.tv/?path=streaming/nstv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/nstv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Bollywood HD
-http://arbiter.bolshoe.tv/?path=abr1/BollywoodHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/BollywoodHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Дом кино
-http://arbiter.bolshoe.tv/?path=abr1/domkino/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/domkino/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",ТВ3
-http://arbiter.bolshoe.tv/?path=streaming/tv3/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/tv3/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Капитан фантастика HD
-http://arbiter.bolshoe.tv/?path=abr1/GingerHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/GingerHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Драйв
-http://arbiter.bolshoe.tv/?path=streaming/drive/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/drive/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Вопросы и ответы
-http://arbiter.bolshoe.tv/?path=streaming/voprotvet/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/voprotvet/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Домашние животные
-http://arbiter.bolshoe.tv/?path=streaming/domzhivot/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/domzhivot/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",БелРос
-http://arbiter.bolshoe.tv/?path=streaming/tro/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/tro/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Психология 21
-http://arbiter.bolshoe.tv/?path=streaming/psyhology/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/psyhology/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Сделано в Кузбасе
-http://arbiter.bolshoe.tv/?path=streaming/sdelanovsibiri/71/hd/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/sdelanovsibiri/71/hd/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",RT HD
-http://arbiter.bolshoe.tv/?path=streaming/rthd/71/hd/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/rthd/71/hd/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",RT
-http://arbiter.bolshoe.tv/?path=abr2/rtdhden/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/rtdhden/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",RT Д HD
-http://arbiter.bolshoe.tv/?path=abr2/rtdhdru/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/rtdhdru/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Ретро
-http://95.181.17.6/7nvenc/retro/71/sd/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.6/7nvenc/retro/71/sd/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",8 Канал
-http://arbiter.bolshoe.tv/?path=abr1/8kanal/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/8kanal/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Суббота
-http://arbiter.bolshoe.tv/?path=abr2/super_sd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/super_sd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Здоровое ТВ
-http://arbiter.bolshoe.tv/?path=mobile6/zdorovtv/71/tvrec/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=mobile6/zdorovtv/71/tvrec/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",2x2
-http://arbiter.bolshoe.tv/?path=abr1/2x2tv/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/2x2tv/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Авто плюс
-http://arbiter.bolshoe.tv/?path=abr1/auto_plus/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/auto_plus/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Мир
-http://arbiter.bolshoe.tv/?path=abr1/mir/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/mir/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Мир 24
-http://arbiter.bolshoe.tv/?path=abr3/mir24hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr3/mir24hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Спас
-http://arbiter.bolshoe.tv/?path=abr1/spas/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/spas/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",СТС
-http://arbiter.bolshoe.tv/?path=abr1/sts/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/sts/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",СТС Love
-http://arbiter.bolshoe.tv/?path=abr1/sts_love/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/sts_love/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Тонус ТВ
-http://arbiter.bolshoe.tv/?path=abr1/tonustv/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/tonustv/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Время
-http://arbiter.bolshoe.tv/?path=abr1/vremya/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/vremya/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",360° HD
-http://arbiter.bolshoe.tv/?path=streaming/podmoscowe360/71/tvrec/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/podmoscowe360/71/tvrec/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",360°
-http://arbiter.bolshoe.tv/?path=abr1/podmoskove360/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/podmoskove360/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",РЖД ТВ HD
-http://arbiter.bolshoe.tv/?path=abr2/RGDHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/RGDHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Арсенал
-http://arbiter.bolshoe.tv/?path=abr2/arsenal/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/arsenal/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Еда HD
-http://arbiter.bolshoe.tv/?path=abr2/edahd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/edahd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Поехали!
-http://arbiter.bolshoe.tv/?path=abr2/poehali/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/poehali/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Беларусь 24
-http://arbiter.bolshoe.tv/?path=abr4/belarus_24/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr4/belarus_24/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",БелРос
-http://arbiter.bolshoe.tv/?path=streaming/tro/71/tvrec/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/tro/71/tvrec/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Дорама
-http://arbiter.bolshoe.tv/?path=abr4/dorama/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr4/dorama/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Кухня ТВ
-http://arbiter.bolshoe.tv/?path=abr4/kitchentv/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr4/kitchentv/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Мир 24
-http://arbiter.bolshoe.tv/?path=abr4/mir24hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr4/mir24hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Анекдот ТВ
-http://arbiter.bolshoe.tv/?path=abr3/anekdot/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr3/anekdot/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Fashion TV
-http://arbiter.bolshoe.tv/?path=abr3/fashion/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr3/fashion/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Калейдоскоп ТВ
-http://arbiter.bolshoe.tv/?path=abr3/kaleydoskop/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr3/kaleydoskop/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Вместе-РФ
-http://95.181.17.26/streaming/rzd/71/mobile2/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.26/streaming/rzd/71/mobile2/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Пятница!
-http://95.181.17.26/streaming/friday_kem/71/tvrec/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.26/streaming/friday_kem/71/tvrec/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",5 канал
-http://arbiter.bolshoe.tv/?path=streaming/5kanal/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/5kanal/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Домашний
-http://arbiter.bolshoe.tv/?path=streaming/domashny/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/domashny/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Пятница
-http://arbiter.bolshoe.tv/?path=streaming/friday/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/friday/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Живи
-http://arbiter.bolshoe.tv/?path=streaming/jv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/jv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",ОТР
-http://arbiter.bolshoe.tv/?path=streaming/otr/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/otr/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Сарафан
-http://arbiter.bolshoe.tv/?path=streaming/sarafan/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/sarafan/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",СТС
-http://arbiter.bolshoe.tv/?path=streaming/sts/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/sts/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Телекафе
-http://arbiter.bolshoe.tv/?path=streaming/telekafe/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/telekafe/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Усадьба
-http://arbiter.bolshoe.tv/?path=streaming/usadba/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/usadba/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Ю
-http://95.181.17.6/dvr01/mobile2/utv/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.6/dvr01/mobile2/utv/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",1HD
-http://95.181.17.26/streaming/1hd/71/5nvenc/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.26/streaming/1hd/71/5nvenc/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Bridge TV
-http://arbiter.bolshoe.tv/?path=streaming/brigge/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/brigge/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Bridge TV Русский Хит
-http://arbiter.bolshoe.tv/?path=streaming/rusong_tv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/rusong_tv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Bridge TV Classic
-http://arbiter.bolshoe.tv/?path=abr3/bridge_classic/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr3/bridge_classic/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Bridge TV Rock
-http://arbiter.bolshoe.tv/?path=abr3/bridge_fresh/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr3/bridge_fresh/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Russian MusicBox
-http://arbiter.bolshoe.tv/?path=streaming/mboxru/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/mboxru/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Европа плюс ТВ
-http://arbiter.bolshoe.tv/?path=streaming/europaplus/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/europaplus/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",RU.TV
-http://arbiter.bolshoe.tv/?path=streaming/rutv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/rutv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",ТНТ Music
-http://arbiter.bolshoe.tv/?path=streaming/aone/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/aone/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",C Music HD
-http://arbiter.bolshoe.tv/?path=abr1/CMusicHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/CMusicHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",МузТВ
-http://arbiter.bolshoe.tv/?path=streaming/muztv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/muztv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Успех
-http://95.181.17.6/streaming/uspeh/71/mobile2/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.6/streaming/uspeh/71/mobile2/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",360°
-http://95.181.17.26/streaming/podmoskove360/71/mobile1/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.26/streaming/podmoskove360/71/mobile1/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Союз
-http://95.181.17.18/dvr01/sd2/soyuz/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.18/dvr01/sd2/soyuz/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Бобёр
-http://arbiter.bolshoe.tv/?path=abr1/bober/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/bober/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Мульт HD
-http://arbiter.bolshoe.tv/?path=abr2/tlum_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/tlum_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Мульт
-http://arbiter.bolshoe.tv/?path=abr4/mult/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr4/mult/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Карусель
-http://arbiter.bolshoe.tv/?path=abr1/karusel/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/karusel/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Мультиландия
-http://95.181.17.6/streaming/multimaniaHD/71/5nvenc/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.6/streaming/multimaniaHD/71/5nvenc/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Мультимузыка
-http://arbiter.bolshoe.tv/?path=streaming/strana/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/strana/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",СОЛНЦЕ
-http://95.181.17.26/abr1/disney/71/copy/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.26/abr1/disney/71/copy/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Уникум HD
-http://arbiter.bolshoe.tv/?path=streaming/detckiyHD/71/hd/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/detckiyHD/71/hd/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Уникум
-http://arbiter.bolshoe.tv/?path=streaming/forkids/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/forkids/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Радость моя
-http://arbiter.bolshoe.tv/?path=streaming/radostmoya/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/radostmoya/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Матч ТВ HD
-http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Матч ТВ
-http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Матч! Футбол 1 HD
-http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Матч! Футбол 2 HD
-http://95.181.17.26/7nvenc/NTVplusfut2HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.26/7nvenc/NTVplusfut2HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Матч! Футбол 3 HD
-http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Матч! Игра HD
-http://95.181.17.14/7nvenc/sport2HD/71/fhd/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.14/7nvenc/sport2HD/71/fhd/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Матч! Боец
-http://95.181.17.14/4nvenc/boets/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.14/4nvenc/boets/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Матч Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Матч! Арена HD
-http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Матч! Страна HD
-http://95.181.17.6/4nvenc/ntvsport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://95.181.17.6/4nvenc/ntvsport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",KHL
-http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",KHL Prime
-http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Viasat Sport
-http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",MMA-TV.COM HD
-http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Телеканал Футбол
-http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Viasat Sport HD
-http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPWVvMkZiUUpRYVB0WFB5YVNtNlU4REE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1YbEdwR3hEdG1rSmE3NldsQ3JkYXl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+
+
+
+
 #EXTINF:-1 group-title="Movix (VPN 🇷🇺)", Первый канал
 https://er-cdn.ertelecom.ru/os/video/hls/385da1e5fb7b0393d0ee364d8a443d55540e759018b875591bbe463bc41d921cf5ab41ba47f754007684f9a224d10fc7c55b399bdac87aa1116c8c12531a683842077f82588a4eaa37a11e2498e43e82641d55d6cd1f8021527ff40cc6c1b90c2c725f8088be859d2ca81833f04a0d314ba06838da0860984e6c9f919a73c7a0f196aa88444f2d775d4649b69ca80152d3ea9b715519f3e9e60f5b5be6bf881d0580329f47a436110a89a8cbb822e299814d2175ccb3615c531a569b7f7918b4eef0beec8207d80afd4a7781455dd1d796d89016549d5ac54af1988cc3ba2264b611edd8861b4232ca7d644b62b2350cf6a9672e78278172b939f59dc393c9c566996769450926bc0392269c3f9e3c7afdc38cdea2bdf8311617b46fbbca585cadd782d8a97f4b4616409e370095fe9201d108d4fa4d95efd650ba35d1900289704504a9cdda5d0ed4e18b5a20abe38b/playlist.m3u8
 #EXTINF:-1 group-title="Movix (VPN 🇷🇺)", Россия 1 HD
