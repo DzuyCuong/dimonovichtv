@@ -33,6 +33,8 @@ http://cdn-lb.iptv2022.com/p/tM79DhvveOYhuc4Z7f9CMQ,1677041337/streaming/rossia1
 http://bl.uma.media/live/312119/HLS/4614144_1/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="🔅 Основные", Матч! HD
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="match-tv" group-title="🔅 Основные", Матч! Ультра 4K
+http://158.101.214.187:8080/channel/5235fe46/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="ntv" group-title="🔅 Основные", НТВ
 http://moobl.ru/iptv/NTV.m3u8
