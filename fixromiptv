@@ -33,7 +33,7 @@ http://cdn-lb.iptv2022.com/p/tM79DhvveOYhuc4Z7f9CMQ,1677041337/streaming/rossia1
 http://bl.uma.media/live/312119/HLS/4614144_1/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="🔅 Основные", Матч! HD
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="match-tv" group-title="🔅 Основные", Матч! Ультра 4K
+#EXTINF:-1 tvg-id="match-tv" group-title="🔅 Основные" tvg-logo="https://moobl.ru/IPTV/iptv_icon/Match_ultra4k.png", Матч! Ультра 4K
 http://158.101.214.187:8080/channel/5235fe46/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="ntv" group-title="🔅 Основные", НТВ
@@ -112,10 +112,10 @@ http://moobl.ru/iptv/Pyatnizza.m3u8
 #EXTINF:-1 tvg-id="piatnica" group-title="🔅 Основные", Пятница! HD
 https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="zvezda" group-title="🔅 Основные", Телеканал Звезда
+#EXTINF:-1 tvg-id="zvezda" group-title="🔅 Основные",Звезда
 http://moobl.ru/iptv/Zvezda.m3u8
 
-#EXTINF:-1 tvg-id="zvezda" group-title="🔅 Основные", Телеканал Звезда HD
+#EXTINF:-1 tvg-id="zvezda" group-title="🔅 Основные",Звезда HD
 http://moobl.ru/iptv/Zvezda_HD.m3u8
 
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="🔅 Основные", Звезда Плюс
@@ -494,34 +494,34 @@ http://moobl.ru/iptv/Bridge_Deluxe.m3u8
 http://moobl.ru/iptv/Bridge_Deluxe_hd.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="🎧 Музыкальные",Bridge Шлягер
-http://cdn-lb.iptv2022.com/p/FoOLGbj8u7eaYDyBKJqJng,1674889827/streaming/br_shlyager/324/1/index.m3u8
+http://moobl.ru/iptv/Bridge_tv_shlyager.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="🎧 Музыкальные",Bridge Classic
-http://cdn-lb.iptv2022.com/p/3ApAmZSif5Nvbb1z8KkdfA,1674889967/streaming/br_classic/324/1/index.m3u8
+http://moobl.ru/iptv/Bridge_tv_classic.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.it999.ru/img2/6188.png" group-title="🎧 Музыкальные",Bridge Rock
-http://cdn-lb.iptv2022.com/p/nnlhuKPDAJPTdCaHIexaow,1691952008/streaming/br_rock/324/5/index.m3u8
+http://moobl.ru/iptv/Bridge_tv_rock.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.it999.ru/img2/6188.png" group-title="🎧 Музыкальные",Bridge Rock HD
-https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+http://moobl.ru/iptv/Bridge_tv_rock_hd.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-logo="http://fix-rom.ucoz.com/iptv/img/bridge_fresh.png" group-title="🎧 Музыкальные",Bridge Фреш
 http://cdn-lb.iptv2022.com/p/EkFcRJa9BnFURo7Cnr266w,1674889867/streaming/br_fresh/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv" group-title="🎧 Музыкальные", Bridge
-http://cdn-lb.iptv2022.com/p/yTu07DQgzvvqOAK7DeakQw,1674890009/streaming/bridgetv/324/1/index.m3u8
+http://moobl.ru/iptv/Bridge_tv.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-dance" group-title="🎧 Музыкальные",Bridge Hits
-http://cdn-lb.iptv2022.com/p/tqBAc8klhJwJw0mQzQiPbg,1674890034/streaming/br_dance/324/1/index.m3u8
+http://moobl.ru/iptv/Bridge_tv_hits.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" group-title="🎧 Музыкальные",Bridge Hits HD
-https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+http://moobl.ru/iptv/Bridge_tv_hits_hd.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="🎧 Музыкальные",Bridge Русский хит
-http://cdn-lb.iptv2022.com/p/cynQYtxboLC84JCMQb90Xw,1674890083/streaming/br_rushit/324/1/index.m3u8
+http://moobl.ru/iptv/Bridge_tv_rusky_hit.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="🎧 Музыкальные",Bridge Русский хит HD
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 
 #EXTINF:-1 tvg-id="baby-time" group-title="👶 Детские",Baby Time by Bridge
-http://cdn-lb.iptv2022.com/p/iBKmDHEVgOmwzgZf4aa1Rg,1672887638/streaming/baby_time/324/1/index.m3u8
+http://moobl.ru/iptv/Bridhe_tv_babytime.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://fix-rom.ucoz.com/iptv/img/supertoons.png" group-title="👶 Детские",Supertoons TV HD
 https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
