@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://tvoetv.space/tvoetv-humor.xml"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 18.09.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 19.09.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -210,7 +210,7 @@ http://cdn-lb.iptv2022.com/p/ikVB_lEiwNkOujRtbrigbA,1686070937/streaming/bars/32
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AKTIS/variant.m3u8
 
 #EXTINF:-1 tvg-id="moskva-24" group-title="🇷🇺 Региональные", Москва 24
-http://streamer1.ruslanatv.ru/russia/moskva24_2023/playlist.m3u8
+http://moobl.ru/iptv/Moskva_24.m3u8
 
 #EXTINF:-1 tvg-id="78kanal" group-title="🇷🇺 Региональные",78 канал (Санкт-Петербург)
 http://cdn-lb.iptv2022.com/p/dkCCd3Zpd1Qj8fXpSujh1g,1687783485/streaming/78ch/324/1/tracks-v1a1/index.m3u8
@@ -1449,6 +1449,7 @@ http://moobl.ru/iptv/Pro_lyubov_hd.m3u8
 http://moobl.ru/iptv/Shokiruyushcheye_HD.m3u8
 #EXTINF:-1 tvg-id="strashnoe-hd" group-title="📺 Фильмовые",Страшное HD
 http://ru.iptv.monster/play/371/5416F3BDBAB456F/video.m3u8
+
 #EXTINF:-1 tvg-id="romantichnoe-hd" group-title="📺 Фильмовые",Романтичное HD
 http://moobl.ru/iptv/Romantichnoe_hd.m3u8
 
@@ -1663,8 +1664,14 @@ http://moobl.ru/iptv/VIP_Premiere_hd.m3u8
 #EXTINF:-1 tvg-id="khit-hd" group-title="📺 Фильмовые",Хит
 http://moobl.ru/iptv/Hit.m3u8
 
+#EXTINF:-1 tvg-id="khit-hd" group-title="📺 Фильмовые",Хит HD
+http://moobl.ru/iptv/Hit_hd.m3u8
+
 #EXTINF:-1 tvg-id="blokbaster-hd" group-title="📺 Фильмовые",Блокбастер
 http://moobl.ru/iptv/Blokbaster.m3u8
+
+#EXTINF:-1 tvg-id="blokbaster-hd" group-title="📺 Фильмовые",Блокбастер HD
+http://moobl.ru/iptv/Blokbaster_hd.m3u8
 
 #EXTINF:-1 tvg-id="kinopokaz" group-title="📺 Фильмовые",Кинопоказ
 http://moobl.ru/iptv/Kinopokaz.m3u8
@@ -1673,7 +1680,13 @@ http://moobl.ru/iptv/Nash_Kinopokaz.m3u8
 
 
 #EXTINF:-1 tvg-id="nashe-muzhskoe" group-title="📺 Фильмовые",Наше Мужское HD
-http://moobl.ru/iptv/Nashe_muzhskoe_hd.m3u8
+http://moobl.ru/iptv/Nashe_muzhskoe_hd.m3u
+
+#EXTINF:-1 tvg-id="nashehd" group-title="📺 Фильмовые",Наше крутое HD
+http://moobl.ru/iptv/Nashe_krutoye_hd.m3u8
+
+#EXTINF:-1 tvg-id="kinoboevik-kz" group-title="📺 Фильмовые",КиноБоевик HD KZ
+https://ucdn.beetv.kz/btv/live/hls/000008490.m3u8
 
 #EXTINF:-1 tvg-id="kamedi" group-title="📺 Фильмовые",Камеди
 http://moobl.ru/iptv/Kamedi.m3u8
@@ -1682,6 +1695,7 @@ http://moobl.ru/iptv/Kamedi_hd.m3u8
 
 #EXTINF:-1 tvg-id="nashe-lubimoe-hd" group-title="📺 Фильмовые",Любимое HD
 http://moobl.ru/iptv/Lyubimoye_hd.m3u8
+
 #EXTINF:-1 tvg-id="lubimoe-kino" group-title="📺 Фильмовые",Наше любимое
 http://91.233.215.250:7272/JS7lUbMstASMl0r
 
