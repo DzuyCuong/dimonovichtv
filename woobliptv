@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://tvoetv.space/tvoetv-humor.xml"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 19.09.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 21.09.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -11,11 +11,11 @@ http://moobl.ru/iptv/1_tv.m3u8
 #EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy", Первый HD
 http://moobl.ru/iptv/1_tv_hd.m3u8
 
-#EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy-pl2", Первый +2
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy-pl2", Первый канал +2
 http://cdn-lb.iptv2022.com/p/DLi6ZvNQX8TkoaL4yP6vLA,1688763608/streaming/1kanalplus2/324/1/index.m3u8
-#EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy-pl4", Первый +4
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy-pl4", Первый канал +4
 http://cdn-lb.iptv2022.com/p/cS7wWIq_icC3Ny_O6bVXng,1688763608/streaming/1kanalplus4/324/1/index.m3u8
-#EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy-pl6", Первый +6
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy-pl6", Первый канал +6
 http://cdn-lb.iptv2022.com/p/prW4ZsCJskh9ohIOt5DExQ,1677041313/streaming/1kanalplus6/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" group-title="🔅 Основные" tvg-logo="http://moobl.ru/iptv/img/rossiya-1.png", Россия 1
@@ -481,12 +481,12 @@ http://login.lionboxtv.xyz:80/protoniom1201/wMLkbzV8dXCC/959
 http://195.24.89.82:80/MTV_SD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logospng.org/download/mtv/logo-mtv-amarelo-1024.png" group-title="🎧 Музыкальные",MTV Germany
-http://clientportal.link:80/NiniSNcByKb5716/XoZOoE404/15759
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logospng.org/download/mtv/logo-mtv-amarelo-1024.png" group-title="🎧 Музыкальные",MTV Classic
 http://mag.redmytv.com:80/78F8A7613222957/cG3OyRj8eI/116642
 #EXTINF:-1 tvg-id="mtv-dance" group-title="🎧 Музыкальные",MTV Club
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/7318
+
 
 #EXTINF:-1 tvg-id="mtv-hits" group-title="🎧 Музыкальные",MTV Hits
 http://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
@@ -499,10 +499,10 @@ http://46.43.212.96:81/udp/239.254.2.201:1234
 http://89.254.128.5:22280/mtv_00/mono.m3u8
 
 #EXTINF:-1 tvg-id="vh1-classic" group-title="🎧 Музыкальные",MTV 80s
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/17388
+http://194.145.202.71:8087/udp/239.254.5.229:6060
 
 #EXTINF:-1 tvg-id="mtv-rocks" group-title="🎧 Музыкальные",MTV 90s
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/7315
+http://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="bridge-hd" group-title="🎧 Музыкальные",Bridge Deluxe
 http://moobl.ru/iptv/Bridge_Deluxe.m3u8
@@ -580,7 +580,7 @@ http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 http://moobl.ru/iptv/Multimuzyka.m3u8
 
 #EXTINF:-1 tvg-id="nick-music" group-title="🎧 Музыкальные", NickMusic
-http://mag.redmytv.com:80/78F8A7613222957/cG3OyRj8eI/116764
+http://194.145.202.71:8087/udp/239.254.5.221:6060
 
 #EXTINF:-1 tvg-id="paramount-comedy" group-title="🏄 Развлекательные",Comedy Central
 http://mag.redmytv.com:80/78F8A7613222957/cG3OyRj8eI/38184
@@ -609,7 +609,7 @@ http://45.144.31.195:8026/playlist.m3u8
 http://91.233.215.250:7272/DL3JGiEPHMCY4vy
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="👶 Детские", Nick JR
-https://sc.id-tv.kz:443/NickJr_36_37.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
 
 #EXTINF:-1 tvg-id="nick-jr" audio-track="ru" group-title="👶 Детские", Nick Jr Scandinavia
 http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
@@ -618,7 +618,7 @@ http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
 http://europe3.livetv.az/russia/cartoon_2023/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kidstv" group-title="👶 Детские",Kids TV
-http://91.200.160.134:15000/play/a0b1/index.m3u8
+
 
 
 
@@ -670,8 +670,8 @@ http://moobl.ru/iptv/STS_love.m3u8
 #EXTINF:-1 tvg-id="duo7lv" group-title="🏄 Развлекательные",Duo 7 LV HD
 http://89.254.128.5:22280/duo7_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="minsk-tv" group-title="🏄 Развлекательные",Яснае ТВ HD
-
+#EXTINF:-1 tvg-id="" group-title="🏄 Развлекательные" tvg-logo="https://www.tvrus.eu/wp-content/uploads/2020/08/tv_rus_channel_logos.png",TVRUS
+http://87.120.142.8:12000/STS
 
 #EXTINF:-1 tvg-id="sochi-live" group-title="🏄 Развлекательные",Sochi Live HD
 http://serv30.vintera.tv:8081/sochilive_site/sochi_stream/playlist.m3u8
@@ -826,7 +826,7 @@ http://cdn-lb.iptv2022.com/p/yojTk2owop5MPd1MX4ej4A,1688590816/streaming/eda/324
 http://moobl.ru/iptv/Eda_hd_int.m3u8
 
 #EXTINF:-1 tvg-id="zagorodny" group-title="🔎 Познавательные", Загородный
-http://cdn-lb.iptv2022.com/p/I9Dhw45NnD-mBoEpFsprrw,1686571313/streaming/country/324/1/index.m3u8
+http://moobl.ru/iptv/Zagorodniy.m3u8
 
 #EXTINF:-1 tvg-id="zagorodny-int" group-title="🔎 Познавательные", Загородный Int HD
 https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
@@ -1317,8 +1317,8 @@ http://moobl.ru/iptv/Kino_24.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" group-title="📺 Фильмовые",Viasat Kino Comedy HD
 http://91.233.215.250:7272/5RqMvVnGzdoBQbf
 
-#EXTINF:-1 tvg-id="kinowood" group-title="📺 Фильмовые",Kinowood
-http://95.67.12.89:9090
+#EXTINF:-1 tvg-id="kinowood" group-title="📺 Фильмовые",Kinowood HD
+http://tv.lightiptv.cc/0fcb53d6b414bf6199f73a6fa17897ee/video.m3u8?token=birbhywyz9
 
 #EXTINF:-1 tvg-id="kinoxit" group-title="📺 Фильмовые",Кинохит
 http://moobl.ru/iptv/Kinohit.m3u8
@@ -1680,7 +1680,7 @@ http://moobl.ru/iptv/Nash_Kinopokaz.m3u8
 
 
 #EXTINF:-1 tvg-id="nashe-muzhskoe" group-title="📺 Фильмовые",Наше Мужское HD
-http://moobl.ru/iptv/Nashe_muzhskoe_hd.m3u
+http://moobl.ru/iptv/Nashe_muzhskoe_hd.m3u8
 
 #EXTINF:-1 tvg-id="nashehd" group-title="📺 Фильмовые",Наше крутое HD
 http://moobl.ru/iptv/Nashe_krutoye_hd.m3u8
@@ -2117,7 +2117,7 @@ https://tbs01-edge11.itdc.ge/liveplanet/tracks-v1a1/index.m3u8
 https://live-sovsec.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="teotv" group-title="🔎 Познавательные", Тео ТВ HD
-http://cdn-lb.iptv2022.com/p/a44ETRHStpWIVIhyOgjrbA,1681669001/streaming/teo-tv/324/1/tracks-v1a1/index.m3u8
+https://stream.teotv.ru/live/site360/chunklist_w1193401690.m3u8
 
 #EXTINF:-1 tvg-id="tlc" group-title="🔎 Познавательные", TLC
 http://moobl.ru/iptv/TLC.m3u8
@@ -2237,10 +2237,10 @@ http://146.158.0.56:80/Galaxy/index.m3u8
 http://195.191.208.80:80/jwt/2e1072857bfd77c6959e9674455f0217d6105966-5633-0-24h2596517-5-1566361760-1638023871--WzoOwDjTFRZAEH5QXdu4sSvveDi2ToA5nUq3oZcY0I4-0
 
 #EXTINF:-1 tvg-id="solovjinypomiot" group-title="🔅 Основные",Соловьев LIVE
-http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/tracks-v1a1/index.m3u8
+http://moobl.ru/iptv/Soloviev_live.m3u8
 
 #EXTINF:-1 tvg-id="solovjinypomiot" group-title="🔅 Основные",Соловьев LIVE HD
-http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/index.m3u8
+http://moobl.ru/iptv/Soloviev_live_hd.m3u8
 
 
 
@@ -2280,7 +2280,7 @@ http://cdn-lb.iptv2022.com/p/lXvn1dtFRLHK6Yprb_8cFA,1688590818/streaming/adventu
 http://cdn-lb.iptv2022.com/p/5ImdOCRLD83nHhjaP4dHwg,1688590815/streaming/multikhd/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="bobior" group-title="🔎 Познавательные", Бобёр
-https://sc.id-tv.kz/bober_34_35.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000001478.m3u8
 
 #EXTINF:-1 tvg-id="nauka" group-title="🔎 Познавательные", Наука 2.0
 http://moobl.ru/iptv/Nauka_20.m3u8
@@ -2942,13 +2942,15 @@ https://sc.id-tv.kz:443/Atameken.m3u8
 https://jjtv-stream.qazcdn.com/jjtv/jjtv/jjtv/jjtv_1080/chunks.m3u8
 
 #EXTINF:-1 tvg-id="xabar24" group-title="🇰🇿 Казахстанское ТВ", Хабар 24
-https://sc.id-tv.kz:443/Khabar_24.m3u8
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="7kanal-kz" group-title="🇰🇿 Казахстанское ТВ", 7 канал Казахстан
 http://109.248.236.21:4433/udp/238.1.1.151:1234
 
 #EXTINF:-1 tvg-id="31-kanal-kz" group-title="🇰🇿 Казахстанское ТВ",31 канал Казахстан
-https://sc.id-tv.kz:443/31Kanal.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000663.m3u8
+
 
 #EXTINF:-1 tvg-id="31-kanal-kz" group-title="🇰🇿 Казахстанское ТВ",31 канал Казахстан HD
 https://31kz-streams.daitsuna.net/31kz/31kz_1080/chunks.m3u8
@@ -2957,7 +2959,7 @@ https://31kz-streams.daitsuna.net/31kz/31kz_1080/chunks.m3u8
 http://109.248.236.21:4433/udp/238.1.1.150:1234
 
 #EXTINF:-1 tvg-id="almaty" group-title="🇰🇿 Казахстанское ТВ", Алматы
-https://sc.id-tv.kz/Almaty.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000667.m3u8
 
 #EXTINF:-1 tvg-id="q-kino-alem" group-title="🇰🇿 Казахстанское ТВ", Q Kino Alem
 https://sc.id-tv.kz:443/QKinoAlem_34_35.m3u8
@@ -2966,7 +2968,7 @@ https://sc.id-tv.kz:443/QKinoAlem_34_35.m3u8
 http://109.248.236.21:4433/udp/238.1.1.147:1234
 
 #EXTINF:-1 tvg-id="novoe-televidenie" group-title="🇰🇿 Казахстанское ТВ", Новое Телевидение 
-https://sc.id-tv.kz:443/NovoeTVHD_34_35.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000001380.m3u8
  
 #EXTINF:-1 tvg-id="abaitv" group-title="🇰🇿 Казахстанское ТВ", Abai TV
 https://sc.id-tv.kz/AbaiTV.m3u8 
