@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://tvoetv.space/tvoetv-humor.xml"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 21.09.23 ===	
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 23.09.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -439,6 +439,9 @@ http://tv.gtrklnr.ru/hls/Lugansk24.m3u8
 #EXTINF:-1 tvg-id="pervy-yaroslavsky" group-title="🇷🇺 Региональные", Первый Ярославский HD
 http://moobl.ru/iptv/Pervy_yaroslavsky_hd.m3u8
 
+#EXTINF:-1 tvg-id="pervy-tulsky" group-title="🇷🇺 Региональные", Первый тульский HD
+http://cdn-lb.iptv2022.com/p/HiTu8H69Buhg6ids2RWs2g,1695450311/streaming/1tula/324/5/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="6766" tvg-logo="https://telebegun.ru/uploads/channels/thumb_photo_2021-02-26_12-06-30.png" group-title="🇷🇺 Региональные", Первый Ростовский
 http://rost.mediacdn.ru/cdn/rostov1/playlist_sdhigh.m3u8
 
@@ -486,7 +489,7 @@ http://195.24.89.82:80/MTV_SD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logospng.org/download/mtv/logo-mtv-amarelo-1024.png" group-title="🎧 Музыкальные",MTV Classic
 http://mag.redmytv.com:80/78F8A7613222957/cG3OyRj8eI/116642
 #EXTINF:-1 tvg-id="mtv-dance" group-title="🎧 Музыкальные",MTV Club
-
+http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiODE5YTFiMDIiLCJwIjoiODE5YTFiMDI1ODJkYmYxNyIsImMiOiIyMzgiLCJ0IjoiMjdmMTQ3YzZjZjM5MDQ2NzlhNTM2MjU0NWI0NWIxYWMiLCJkIjoiNzAyOCIsInIiOiIxMDcwMjUiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjIuZm94LXR2LmZ1bjo4MDgwL210dmRhbmNlL3ZpZGVvLm0/video.m3u8
 
 #EXTINF:-1 tvg-id="mtv-hits" group-title="🎧 Музыкальные",MTV Hits
 http://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
@@ -950,8 +953,8 @@ http://cdn-lb.iptv2022.com/p/DWRaVoWMjp53HD9I1xgFdw,1686430817/streaming/o2tv/32
 #EXTINF:-1 tvg-id="nicktoons" group-title="👶 Детские",NickToons
 http://moobl.ru/iptv/Nicktoons.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disnick/images/7/76/Teen_Nick_Logo.png" group-title="👶 Детские",TeenNick RO
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/14633
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disnick/images/7/76/Teen_Nick_Logo.png" group-title="👶 Детские",TeenNick PL
+http://194.145.202.71:8087/udp/239.254.1.54:6060
 
 
 
@@ -1385,9 +1388,6 @@ http://moobl.ru/iptv/Rodnoekino.m3u8
 
 #EXTINF:-1 tvg-id="kinouzhas" group-title="📺 Фильмовые",Киноужас
 http://moobl.ru/iptv/Kinouzhas.m3u8
-
-#EXTINF:-1 tvg-id="kinouzhas" group-title="📺 Фильмовые",Киноужас HD
-http://ru.iptv.monster/play/259/5416F3BDBAB456F/video.m3u8
 
 #EXTINF:-1 tvg-id="scream" group-title="📺 Фильмовые",Scream
 http://moobl.ru/iptv/Scream.m3u8
@@ -1954,13 +1954,14 @@ http://moobl.ru/iptv/Setanta_sport_2_hd.m3u8
 http://60285145319604016.of0828.xyz:80/play/fe321720/XBc@Dx3TxcrU/604016.ts
 
 #EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="digisport1",DIGI Sport 1 HD
-http://clientportal.link/reukj9wef729/Ky7tgG05/20428
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115685.ts
 #EXTINF:-1  group-title="⚽️ Спортивные" tvg-id="digisport2",DIGI Sport 2 HD
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/14622
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/111359.ts
 #EXTINF:-1  group-title="⚽️ Спортивные" tvg-id="digisport3",DIGI Sport 3
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115694.ts
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134088.ts
 #EXTINF:-1  group-title="⚽️ Спортивные" tvg-id="digisport4",DIGI Sport 4
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134222.ts 
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134089.ts
+
 
 #EXTINF:-1 tvg-id="bein-sports-1-pr" group-title="⚽️ Спортивные",BeIN Sports 1 Premium
 http://clientportal.link:80/reukj9wef729/Ky7tgG05/91335
@@ -1973,32 +1974,31 @@ http://clientportal.link:80/reukj9wef729/Ky7tgG05/14985
 http://clientportal.link:80/reukj9wef729/Ky7tgG05/104643
 
 #EXTINF:-1 tvg-id="sky-sports-f1" group-title="⚽️ Спортивные", Sky Sports F1 HD
-http://clientportal.link/reukj9wef729/Ky7tgG05/14656
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10130.ts
 
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные", Sky Sports Premier League
 http://clientportal.link:80/reukj9wef729/Ky7tgG05/14742
 
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные", Sky Sports Main Event HD
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/14753
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115800.ts
 
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные", Sky Sports Football HD
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/20024
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481984.ts
 
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные", Sky Sports Action HD
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/108338
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/714356.ts
+
 
 
 
 #EXTINF:-1 tvg-id="bt-sport1" group-title="⚽️ Спортивные", TNT Sports 1
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/3586
+http://b1g.uk:80/Benjamin/Benjamin/697061
 #EXTINF:-1 tvg-id="bt-sport2" group-title="⚽️ Спортивные", TNT Sports 2
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/3588
+http://b1g.uk:80/Benjamin/Benjamin/697059
 #EXTINF:-1 tvg-id="bt-sport3" group-title="⚽️ Спортивные", TNT Sports 3
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/1965
+http://b1g.uk:80/Benjamin/Benjamin/697058
 #EXTINF:-1 tvg-id="bt-sport4" group-title="⚽️ Спортивные", TNT Sports 4
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/2673
-#EXTINF:-1 tvg-id="bt-sport1" group-title="⚽️ Спортивные", TNT Sports 4
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-480p.m3u8
+http://b1g.uk:80/Benjamin/Benjamin/697060
 
 #EXTINF:-1 tvg-id="setanta-kz" group-title="⚽️ Спортивные",Setanta Qazaqstan HD
 http://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
@@ -3069,6 +3069,8 @@ http://149.5.17.34:20041/play/a05v
 
 #EXTINF:-1 tvg-id="otse" group-title="🇺🇦 Украинское ТВ", Оце
 http://185.235.187.10:8888/play/a039/index.m3u8
+#EXTINF:-1 tvg-id="otse" group-title="🇺🇦 Украинское ТВ", Оце HD
+http://158.101.214.187:8080/channel/n62f1aa86/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="" group-title="🇺🇦 Украинское ТВ" tvg-logo="https://i.ibb.co/WWHXmnR/channels4-profile.jpg", FREEДОМ UA
 http://176.74.80.162:8099/UA/index.m3u8
