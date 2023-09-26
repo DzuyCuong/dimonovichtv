@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 24.09.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 25.09.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -243,7 +243,7 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/1920x1080@4504/playlist
 http://air.tvk6.ru/tvk24/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-id="centr-kraskoyarsk" group-title="🇷🇺 Региональные",Центр Красноярск HD
-https://stream.tck.tv/hd.m3u8
+http://moobl.ru/iptv/Centr_kraskoyarsk_hd.m3u8
 
 #EXTINF:-1 tvg-id="astraxan24" group-title="🇷🇺 Региональные", Астрахань 24
 http://astrakhan24.mediacdn.ru/cdn/astrakhan24/playlist_sdmid.m3u8
@@ -318,7 +318,7 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/inde
 http://live-tvnovorossiysk.cdnvideo.ru/cdn/operators/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mir-belogoria" group-title="🇷🇺 Региональные", Мир Белогорья HD
-http://mirbelogorya.ru:8080/mirbelogorya/tracks-v1a1/index.m3u8
+http://moobl.ru/iptv/Mir_belogoria_hd.m3u8
 
 #EXTINF:-1 tvg-id="krym24" group-title="🇷🇺 Региональные", Крым 24
 http://cdn-lb.iptv2022.com/p/_goWqoNb2jzebnJrqCoEBA,1686342591/streaming/crimea24/324/1/index.m3u8
@@ -443,11 +443,14 @@ http://moobl.ru/iptv/Oplot_1_hd.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Novorussia-tv.png", Новороссия ТВ HD
 http://moobl.ru/iptv/Novorussia_tv_hd.m3u8
 
-#EXTINF:-1 tvg-id="1529" group-title="🇷🇺 Региональные" tvg-logo="https://tk-union.tv/assets/components/union/logo_last.png", ТРК Юнион
+#EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://tk-union.tv/assets/components/union/logo_last.png", ТРК Юнион
 http://moobl.ru/iptv/TRK_union_hd.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://televizor24tochka.ru/logo/100/zatv.jpg", За!ТВ
+https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ea/%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA_24.jpg/revision/latest?cb=20180120125952&path-prefix=ru", Луганск 24
-http://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+http://moobl.ru/iptv/Lugansk_24.m3u8
 
 #EXTINF:-1 tvg-id="pervy-yaroslavsky" group-title="🇷🇺 Региональные", Первый Ярославский HD
 http://moobl.ru/iptv/Pervy_yaroslavsky_hd.m3u8
@@ -533,9 +536,9 @@ http://moobl.ru/iptv/Bridge_tv_shlyager.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="🎧 Музыкальные",Bridge Classic
 http://moobl.ru/iptv/Bridge_tv_classic.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.it999.ru/img2/6188.png" group-title="🎧 Музыкальные",Bridge Rock
+#EXTINF:-1 tvg-id="bridge-tv-rock" group-title="🎧 Музыкальные",Bridge Rock
 http://moobl.ru/iptv/Bridge_tv_rock.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.it999.ru/img2/6188.png" group-title="🎧 Музыкальные",Bridge Rock HD
+#EXTINF:-1 tvg-id="bridge-tv-rock" group-title="🎧 Музыкальные",Bridge Rock HD
 http://moobl.ru/iptv/Bridge_tv_rock_hd.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="🎧 Музыкальные" tvg-logo="http://moobl.ru/iptv/img/bridge-tv-fresh.png",Bridge Фреш
@@ -1582,8 +1585,8 @@ http://moobl.ru/iptv/START_World_HD.m3u8
 #EXTINF:-1 tvg-id="tv1000" group-title="📺 Фильмовые", Viju TV1000 HD
 http://bl.uma.media/live/485542/HLS/2703360_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv1000-worldkino" group-title="📺 Фильмовые",Viasat Kino World HD
-
+#EXTINF:-1 tvg-id="tv1000-worldkino" group-title="📺 Фильмовые",Viasat Kino World
+http://91.210.251.166:4894/udp/239.0.3.5:4000
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="📺 Фильмовые", Viju TV1000 Русское HD
 http://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
@@ -1804,6 +1807,11 @@ http://moobl.ru/iptv/Izvestia_hd.m3u8
 
 #EXTINF:-1 tvg-id="bcu-sssr" group-title="📽️ BCU",BCU СССР HD
 http://217.107.34.114:8006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="📽️ BCU",BCU Catastrophe HD
+http://158.101.214.187:8080/channel/n33de70aa/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+#EXTINF:-1 tvg-id="" group-title="📽️ BCU",BCU Fantastic HD
+http://158.101.214.187:8080/channel/n1d2155b1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 group-title="💠 Liberty",Liberty BBC HD
 http://158.101.214.187:8080/channel/4108708e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
