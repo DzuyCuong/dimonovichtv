@@ -1814,7 +1814,7 @@ http://217.107.34.114:8006/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📽️ BCU",BCU Catastrophe HD
 http://158.101.214.187:8080/channel/n33de70aa/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 tvg-id="" group-title="📽️ BCU",BCU Fantastic HD
-http://158.101.214.187:8080/channel/n1d2155b1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/666a21f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 group-title="💠 Liberty",Liberty BBC HD
 http://158.101.214.187:8080/channel/4108708e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
