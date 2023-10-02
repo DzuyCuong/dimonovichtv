@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 30.09.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 01.10.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -410,7 +410,7 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdlow.m3u8
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="aist" group-title="🇷🇺 Региональные", Аист HD
-http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+http://cdn-lb.iptv2022.com/p/cJAOV82m8AJialaccthiOg,1696239365/streaming/aisttv/324/5/index.m3u8
 
 #EXTINF:-1 tvg-id="trk-ryazan" group-title="🇷🇺 Региональные", ТКР Рязань
 http://live-tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
@@ -498,14 +498,8 @@ http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://fix-rom.ucoz.com/iptv/img/mtv_music.png" group-title="🎧 Музыкальные",MTV Music
 http://login.lionboxtv.xyz:80/protoniom1201/wMLkbzV8dXCC/959
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logospng.org/download/mtv/logo-mtv-amarelo-1024.png" group-title="🎧 Музыкальные",MTV Global
-http://195.24.89.82:80/MTV_SD/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logospng.org/download/mtv/logo-mtv-amarelo-1024.png" group-title="🎧 Музыкальные",MTV Germany
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://logospng.org/download/mtv/logo-mtv-amarelo-1024.png" group-title="🎧 Музыкальные",MTV Classic
-http://mag.redmytv.com:80/78F8A7613222957/cG3OyRj8eI/116642
+
 #EXTINF:-1 tvg-id="mtv-dance" group-title="🎧 Музыкальные",MTV Club
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiODE5YTFiMDIiLCJwIjoiODE5YTFiMDI1ODJkYmYxNyIsImMiOiIyMzgiLCJ0IjoiMjdmMTQ3YzZjZjM5MDQ2NzlhNTM2MjU0NWI0NWIxYWMiLCJkIjoiNzAyOCIsInIiOiIxMDcwMjUiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjIuZm94LXR2LmZ1bjo4MDgwL210dmRhbmNlL3ZpZGVvLm0/video.m3u8
 
@@ -513,7 +507,7 @@ http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiODE5YTFiMDIiLCJwIjoiO
 http://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="mtv-live-hd" group-title="🎧 Музыкальные",MTV Live HD
-http://46.43.212.96:81/udp/239.254.2.201:1234
+http://158.101.214.187:8080/channel/55bf4f14/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 
 #EXTINF:-1 tvg-id="491" group-title="🎧 Музыкальные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png?20210624174116",MTV 00s
@@ -567,7 +561,7 @@ http://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 http://moobl.ru/iptv/Multimania.m3u8
 
 #EXTINF:-1 tvg-id="magic-disney" group-title="👶 Детские",Magic Disney HD
-http://46.43.212.96:81/udp/239.254.2.1:1234
+http://158.101.214.187:8080/channel/12b783b1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="gulli-girl" group-title="👶 Детские",Gulli Girl
 http://moobl.ru/iptv/Gulli_girl.m3u8
@@ -630,13 +624,13 @@ https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
 http://moobl.ru/iptv/Nickelodeon_hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://moobl.ru/iptv/img/nickelodeon-cee.png" group-title="👶 Детские", Nickelodeon CEE
-http://91.233.215.250:7272/DL3JGiEPHMCY4vy
+
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="👶 Детские", Nick JR
 https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
 
 #EXTINF:-1 tvg-id="nick-jr" audio-track="ru" group-title="👶 Детские", Nick Jr Scandinavia
-http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
+
 
 #EXTINF:-1 tvg-id="cartoon-network" group-title="👶 Детские",Cartoon Network
 https://ucdn.beetv.kz/btv/live/hls/000000015.m3u8
@@ -711,10 +705,9 @@ http://moobl.ru/iptv/TV_brics_hd.m3u8
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" group-title="🔎 Познавательные", Домашние животные
 http://cdn-lb.iptv2022.com/p/lcLB7P03MwnI5H1K473dhw,1686070927/streaming/homejivotnie/324/1/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🔎 Познавательные" tvg-logo="https://lapki.live/assets/header.png", Лапки Live
-http://46.43.212.96:81/udp/239.254.2.160:1234
+
 
 #EXTINF:-1 tvg-id="gakku" group-title="🎧 Музыкальные", Gakku
-https://sc.id-tv.kz/Gakku.m3u8
 
 #EXTINF:-1 tvg-id="matur-tv" group-title="🎧 Музыкальные", Матур ТВ
 http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
@@ -1230,7 +1223,7 @@ http://moobl.ru/iptv/Kapitan_Fantastika_hd.m3u8
 http://cdn-lb.iptv2022.com/p/XdwQwmNl68A_8xP6R1REIw,1674058896/streaming/anime_kids/324/1/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="jimjam" group-title="👶 Детские",Jim Jam
-http://46.43.212.96:81/udp/239.254.2.10:1234
+
 
 #EXTINF:-1 tvg-id="detsky" group-title="👶 Детские",Уникум
 http://moobl.ru/iptv/Unikum.m3u8
@@ -1341,10 +1334,10 @@ http://moobl.ru/iptv/Kino_24.m3u8
 
 
 #EXTINF:-1 tvg-id="vip-comedy-cee" group-title="📺 Фильмовые",Viasat Kino Comedy HD
-http://91.233.215.250:7272/5RqMvVnGzdoBQbf
+
 
 #EXTINF:-1 tvg-id="kinowood" group-title="📺 Фильмовые",Kinowood HD
-http://tv.lightiptv.cc/0fcb53d6b414bf6199f73a6fa17897ee/video.m3u8?token=birbhywyz9
+
 
 #EXTINF:-1 tvg-id="kinoxit" group-title="📺 Фильмовые",Кинохит
 http://moobl.ru/iptv/Kinohit.m3u8
@@ -1720,7 +1713,7 @@ http://moobl.ru/iptv/Kamedi_hd.m3u8
 http://158.101.214.187:8080/channel/n7f310de8/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="lubimoe-kino" group-title="📺 Фильмовые",Наше любимое
-http://91.233.215.250:7272/JS7lUbMstASMl0r
+
 
 #EXTINF:-1 tvg-id="kinojam1" group-title="📺 Фильмовые" ,Kinojam 1 HD
 http://158.101.214.187:8080/channel/376768e7/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
@@ -2067,11 +2060,11 @@ http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134089.ts
 
 
 #EXTINF:-1 tvg-id="bein-sports-1-pr" group-title="⚽️ Спортивные",BeIN Sports 1 Premium
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/91335
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/110876
 #EXTINF:-1 tvg-id="bein-sports-2-pr" group-title="⚽️ Спортивные",BeIN Sports 2 Premium
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/91337
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/110877
 #EXTINF:-1 tvg-id="bein-sports-3-pr" group-title="⚽️ Спортивные",BeIN Sports 3 Premium
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/14985
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/110878
 
 #EXTINF:-1 tvg-id="viasat-motor-hd" group-title="⚽️ Спортивные",V Sport Motor HD
 http://clientportal.link:80/reukj9wef729/Ky7tgG05/104643
