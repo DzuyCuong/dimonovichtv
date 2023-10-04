@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 01.10.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 03.10.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -1301,7 +1301,7 @@ http://moobl.ru/iptv/Start.m3u8
 http://moobl.ru/iptv/Start_HD.m3u8
 
 #EXTINF:-1 tvg-id="okko-sport" group-title="⚽️ Спортивные",Окко Спорт HD
-https://kinescope.io/204564915/master.m3u8
+http://158.101.214.187:8080/channel/79f180dd/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="start-triumf" group-title="⚽️ Спортивные" tvg-logo="https://moobl.ru/iptv/img/start-triumf.png",Старт Триумф
 http://moobl.ru/iptv/Start_Triumf_FHD.m3u8
@@ -1751,7 +1751,7 @@ https://hls.goodgame.ru/hls/192005.m3u8
 #EXTINF:-1 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://ritsatv.ru/files/poster/medium/700801.png",Sever TV Kino HD
 https://hls.goodgame.ru/hls/146065.m3u8
 #EXTINF:-1 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://static.goodgame.ru/files/avatars/av_1436027_vOPJ.jpg",Фантастика HD
-https://hls.goodgame.ru/hls/187241.m3u8
+http://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://downkindly.com/file/images/6d22eIxqa1DA6s_s8sBZArR7qpN0YAHwr3qIn70geF8Xwpe81Xw_I29teLF4mKNp-w.jpg",SCR TV HD
 https://hls.goodgame.ru/hls/61358.m3u8
 
@@ -2111,7 +2111,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="⚽️ Спортивные",Setanta Sports 2 HD
-http://moobl.ru/iptv/Setanta_sport_2_hd.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные" tvg-logo="http://moobl.ru/iptv/img/nhl-network.png",NHL Network HD
 http://60285145319604016.of0828.xyz:80/play/fe321720/XBc@Dx3TxcrU/604016.ts
