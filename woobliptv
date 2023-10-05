@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 03.10.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 04.10.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -17,6 +17,12 @@ http://cdn-lb.iptv2022.com/p/DLi6ZvNQX8TkoaL4yP6vLA,1688763608/streaming/1kanalp
 http://cdn-lb.iptv2022.com/p/cS7wWIq_icC3Ny_O6bVXng,1688763608/streaming/1kanalplus4/324/1/index.m3u8
 #EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy-pl6", Первый канал +6
 http://cdn-lb.iptv2022.com/p/prW4ZsCJskh9ohIOt5DExQ,1677041313/streaming/1kanalplus6/324/1/index.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy-kanal-csi", Первый канал СНГ
+https://tbs01-edge11.itdc.ge/ort/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy-kanal-eu", Первый канал Европа
+http://202.21.104.6:88/ort-tv/mono.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" group-title="🔅 Основные" tvg-logo="http://moobl.ru/iptv/img/rossiya-1.png", Россия 1
 http://moobl.ru/iptv/Russia_1.m3u8
@@ -47,7 +53,7 @@ http://bl.uma.media/live/312119/HLS/4614144_1/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="🔅 Основные", Матч! HD
 http://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="🔅 Основные" tvg-logo="http://moobl.ru/iptv/img/Match_ultra4k.png", Матч! Ультра 4K
-http://158.101.214.187:8080/channel/5235fe46/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/35d085f4/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="ntv" group-title="🔅 Основные" tvg-logo="http://moobl.ru/iptv/img/ntv.png", НТВ
 http://moobl.ru/iptv/NTV.m3u8
@@ -100,6 +106,9 @@ http://moobl.ru/iptv/OTR_HD.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="🔅 Основные", ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="tvci" group-title="🔅 Основные", ТВ Центр International
+https://tbs01-edge11.itdc.ge/tvc/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="rentv" group-title="🔅 Основные" tvg-logo="http://moobl.ru/iptv/img/rentv.png", РЕН ТВ
 http://moobl.ru/iptv/Rentv.m3u8
 #EXTINF:-1 tvg-id="rentv" group-title="🔅 Основные", РЕН ТВ HD
@@ -115,6 +124,9 @@ http://moobl.ru/iptv/Spas.m3u8
 http://moobl.ru/iptv/STS.m3u8
 #EXTINF:-1 tvg-id="sts" group-title="🔅 Основные", СТС HD
 http://moobl.ru/iptv/STS_hd.m3u8
+
+#EXTINF:-1 tvg-id="sts-int" group-title="🔅 Основные", СТС International
+https://tbs01-edge11.itdc.ge/ctctv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="domashny" group-title="🔅 Основные", Домашний
 http://moobl.ru/iptv/Domashniy.m3u8
@@ -449,6 +461,9 @@ http://moobl.ru/iptv/Novorussia_tv_hd.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://tk-union.tv/assets/components/union/logo_last.png", ТРК Юнион
 http://moobl.ru/iptv/TRK_union_hd.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://tavriatv.ru/wp-content/uploads/2022/08/logotip-new.png", Таврия ТВ
+https://tavr.mediacdn.ru/cdn/tavria/playlist_sdhigh.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://televizor24tochka.ru/logo/100/zatv.jpg", За!ТВ
 http://moobl.ru/iptv/Za_tv.m3u8
 
@@ -507,7 +522,7 @@ http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiODE5YTFiMDIiLCJwIjoiO
 http://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="mtv-live-hd" group-title="🎧 Музыкальные",MTV Live HD
-http://158.101.214.187:8080/channel/55bf4f14/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/55bf4f14/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 
 #EXTINF:-1 tvg-id="491" group-title="🎧 Музыкальные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png?20210624174116",MTV 00s
@@ -561,10 +576,10 @@ http://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 http://moobl.ru/iptv/Multimania.m3u8
 
 #EXTINF:-1 tvg-id="magic-disney" group-title="👶 Детские",Magic Disney HD
-http://158.101.214.187:8080/channel/12b783b1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/12b783b1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="" group-title="👶 Детские" tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png",Disney Channel
-http://158.101.214.187:8080/channel/n1044df2f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n1044df2f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="gulli-girl" group-title="👶 Детские",Gulli Girl
 http://moobl.ru/iptv/Gulli_girl.m3u8
@@ -822,6 +837,9 @@ http://moobl.ru/iptv/Russian_musicbox.m3u8
 
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="🎧 Музыкальные", Russian MusicBox HD
 http://moobl.ru/iptv/Russian_musicbox_hd.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🎧 Музыкальные", MusicBox
+https://tbs01-edge11.itdc.ge/musicbox/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="musicbox" group-title="🎧 Музыкальные", MusicBox Gold
 https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
@@ -1415,7 +1433,7 @@ http://moobl.ru/iptv/Scream_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15786/logo_256_1670420636.jpg" group-title="📺 Фильмовые",Horror TV
 http://cdn-lb.iptv2022.com/p/JO51zkFM_kuwr_Rlt-mHfQ,1696194010/streaming/horror_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="📺 Фильмовые",Страх HD
-https://hls.goodgame.ru/hls/202127.m3u8
+http://195.9.195.3:8080/hls/202127.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://i.ibb.co/L01G3Lj/EBy-BCZSQ17plk-VBHg-zr0-Ca-E0vl-ZVREajr-DUKVh-Hb-Fw7-T5-SRxovk-R5-Zq-Jf-G5d-Lp-Fff3-WDJQJGian-Zh1lys.jpg", MediaService Lorenz TV
@@ -1456,7 +1474,7 @@ http://moobl.ru/iptv/Comedy.m3u8
 http://moobl.ru/iptv/SciFi.m3u8
 
 #EXTINF:-1 tvg-id="premialnoe-hd" group-title="📺 Фильмовые",Премиальное HD
-http://158.101.214.187:8080/channel/n43a68ede/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n43a68ede/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" group-title="📺 Фильмовые",Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
@@ -1467,10 +1485,10 @@ http://moobl.ru/iptv/Pro_lyubov_hd.m3u8
 #EXTINF:-1 tvg-id="shokiruyushchee" group-title="📺 Фильмовые",Шокирующее HD
 http://moobl.ru/iptv/Shokiruyushcheye_HD.m3u8
 #EXTINF:-1 tvg-id="strashnoe-hd" group-title="📺 Фильмовые",Страшное HD
-http://158.101.214.187:8080/channel/42c15d29/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/42c15d29/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="romantichnoe-hd" group-title="📺 Фильмовые",Романтичное HD
-http://158.101.214.187:8080/channel/n40f9f8b3/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n40f9f8b3/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="kriminalnoe-hd" group-title="📺 Фильмовые", Криминальное HD
 http://46.17.46.31:2021/channel/n72eca47e/index.m3u8?q=979c4b71103103fb05dd9b99dc0ce5c8
@@ -1597,7 +1615,7 @@ http://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 http://moobl.ru/iptv/Russkiy_roman.m3u8
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="📺 Фильмовые", Русский роман HD
-http://158.101.214.187:8080/channel/n4f05c41e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n4f05c41e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="📺 Фильмовые", Русский детектив
 http://moobl.ru/iptv/Russkiy_detektiv.m3u8
@@ -1690,7 +1708,7 @@ http://moobl.ru/iptv/Hit_hd.m3u8
 http://moobl.ru/iptv/Blokbaster.m3u8
 
 #EXTINF:-1 tvg-id="blokbaster-hd" group-title="📺 Фильмовые",Блокбастер HD
-http://158.101.214.187:8080/channel/n5cacd48e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n5cacd48e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="kinopokaz" group-title="📺 Фильмовые",Кинопоказ
 http://moobl.ru/iptv/Kinopokaz.m3u8
@@ -1713,19 +1731,19 @@ http://moobl.ru/iptv/Kamedi.m3u8
 http://moobl.ru/iptv/Kamedi_hd.m3u8
 
 #EXTINF:-1 tvg-id="nashe-lubimoe-hd" group-title="📺 Фильмовые",Любимое HD
-http://158.101.214.187:8080/channel/n7f310de8/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n7f310de8/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="lubimoe-kino" group-title="📺 Фильмовые",Наше любимое
 http://ost.fox-tv.fun/kZW8ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI4MTlhMWIwMiIsInAiOiI4MTlhMWIwMjU4MmRiZjE3IiwiYyI6IjMyMyIsInQiOiIyN2YxNDdjNmNmMzkwNDY3OWE1MzYyNTQ1YjQ1YjFhYyIsImQiOiI3MDI4IiwiciI6IjEwNzAyNSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjIuZm94LXR2LmZ1bjo4MDgwL0x5dWJpbW95ZWtpbm8vdml/video.m3u8
 
 #EXTINF:-1 tvg-id="kinojam1" group-title="📺 Фильмовые" ,Kinojam 1 HD
-http://158.101.214.187:8080/channel/376768e7/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/376768e7/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="kinojam2" group-title="📺 Фильмовые" ,Kinojam 2 HD
-http://158.101.214.187:8080/channel/376768e8/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/376768e8/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="dushevnoe-hd" group-title="📺 Фильмовые",Душевное кино HD
-http://158.101.214.187:8080/channel/n5ceccf61/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n5ceccf61/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 tvg-id="trashtv" group-title="📺 Фильмовые",Trash
 http://moobl.ru/iptv/Trash.m3u8
 #EXTINF:-1 tvg-id="trashtv" group-title="📺 Фильмовые",Trash HD
@@ -1751,7 +1769,7 @@ https://hls.goodgame.ru/hls/192005.m3u8
 #EXTINF:-1 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://ritsatv.ru/files/poster/medium/700801.png",Sever TV Kino HD
 https://hls.goodgame.ru/hls/146065.m3u8
 #EXTINF:-1 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://static.goodgame.ru/files/avatars/av_1436027_vOPJ.jpg",Фантастика HD
-http://hls.goodgame.ru/hls/187241.m3u8
+http://195.9.195.3:8080/hls/187241.m3u8
 #EXTINF:-1 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://downkindly.com/file/images/6d22eIxqa1DA6s_s8sBZArR7qpN0YAHwr3qIn70geF8Xwpe81Xw_I29teLF4mKNp-w.jpg",SCR TV HD
 https://hls.goodgame.ru/hls/61358.m3u8
 
@@ -1808,150 +1826,150 @@ http://moobl.ru/iptv/Izvestia_hd.m3u8
 http://217.107.34.114:8006/playlist.m3u8
 
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="",BCU Action HD
-http://158.101.214.187:8080/channel/243d08/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/243d08/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Catastrophe HD
-http://158.101.214.187:8080/channel/n33de70aa/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n33de70aa/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Cinema HD
-http://158.101.214.187:8080/channel/53994a6d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/53994a6d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Cinema+ HD
-http://158.101.214.187:8080/channel/1f946de0/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/1f946de0/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Comedy HD
-http://158.101.214.187:8080/channel/n7279ce3b/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n7279ce3b/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Cosmo HD
-http://158.101.214.187:8080/channel/40cea0f1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/40cea0f1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Criminal HD
-http://158.101.214.187:8080/channel/8f2833b/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/8f2833b/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Fantastic HD
-http://158.101.214.187:8080/channel/666a21f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/666a21f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Filmystic HD
-http://158.101.214.187:8080/channel/743681ca/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/743681ca/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU History HD
-http://158.101.214.187:8080/channel/a63b266/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/a63b266/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Kids 4K
-http://158.101.214.187:8080/channel/11d70f8c/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/11d70f8c/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Kids HD
-http://158.101.214.187:8080/channel/11d711f1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/11d711f1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Kids+ HD
-http://158.101.214.187:8080/channel/290f96dc/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/290f96dc/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Kinorating HD
-http://158.101.214.187:8080/channel/728ba282/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/728ba282/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Kinozakaz HD
-http://158.101.214.187:8080/channel/4bb99a1c/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/4bb99a1c/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Marvel HD
-http://158.101.214.187:8080/channel/n309432e1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n309432e1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Marvel OLD
-http://158.101.214.187:8080/channel/1e0df244/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/1e0df244/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Premiere HD
-http://158.101.214.187:8080/channel/390e9e65/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/390e9e65/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Premiere Ultra 4K
-http://158.101.214.187:8080/channel/4c33e54/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/4c33e54/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Reality HD
-http://158.101.214.187:8080/channel/45087b2a/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/45087b2a/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Ruserial HD
-http://158.101.214.187:8080/channel/n197e6d9/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n197e6d9/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Russian HD
-http://158.101.214.187:8080/channel/485f7307/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/485f7307/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Stars HD
-http://158.101.214.187:8080/channel/n570e5d07/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n570e5d07/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Survival HD
-http://158.101.214.187:8080/channel/1f134280/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/1f134280/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU TruMotion HD
-http://158.101.214.187:8080/channel/3dada88d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/3dada88d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="",BCU Ultra 4K
-http://158.101.214.187:8080/channel/ne19fa97/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/ne19fa97/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU VHS HD
-http://158.101.214.187:8080/channel/2a44ded9/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/2a44ded9/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Кинозал Premiere 1 HD
-http://158.101.214.187:8080/channel/1669e7b7/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/1669e7b7/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Кинозал Premiere 2 HD
-http://158.101.214.187:8080/channel/166a5c16/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/166a5c16/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="",BCU Кинозал Premiere 3 HD
-http://158.101.214.187:8080/channel/166ad075/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/166ad075/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Кинозал СССР HD
-http://158.101.214.187:8080/channel/n7dff457e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n7dff457e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Мультсериал
-http://158.101.214.187:8080/channel/f7d7e03/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/f7d7e03/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0",BCU Романтика HD
-http://158.101.214.187:8080/channel/585a1a3/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/585a1a3/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" ,BCU Сваты HD
-http://158.101.214.187:8080/channel/n6f85f8ce/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n6f85f8ce/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 group-title="💠 Liberty",Liberty BBC HD
-http://158.101.214.187:8080/channel/4108708e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/4108708e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Disney HD
-http://158.101.214.187:8080/channel/4409cd0d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/4409cd0d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Marvel 4K
-http://158.101.214.187:8080/channel/5eae14e1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/5eae14e1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Netflix 4K
-http://158.101.214.187:8080/channel/49bdb2fc/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
 #EXTINF:-1 group-title="💠 Liberty",Liberty Pixar HD
-http://158.101.214.187:8080/channel/74a99dbb/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/74a99dbb/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty SouthPark HD
-http://158.101.214.187:8080/channel/n6ef468fe/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n6ef468fe/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty XX Век 4K
-http://158.101.214.187:8080/channel/n7ad87997/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n7ad87997/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Авто Гир HD
-http://158.101.214.187:8080/channel/n68a1448e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n68a1448e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Аниме HD
-http://158.101.214.187:8080/channel/47e9722f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/47e9722f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Бебимульт HD
-http://158.101.214.187:8080/channel/6df1654a/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/6df1654a/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Боевики HD
-http://158.101.214.187:8080/channel/n791b7ce9/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n791b7ce9/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Занавес HD
-http://158.101.214.187:8080/channel/352e4877/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/352e4877/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Индия 4K
-http://158.101.214.187:8080/channel/n207b6558/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n207b6558/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Кино Микс 4K
-http://158.101.214.187:8080/channel/79df9f8a/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/79df9f8a/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Комедии HD
-http://158.101.214.187:8080/channel/316ebd42/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/316ebd42/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Короткометражное HD
-http://158.101.214.187:8080/channel/n3bbcccb4/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n3bbcccb4/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Куб 4K
-http://158.101.214.187:8080/channel/nb4697ba/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/nb4697ba/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Легенда 4K
-http://158.101.214.187:8080/channel/617d3bf1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/617d3bf1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Мелодрамы HD
-http://158.101.214.187:8080/channel/n23ff1be/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n23ff1be/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty МиМ HD
-http://158.101.214.187:8080/channel/n7ace1f5/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n7ace1f5/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Микс Music HD
-http://158.101.214.187:8080/channel/19f8a0a1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/19f8a0a1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Мульт 4K
-http://158.101.214.187:8080/channel/n368b74bc/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n368b74bc/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Мульт ENG 4K
-http://158.101.214.187:8080/channel/n48bd489a/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n48bd489a/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Мульт UKR 4K
-http://158.101.214.187:8080/channel/n2d950518/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n2d950518/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Наука HD
-http://158.101.214.187:8080/channel/n34d7cd0f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n34d7cd0f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Планета360 HD
-http://158.101.214.187:8080/channel/n41346ff4/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n41346ff4/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Планктон HD
-http://158.101.214.187:8080/channel/574d0a69/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/574d0a69/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty РусФильм 4K
-http://158.101.214.187:8080/channel/4f4b45e7/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/4f4b45e7/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Семейный 4K
-http://158.101.214.187:8080/channel/n3ef5ef5f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n3ef5ef5f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Сериалы HD
-http://158.101.214.187:8080/channel/6861447f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/6861447f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Симпсоны HD
-http://158.101.214.187:8080/channel/469c25de/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/469c25de/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Сказки HD
-http://158.101.214.187:8080/channel/2bf6a0d7/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/2bf6a0d7/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Союз 4K
-http://158.101.214.187:8080/channel/fab50ba/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/fab50ba/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Триллер 4K
-http://158.101.214.187:8080/channel/n5018f717/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n5018f717/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Турк Фильм 4K
-http://158.101.214.187:8080/channel/n4471e072/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n4471e072/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Ужасы 4K
-http://158.101.214.187:8080/channel/n227076f9/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n227076f9/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Фан HD
-http://158.101.214.187:8080/channel/n6c50c544/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n6c50c544/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="💠 Liberty",Liberty Шоу HD
-http://158.101.214.187:8080/channel/7f808d78/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/7f808d78/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="1hd" group-title="🎧 Музыкальные", 1HD
 http://moobl.ru/iptv/1HD.m3u8
@@ -1959,8 +1977,8 @@ http://moobl.ru/iptv/1HD.m3u8
 #EXTINF:-1 tvg-id="mcm-top" group-title="🎧 Музыкальные", MCM Top
 http://moobl.ru/iptv/MCM_Top.m3u8
 
-#EXTINF:-1 tvg-id="mezzo" group-title="🎧 Музыкальные", Mezzo
-http://moobl.ru/iptv/Mezzo.m3u8
+#EXTINF:-1 tvg-id="mezzo" group-title="🎧 Музыкальные", Mezzo HD
+http://clientportal.link/iiViFgfcwY19/eGG25x30/16832
 
 #EXTINF:-1 tvg-id="mezzo-live-hd" group-title="🎧 Музыкальные", Mezzo Live
 http://moobl.ru/iptv/Mezzo_Live.m3u8
@@ -2091,7 +2109,7 @@ http://moobl.ru/iptv/Eurosport_1_hd.m3u8
 http://moobl.ru/iptv/Eurosport_2.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2-cee" group-title="⚽️ Спортивные",Eurosport 2 HD
-http://moobl.ru/iptv/Eurosport_2_hd.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные" tvg-logo="http://epg.do.am/logo2/redbull.png", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -2134,13 +2152,13 @@ http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/110877
 http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/110878
 
 #EXTINF:-1 tvg-id="viasat-motor-hd" group-title="⚽️ Спортивные",V Sport Motor HD
-http://clientportal.link:80/reukj9wef729/Ky7tgG05/104643
+http://clientportal.link/iiViFgfcwY19/eGG25x30/18228
 
 #EXTINF:-1 tvg-id="sky-arena" group-title="⚽️ Спортивные", Sky Sports Arena HD
 http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/98787
 
 #EXTINF:-1 tvg-id="sky-sports-f1" group-title="⚽️ Спортивные", Sky Sports F1 HD
-http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/98783
+http://clientportal.link/iiViFgfcwY19/eGG25x30/14656
 
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные", Sky Sports Premier League
 http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/98775
@@ -2322,11 +2340,11 @@ http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="h2" group-title="🔎 Познавательные", H2 HD
-http://158.101.214.187:8080/channel/n1a20de39/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n1a20de39/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 
 #EXTINF:-1 tvg-id="docubox-hd" group-title="🔎 Познавательные", DocuBox HD
-http://158.101.214.187:8080/channel/n6c84b887/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n6c84b887/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="curiosity-stream" group-title="🔎 Познавательные", Curiosity Stream HD
 http://moobl.ru/iptv/Curiosity_stream_hd.m3u8
@@ -2429,10 +2447,13 @@ http://cdn-lb.iptv2022.com/p/vz2VpViG2ZQnmQAnmTi9mA,1688590818/streaming/adventu
 https://tbs01-edge11.itdc.ge/history/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="poexali" group-title="🔎 Познавательные", Поехали!
-http://moobl.ru/iptv/Mama.m3u8
+http://moobl.ru/iptv/Poexali.m3u8
+
+#EXTINF:-1 tvg-id="poexali" group-title="🔎 Познавательные", Поехали! HD
+http://moobl.ru/iptv/Poexali_hd.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" group-title="🔎 Познавательные", 24 Техно
-http://moobl.ru/iptv/Poexali.m3u8
+http://moobl.ru/iptv/Texno_24.m3u8
 
 
 
@@ -3197,10 +3218,10 @@ http://portal.ott.pink/watch/207/mono.m3u8?geo=auto&token=CFEADF9789D77A45B3B359
 http://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 
 #EXTINF:-1 tvg-id="setanta-ua" group-title="🇺🇦 Украинское ТВ",Setanta Ukraine HD
-http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/55bea1f0/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="setanta-plus-ua" group-title="🇺🇦 Украинское ТВ",Setanta+ Украина HD
-http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/4eb18fdb/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 
 
@@ -3223,10 +3244,10 @@ http://185.235.187.10:8888/play/a06p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kvartal-tv" group-title="🇺🇦 Украинское ТВ", Квартал ТВ HD
-http://91.233.215.250:7272/c5otUOm2IubgpDn
+http://158.101.214.187:8080/channel/nc6e024c/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="filmua-drama" group-title="🇺🇦 Украинское ТВ", FilmUA Drama HD
-http://158.101.214.187:8080/channel/n34b424e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n34b424e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="xsport-ua" group-title="🇺🇦 Украинское ТВ", Xsport HD
 http://91.210.251.166:4858/udp/239.0.2.89:4000
@@ -3244,7 +3265,7 @@ http://149.5.17.34:20041/play/a05v
 #EXTINF:-1 tvg-id="otse" group-title="🇺🇦 Украинское ТВ", Оце
 http://185.235.187.10:8888/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="otse" group-title="🇺🇦 Украинское ТВ", Оце HD
-http://158.101.214.187:8080/channel/n62f1aa86/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://193.123.63.171:8080/channel/n62f1aa86/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="" group-title="🇺🇦 Украинское ТВ" tvg-logo="https://i.ibb.co/WWHXmnR/channels4-profile.jpg", FREEДОМ UA
 http://176.74.80.162:8099/UA/index.m3u8
@@ -3257,9 +3278,6 @@ http://portal.ott.pink/watch/7/mono.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE
 
 #EXTINF:-1 tvg-id="pravdatyt-kyiv" group-title="🇺🇦 Украинское ТВ", ПравдаТУТ Київ
 http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-
-#EXTINF:-1 tvg-id="maliatko-tv" group-title="🇺🇦 Украинское ТВ", Малятко TV
-http://185.235.187.10:8888/play/malyatko_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="piksel" group-title="🇺🇦 Украинское ТВ", Пиксель
 http://185.235.187.10:8888/play/pixel/index.m3u8
@@ -3285,7 +3303,7 @@ http://185.235.187.10:8888/play/m2/index.m3u8
 http://149.5.17.34:20041/play/a05m
 
 #EXTINF:-1 tvg-id="k2" group-title="🇺🇦 Украинское ТВ", К2
-http://91.146.94.234:10001/play/a054
+http://158.101.214.187:8080/channel/35ee8da3/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="niki-kids" group-title="🇺🇦 Украинское ТВ", Niki Kids HD
 https://ext.cdn.nashnet.tv/228.0.0.189/index.m3u8
@@ -3295,6 +3313,9 @@ https://ext.cdn.nashnet.tv/228.0.0.186/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇺🇦 Украинское ТВ",Nickelodeon UA
 https://ext.cdn.nashnet.tv/228.0.0.123/index.m3u8
+
+#EXTINF:-1 tvg-id="ntn-ua" group-title="🇺🇦 Украинское ТВ",НТН
+http://149.5.17.34:20041/play/a05i
 
 #EXTINF:-1 tvg-id="" group-title="🇺🇦 Украинское ТВ",Cartoon Network UA
 https://ext.cdn.nashnet.tv/228.0.0.76/index.m3u8
@@ -3311,3 +3332,6 @@ http://158.101.214.187:8080/channel/n3f6bc149/index.m3u8?q=103bce48d8fe1dcdb5781
 
 #EXTINF:-1 tvg-id="megogo-football-3" group-title="🇺🇦 Украинское ТВ",Megogo Футбол 3 HD
 http://158.101.214.187:8080/channel/n3f6bc148/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+#EXTINF:-1 tvg-id="megogo-football-3" group-title="🇺🇦 Украинское ТВ",Megogo Футбол 4 HD
+http://158.101.214.187:8080/channel/n3f6bc147/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
