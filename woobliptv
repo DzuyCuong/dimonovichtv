@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 05.10.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 07.10.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -1491,10 +1491,10 @@ http://moobl.ru/iptv/Pro_lyubov_hd.m3u8
 #EXTINF:-1 tvg-id="shokiruyushchee" group-title="📺 Фильмовые",Шокирующее HD
 http://moobl.ru/iptv/Shokiruyushcheye_HD.m3u8
 #EXTINF:-1 tvg-id="strashnoe-hd" group-title="📺 Фильмовые",Страшное HD
-http://193.123.63.171:8080/channel/42c15d29/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/42c15d29/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="romantichnoe-hd" group-title="📺 Фильмовые",Романтичное HD
-http://193.123.63.171:8080/channel/n40f9f8b3/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/22356a98/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="kriminalnoe-hd" group-title="📺 Фильмовые", Криминальное HD
 http://46.17.46.31:2021/channel/n72eca47e/index.m3u8?q=979c4b71103103fb05dd9b99dc0ce5c8
