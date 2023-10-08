@@ -85,8 +85,11 @@ http://moobl.ru/iptv/Russia_K.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="🔅 Основные", Россия 24
 http://moobl.ru/iptv/Russia_24.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-eu" group-title="🔅 Основные" tvg-logo="http://moobl.ru/iptv/img/rtr-planeta.png", РТР
-http://moobl.ru/iptv/RTR_Planeta.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-eu" group-title="🔅 Основные" tvg-logo="http://moobl.ru/iptv/img/rtr-planeta.png", РТР-Планета Европа
+http://moobl.ru/iptv/RTR_Planeta_Eu.m3u8
+
+#EXTINF:-1 tvg-id="rtr-planeta-amerika" group-title="🔅 Основные" tvg-logo="http://moobl.ru/iptv/img/rtr-planeta.png", РТР-Планета Америка
+http://moobl.ru/iptv/RTR_Planeta_USA.m3u8
 
 #EXTINF:-1 tvg-id="karusel" group-title="🔅 Основные", Карусель
 http://moobl.ru/iptv/Karusel.m3u8
@@ -95,7 +98,7 @@ http://moobl.ru/iptv/Karusel.m3u8
 
 
 #EXTINF:-1 tvg-id="karusel-int" group-title="🔅 Основные", Карусель Int
-
+http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="otr" group-title="🔅 Основные", ОТР
 http://moobl.ru/iptv/OTR.m3u8
@@ -205,8 +208,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/track_104_7cd61
 #EXTINF:-1 tvg-id="samara24" group-title="🇷🇺 Региональные", Самара 24
 http://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist_hdhigh.m3u8
 
-
-
 #EXTINF:-1 tvg-id="kavkaz24" group-title="🇷🇺 Региональные", Кавказ 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/2_93b61749/chunklist.m3u8
 
@@ -218,7 +219,8 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/track_101_26b8d2
 
 
 
-#EXTINF:-1 tvg-id="prim24" group-title="🇷🇺 Региональные",Прим 24 HD
+#EXTINF:-1 tvg-id="osetia-iryston" group-title="🇷🇺 Региональные",Осетия-Ирыстон HD
+http://cdn-lb.iptv2022.com/p/MrQTDFYTpzyjRpXiCEgTqw,1696788142/streaming/osetia-iryston/324/5/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ort-planeta-orenburg" group-title="🇷🇺 Региональные", ОРТ-Планета (Оренбург) HD
@@ -1641,6 +1643,9 @@ http://moobl.ru/iptv/Dorama.m3u8
 #EXTINF:-1 tvg-id="dorama" group-title="📺 Фильмовые", Дорама HD
 http://moobl.ru/iptv/Dorama_hd.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://operators.1tvch.ru/system/pic_folder/channels/logo_images/original/%D0%9B%D0%B0%D0%B2%D1%81%D1%82%D0%BE%D1%80%D0%B8_72.png?1695653538", Лавстори HD
+http://158.101.214.187:8080/channel/79847de2/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
 #EXTINF:-1 tvg-id="kino-tv" group-title="📺 Фильмовые",Кино ТВ
 http://moobl.ru/iptv/Kino_tv.m3u8
 
@@ -2253,9 +2258,6 @@ http://cdn-lb.iptv2022.com/p/-p1SMgaFO9mVI1IVzZHuzQ,1680809251/streaming/quadroh
 #EXTINF:-1 tvg-id="" group-title="🔎 Познавательные" tvg-logo="https://tv.mobistream.co.za/uploads/cache/channel_thumb/uploads/jpg/fc93c4557615bcee97ff9fcfa7231f1a.jpg", Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 tvg-id="myzen-tv" group-title="🔎 Познавательные",My Zen TV HD
-http://31.211.77.158:8000/play/a186/index.m3u8
-
 #EXTINF:-1 tvg-id="nasha-tema" group-title="🔎 Познавательные", Наша Тема
 http://live-1.otcnet.ru/nashatema1/tracks-v1a1/index.m3u8
 
@@ -2341,18 +2343,18 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="history-ru" group-title="🔎 Познавательные", History HD
-http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
+http://158.101.214.187:8080/channel/5c60e25c/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 
 #EXTINF:-1 tvg-id="h2" group-title="🔎 Познавательные", H2
 
 
 #EXTINF:-1 tvg-id="h2" group-title="🔎 Познавательные", H2 HD
-http://193.123.63.171:8080/channel/n1a20de39/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/n1a20de39/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 
 #EXTINF:-1 tvg-id="docubox-hd" group-title="🔎 Познавательные", DocuBox HD
-http://193.123.63.171:8080/channel/n6c84b887/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/n6c84b887/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="curiosity-stream" group-title="🔎 Познавательные", Curiosity Stream HD
 http://moobl.ru/iptv/Curiosity_stream_hd.m3u8
