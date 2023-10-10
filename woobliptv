@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg2.xml.gz"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 08.10.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 10.10.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -577,6 +577,9 @@ http://moobl.ru/iptv/Bridhe_tv_babytime.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://moobl.ru/iptv/img/supertoons.png" group-title="👶 Детские",Supertoons TV HD
 http://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="skyhigh-bunny" group-title="👶 Детские",BUNNY HD
+http://moobl.ru/iptv/Bunny_hd.m3u8
+
 #EXTINF:-1 tvg-id="multimania-lv" group-title="👶 Детские",Мультимания
 http://moobl.ru/iptv/Multimania.m3u8
 
@@ -585,6 +588,9 @@ http://193.123.63.171:8080/channel/12b783b1/index.m3u8?q=103bce48d8fe1dcdb5781d4
 
 #EXTINF:-1 tvg-id="" group-title="👶 Детские" tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png",Disney Channel
 http://158.101.214.187:8080/channel/n1044df2f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+#EXTINF:-1 tvg-id="disney-jr" group-title="👶 Детские" ,Disney Junior PL
+http://149.62.183.220:4100/stream/channelid/1470868700?profile=pass
 
 #EXTINF:-1 tvg-id="gulli-girl" group-title="👶 Детские",Gulli Girl
 http://moobl.ru/iptv/Gulli_girl.m3u8
@@ -1731,10 +1737,13 @@ http://moobl.ru/iptv/Nash_Kinopokaz.m3u8
 http://moobl.ru/iptv/Nashe_muzhskoe_hd.m3u8
 
 #EXTINF:-1 tvg-id="nashehd" group-title="📺 Фильмовые",Наше крутое HD
-http://moobl.ru/iptv/Nashe_krutoye_hd.m3u8
+http://158.101.214.187:8080/channel/37dadd2/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="kinoboevik-kz" group-title="📺 Фильмовые",КиноБоевик HD KZ
 https://ucdn.beetv.kz/btv/live/hls/000008490.m3u8
+
+#EXTINF:-1 tvg-id="premium-kino-kz" group-title="📺 Фильмовые",Премиум Кино KZ
+http://ucdn.beetv.kz/btv/live/hls/000008491.m3u8
 
 #EXTINF:-1 tvg-id="kamedi" group-title="📺 Фильмовые",Камеди
 http://moobl.ru/iptv/Kamedi.m3u8
@@ -1745,7 +1754,7 @@ http://moobl.ru/iptv/Kamedi_hd.m3u8
 http://158.101.214.187:8080/channel/3c16e46d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="lubimoe-kino" group-title="📺 Фильмовые",Наше любимое
-http://ost.fox-tv.fun/kZW8ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI4MTlhMWIwMiIsInAiOiI4MTlhMWIwMjU4MmRiZjE3IiwiYyI6IjMyMyIsInQiOiIyN2YxNDdjNmNmMzkwNDY3OWE1MzYyNTQ1YjQ1YjFhYyIsImQiOiI3MDI4IiwiciI6IjEwNzAyNSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjIuZm94LXR2LmZ1bjo4MDgwL0x5dWJpbW95ZWtpbm8vdml/video.m3u8
+http://moobl.ru/iptv/Nashe_lyubimoye.m3u8
 
 #EXTINF:-1 tvg-id="kinojam1" group-title="📺 Фильмовые" ,Kinojam 1 HD
 http://158.101.214.187:8080/channel/4d640b5e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
@@ -1838,70 +1847,71 @@ http://moobl.ru/iptv/Izvestia_hd.m3u8
 #EXTINF:-1 tvg-id="bcu-sssr" group-title="📽️ BCU",BCU СССР HD
 http://217.107.34.114:8006/playlist.m3u8
 
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-action" tvg-logo="http://moobl.ru/iptv/img/bcu-action.png",BCU Action HD
-http://193.123.63.171:8080/channel/7ff4a2d8/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-catastrophe" tvg-logo="http://moobl.ru/iptv/img/bcu-catastrophe.png",BCU Catastrophe HD
-http://193.123.63.171:8080/channel/6ab84b86/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-cinema" tvg-logo="http://moobl.ru/iptv/img/bcu-cinema.png",BCU Cinema HD
-http://193.123.63.171:8080/channel/n2c964fc3/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-cinemaplus" tvg-logo="http://moobl.ru/iptv/img/bcu-cinemaplus.png",BCU Cinema+ HD
-http://193.123.63.171:8080/channel/n662f3df0/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-comedy" tvg-logo="http://moobl.ru/iptv/img/bcu-comedy.png",BCU Comedy HD
-http://193.123.63.171:8080/channel/d569795/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" tvg-logo="http://moobl.ru/iptv/img/bcu-comedy.png",BCU Comedy OLD
-http://193.123.63.171:8080/channel/n62838972/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0",BCU Cosma OLD
-http://193.123.63.171:8080/channel/5810b574/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-cosmo" tvg-logo="http://moobl.ru/iptv/img/bcu-cosmo.png",BCU Cosmo HD
-http://193.123.63.171:8080/channel/55724121/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-criminal" tvg-logo="http://moobl.ru/iptv/img/bcu-criminal.png",BCU Criminal HD
-http://193.123.63.171:8080/channel/n29bf4af5/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-fantastic" tvg-logo="http://moobl.ru/iptv/img/bcu-fantastic.png",BCU Fantastic HD
-http://193.123.63.171:8080/channel/n1d2155b1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-filmystic" tvg-logo="http://moobl.ru/iptv/img/bcu-filmystic.png",BCU Filmystic HD
-http://193.123.63.171:8080/channel/50ae89fa/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-history" tvg-logo="http://moobl.ru/iptv/img/bcu-history.png",BCU History HD
-http://193.123.63.171:8080/channel/n7b5ff96a/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-kinorating" tvg-logo="http://moobl.ru/iptv/img/bcu-kinorating.png",BCU Kinorating HD
-http://193.123.63.171:8080/channel/2514a052/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-marvel" tvg-logo="http://moobl.ru/iptv/img/bcu-marvel.png",BCU Marvel HD
-http://193.123.63.171:8080/channel/4f3c32ef/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="" tvg-logo="http://moobl.ru/iptv/img/bcu-marvel.png",BCU Marvel OLD
-http://193.123.63.171:8080/channel/n67b5b98c/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-media" tvg-logo="http://moobl.ru/iptv/img/bcu-kinozakaz.png",BCU Media HD
-http://193.123.63.171:8080/channel/396844c6/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-kinozal-prem-1" tvg-logo="http://moobl.ru/iptv/img/bcu-kinozal-prem-1.png",BCU Premiere 1 HD
-http://193.123.63.171:8080/channel/n1da15bbc/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-kinozal-prem-2" tvg-logo="http://moobl.ru/iptv/img/bcu-kinozal-prem-2.png",BCU Premiere 2 HD
-http://193.123.63.171:8080/channel/n1da0e75d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-kinozal-prem-3" tvg-logo="http://moobl.ru/iptv/img/bcu-kinozal-prem-3.png",BCU Premiere 3 HD
-http://193.123.63.171:8080/channel/n1da072fe/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-premiere" tvg-logo="http://moobl.ru/iptv/img/bcu-premiere.png",BCU Premiere HD
-http://193.123.63.171:8080/channel/65cd035/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-ruserial" tvg-logo="http://moobl.ru/iptv/img/bcu-ruserial.png",BCU RUSerial HD
-http://193.123.63.171:8080/channel/n4605b909/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-reality" tvg-logo="http://moobl.ru/iptv/img/bcu-reality.png",BCU Reality HD
-http://193.123.63.171:8080/channel/n40bb30a6/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-romantic" tvg-logo="http://moobl.ru/iptv/img/bcu-romantic.png",BCU Romantic HD
-http://193.123.63.171:8080/channel/38775d3d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-romantic" tvg-logo="http://moobl.ru/iptv/img/bcu-romantic.png",BCU Romantic OLD
-http://193.123.63.171:8080/channel/n298b9a1a/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-russian" tvg-logo="http://moobl.ru/iptv/img/bcu-russian.png",BCU Russian HD
-http://193.123.63.171:8080/channel/n3d6438c9/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-stars" tvg-logo="http://moobl.ru/iptv/img/bcu-stars.png",BCU Stars HD
-http://193.123.63.171:8080/channel/n426abcd7/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-survival" tvg-logo="http://moobl.ru/iptv/img/bcu-survival.png",BCU Survival HD
-http://193.123.63.171:8080/channel/n139e8bb0/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-survival" tvg-logo="http://moobl.ru/iptv/img/bcu-survival.png",BCU Survival OLD
-http://193.123.63.171:8080/channel/n6032cecd/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-trumotion" tvg-logo="http://moobl.ru/iptv/img/bcu-trumotion.png",BCU TruMotion HD
-http://193.123.63.171:8080/channel/1a25b0bd/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-vhs" tvg-logo="http://moobl.ru/iptv/img/bcu-vhs-hd.png",BCU VHS HD
-http://193.123.63.171:8080/channel/n5d4d34f7/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-sssr" tvg-logo="http://moobl.ru/iptv/img/bcu-sssr.png",BCU СССР HD
-http://193.123.63.171:8080/channel/212d24cf/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📽️ BCU" tvg-shift="0" tvg-id="bcu-svaty" tvg-logo="http://moobl.ru/iptv/img/bcu-svaty.png",BCU Сваты HD
-http://193.123.63.171:8080/channel/n5ae2589e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+#EXTM3U
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-action"  tvg-logo="https://moobl.ru/iptv/img/bcu-action.png", BCU ACTION HD
+http://45.139.184.154:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-catastrophe"  tvg-logo="https://moobl.ru/iptv/img/bcu-catastrophe.png", BCU CATASTROPHE HD
+http://45.139.184.154:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-cinema"  tvg-logo="https://moobl.ru/iptv/img/bcu-cinema.png", BCU CINEMA HD
+http://45.139.184.154:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-cinemaplus"  tvg-logo="https://moobl.ru/iptv/img/bcu-cinemaplus.png", BCU CINEMA+ HD
+http://45.139.184.154:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-comedy"  tvg-logo="https://moobl.ru/iptv/img/bcu-comedy.png", BCU COMEDY
+http://45.139.184.154:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-cosmo"  tvg-logo="https://moobl.ru/iptv/img/bcu-cosmo.png", BCU COSMO HD
+http://45.139.184.154:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-criminal"  tvg-logo="https://moobl.ru/iptv/img/bcu-criminal.png", BCU CRIMINAL HD
+http://45.139.184.154:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-fantastic"  tvg-logo="https://moobl.ru/iptv/img/bcu-fantastic.png", BCU FANTASTIC HD
+http://45.139.184.154:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-filmystic"  tvg-logo="https://moobl.ru/iptv/img/bcu-filmystic.png", BCU FILMYSTIC HD
+http://45.139.184.154:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-history" tvg-logo="https://moobl.ru/iptv/img/bcu-history.png", BCU HISTORY HD
+http://45.139.184.154:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-kids-4k"  tvg-logo="https://moobl.ru/iptv/img/bcu-kids-4k.png", BCU KIDS 4K
+http://45.139.184.154:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-kids"  tvg-logo="https://moobl.ru/iptv/img/bcu-kids.png", BCU KIDS HD
+http://45.139.184.154:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-kids-plus"  tvg-logo="https://moobl.ru/iptv/img/bcu-kids-plus.png", BCU KIDS+ HD
+http://45.139.184.154:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-kinorating"  tvg-logo="https://moobl.ru/iptv/img/bcu-kinorating.png", BCU KINORATING HD
+http://45.139.184.154:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-media"  tvg-logo="https://moobl.ru/iptv/img/bcu-kinozakaz.png", BCU KINOZAKAZ HD
+http://45.139.184.154:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-premiere"  tvg-logo="https://moobl.ru/iptv/img/bcu-premiere-hd.png", BCU PREMIERE HD
+http://45.139.184.154:8000/play/30/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-premiere-4k"  tvg-logo="https://moobl.ru/iptv/img/bcu-premiere-4k.png", BCU PREMIERE ULTRA 4K
+http://45.139.184.154:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-reality"  tvg-logo="https://moobl.ru/iptv/img/bcu-reality.png", BCU REALITY HD
+http://45.139.184.154:8000/play/29/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-ruserial"  tvg-logo="https://moobl.ru/iptv/img/bcu-ruserial.png", BCU RUSERIAL HD
+http://45.139.184.154:8000/play/28/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-russian"  tvg-logo="https://moobl.ru/iptv/img/bcu-russian.png", BCU RUSSIAN HD
+http://45.139.184.154:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-stars" tvg-logo="https://moobl.ru/iptv/img/bcu-stars.png", BCU STARS HD
+http://45.139.184.154:8000/play/26/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-survival" tvg-logo="https://moobl.ru/iptv/img/bcu-survival.png", BCU SURVIVAL HD
+http://45.139.184.154:8000/play/25/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-trumotion" tvg-logo="https://moobl.ru/iptv/img/bcu-trumotion.png", BCU TRUMOTION HD
+http://45.139.184.154:8000/play/24/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-ultra4k" tvg-logo="https://moobl.ru/iptv/img/bcu-ultra4k.png", BCU ULTRA 4K
+http://45.139.184.154:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-vhs" tvg-logo="https://moobl.ru/iptv/img/bcu-vhs-hd.png", BCU VHS HD
+http://45.139.184.154:8000/play/22/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-kinozal-prem-1" tvg-logo="https://moobl.ru/iptv/img/bcu-kinozal-prem-1.png", BCU КИНОЗАЛ PREMIERE 1 HD
+http://45.139.184.154:8000/play/21/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-kinozal-prem-2" tvg-logo="https://moobl.ru/iptv/img/bcu-kinozal-prem-2.png", BCU КИНОЗАЛ PREMIERE 2 HD
+http://45.139.184.154:8000/play/20/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-kinozal-prem-3" tvg-logo="https://moobl.ru/iptv/img/bcu-kinozal-prem-3.png", BCU КИНОЗАЛ PREMIERE 3 HD
+http://45.139.184.154:8000/play/19/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-sssr" tvg-logo="https://moobl.ru/iptv/img/bcu-sssr-hd.png", BCU СССР HD
+http://45.139.184.154:8000/play/18/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-multserial" tvg-logo="https://moobl.ru/iptv/img/bcu-multserial.png", BCU МУЛЬТСЕРИАЛ
+http://45.139.184.154:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-romantic"  tvg-logo="https://moobl.ru/iptv/img/bcu-romantic.png", BCU ROMANTIC HD
+http://45.139.184.154:8000/play/17/index.m3u8
+#EXTINF:-1 group-title="📽️ BCU" tvg-id="bcu-svaty" tvg-logo="https://moobl.ru/iptv/img/bcu-svaty.png", BCU СВАТЫ
+http://45.139.184.154:8000/play/16/index.m3u8 
 
 
 #EXTINF:0 group-title="🌞 CineMan" tvg-rec="7" tvg-shift="0" tvg-id="cineman" tvg-logo="http://moobl.ru/iptv/img/cineman.png",CineMan
@@ -2457,7 +2467,7 @@ http://158.101.214.187:8080/channel/n1a20de39/index.m3u8?q=103bce48d8fe1dcdb5781
 
 
 #EXTINF:-1 tvg-id="docubox-hd" group-title="🔎 Познавательные", DocuBox HD
-http://158.101.214.187:8080/channel/n6c84b887/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://moobl.ru/iptv/Docubox_hd.m3u8
 
 #EXTINF:-1 tvg-id="curiosity-stream" group-title="🔎 Познавательные", Curiosity Stream HD
 http://moobl.ru/iptv/Curiosity_stream_hd.m3u8
@@ -3442,12 +3452,12 @@ http://91.210.251.166:4550/udp/239.0.2.30:4000
 http://91.210.251.166:4773/udp/239.0.20.46:4000
 
 #EXTINF:-1 tvg-id="megogo-football-1" group-title="🇺🇦 Украинское ТВ",Megogo Футбол 1 HD
-http://158.101.214.187:8080/channel/na9a3373/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/n39cd1422/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 tvg-id="megogo-football-2" group-title="🇺🇦 Украинское ТВ",Megogo Футбол 2 HD
-http://158.101.214.187:8080/channel/na9a3372/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/n39cd1421/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="megogo-football-3" group-title="🇺🇦 Украинское ТВ",Megogo Футбол 3 HD
-http://158.101.214.187:8080/channel/na9a3371/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/n39cd1420/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
-#EXTINF:-1 tvg-id="megogo-football-3" group-title="🇺🇦 Украинское ТВ",Megogo Футбол 4 HD
-http://158.101.214.187:8080/channel/na9a3370/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+#EXTINF:-1 tvg-id="megogo-gong" group-title="🇺🇦 Украинское ТВ",Megogo Гонг HD
+http://158.101.214.187:8080/channel/n7ac04a5d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
