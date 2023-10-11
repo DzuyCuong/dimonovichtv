@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg2.xml.gz"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 10.10.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 11.10.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -505,9 +505,8 @@ http://moobl.ru/iptv/Russky_sever_hd.m3u8
 http://moobl.ru/iptv/Rostov_papa_hd.m3u8
 
 
-#EXTINF:-1 tvg-id="doverie" group-title="📺 Фильмовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Москва. Доверие
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 tvg-id="doverie" group-title="📺 Фильмовые", Москва. Доверие
+http://moobl.ru/iptv/Moskva_doveriye.m3u8
 
 #EXTINF:-1 tvg-id="kaleydoskop-tv" group-title="🔅 Основные", Калейдоскоп ТВ
 http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/mono.m3u8
@@ -717,8 +716,11 @@ http://moobl.ru/iptv/STS_love.m3u8
 #EXTINF:-1 tvg-id="duo7lv" group-title="🏄 Развлекательные",Duo 7 LV HD
 http://89.254.128.5:22280/duo7_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🏄 Развлекательные" tvg-logo="https://www.tvrus.eu/wp-content/uploads/2020/08/tv_rus_channel_logos.png",TVRUS
+#EXTINF:-1 tvg-id="tv-rus" group-title="🏄 Развлекательные" tvg-logo="https://www.tvrus.eu/wp-content/uploads/2020/08/tv_rus_channel_logos.png",TVRUS
 http://87.120.142.8:12000/STS
+
+#EXTINF:-1 tvg-id="" group-title="🏄 Развлекательные" tvg-logo="https://www.tvrus.eu/wp-content/uploads/2020/08/tv_rus_channel_logos.png",TVRUS Plus
+http://87.120.142.8:12000/RTRPlaneta
 
 #EXTINF:-1 tvg-id="sochi-live" group-title="🏄 Развлекательные",Sochi Live HD
 http://serv30.vintera.tv:8081/sochilive_site/sochi_stream/playlist.m3u8
@@ -1258,7 +1260,7 @@ http://moobl.ru/iptv/Kapitan_Fantastika_hd.m3u8
 http://cdn-lb.iptv2022.com/p/XdwQwmNl68A_8xP6R1REIw,1674058896/streaming/anime_kids/324/1/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="jimjam" group-title="👶 Детские",Jim Jam
-http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjgxOWExYjAyIiwicCI6IjgxOWExYjAyNTgyZGJmMTciLCJjIjoiNTYxIiwidCI6IjI3ZjE0N2M2Y2YzOTA0Njc5YTUzNjI1NDViNDViMWFjIiwiZCI6IjcwMjgiLCJyIjoiMTA3MDI1IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjIuZm94LXR2LmZ1bjo4MDgwL2ppbWphbS92aWRlby5tM3U/video.m3u8
+http://moobl.ru/iptv/JimJam.m3u8
 
 #EXTINF:-1 tvg-id="detsky" group-title="👶 Детские",Уникум
 http://moobl.ru/iptv/Unikum.m3u8
@@ -1312,7 +1314,7 @@ http://moobl.ru/iptv/Skazki_zayki.m3u8
 http://moobl.ru/iptv/Sovetskiye_multfilmy.m3u8
 
 #EXTINF:-1 tvg-id="o_" group-title="👶 Детские",О!
-http://moobl.ru/iptv/O_.m3u8
+http://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
 
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="👶 Детские",Смайлик ТВ HD
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
@@ -2268,26 +2270,26 @@ https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 http://60285145319604016.of0828.xyz:80/play/fe321720/XBc@Dx3TxcrU/604016.ts
 
 #EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="digisport1",DIGI Sport 1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115685.ts
-#EXTINF:-1  group-title="⚽️ Спортивные" tvg-id="digisport2",DIGI Sport 2 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/111359.ts
+http://149.62.183.194:9293/play/a0bo
+#EXTINF:-1  group-title="⚽️ Спортивные" tvg-id="digisport2",DIGI Sport 2
+http://149.62.183.194:9293/play/a08m
 #EXTINF:-1  group-title="⚽️ Спортивные" tvg-id="digisport3",DIGI Sport 3
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134088.ts
+http://clientportal.link/iiViFgfcwY19/eGG25x30/14621
 #EXTINF:-1  group-title="⚽️ Спортивные" tvg-id="digisport4",DIGI Sport 4
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134089.ts
+http://149.62.183.194:9293/play/a08l
 
 
 #EXTINF:-1 tvg-id="viasat-motor-hd" group-title="⚽️ Спортивные",V Sport Motor HD
 http://clientportal.link/iiViFgfcwY19/eGG25x30/18228
 
 #EXTINF:-1 tvg-id="sky-arena" group-title="⚽️ Спортивные", Sky Sports Arena HD
-http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/98787
+http://553615947145627237.of23103.xyz:80/play/Diego626L/DiegoM121/627237.ts
 
 #EXTINF:-1 tvg-id="sky-sports-f1" group-title="⚽️ Спортивные", Sky Sports F1 HD
 http://clientportal.link/iiViFgfcwY19/eGG25x30/14656
 
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные", Sky Sports Premier League
-http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/98775
+http://553615947145301744.of23103.xyz:80/play/Diego626L/DiegoM121/301744.ts
 
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные", Sky Sports Main Event HD
 http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/98777
@@ -2456,14 +2458,14 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="history-ru" group-title="🔎 Познавательные", History HD
-http://158.101.214.187:8080/channel/5c60e25c/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+https://ucdn.beetv.kz/btv/live/hls/000001000.m3u8
 
 
 #EXTINF:-1 tvg-id="h2" group-title="🔎 Познавательные", H2
 
 
 #EXTINF:-1 tvg-id="h2" group-title="🔎 Познавательные", H2 HD
-http://158.101.214.187:8080/channel/n1a20de39/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
 
 
 #EXTINF:-1 tvg-id="docubox-hd" group-title="🔎 Познавательные", DocuBox HD
@@ -2898,7 +2900,7 @@ http://moobl.ru/iptv/Investigation_Discovery_hd.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="🔎 Познавательные", Nat Geo Wild
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="🔎 Познавательные", Nat Geo Wild HD
-http://91.233.215.250:7272/CBcyJCMYxKWHlWD
+https://ucdn.beetv.kz/btv/live/hls/000004474.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="🔎 Познавательные", National Geographic
 http://moobl.ru/iptv/National_Geographic.m3u8
@@ -3254,7 +3256,7 @@ https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 http://79.143.20.110:8000/play/a01b
 
 #EXTINF:-1 tvg-id="atameken-business" group-title="🇰🇿 Казахстанское ТВ", Atameken Business
-https://sc.id-tv.kz:443/Atameken.m3u8
+http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇰🇿 Казахстанское ТВ" tvg-logo="https://jjtv.kz/templates/gk_news/img/qazaqtv_default.png?v=2", Jibek Joly HD
 https://jjtv-stream.qazcdn.com/jjtv/jjtv/jjtv/jjtv_1080/chunks.m3u8
@@ -3283,19 +3285,19 @@ https://ucdn.beetv.kz/btv/live/hls/000000667.m3u8
 https://sc.id-tv.kz:443/QKinoAlem_34_35.m3u8
 
 #EXTINF:-1 tvg-id="el-arna" group-title="🇰🇿 Казахстанское ТВ",El Arna
-http://109.248.236.21:4433/udp/238.1.1.147:1234
+https://ucdn.beetv.kz/btv/live/hls/000000670.m3u8
 
 #EXTINF:-1 tvg-id="novoe-televidenie" group-title="🇰🇿 Казахстанское ТВ", Новое Телевидение 
 https://ucdn.beetv.kz/btv/live/hls/000001380.m3u8
  
 #EXTINF:-1 tvg-id="abaitv" group-title="🇰🇿 Казахстанское ТВ", Abai TV
-https://sc.id-tv.kz/AbaiTV.m3u8 
+https://ucdn.beetv.kz/btv/live/hls/000006116.m3u8 
 
 #EXTINF:-1 tvg-id="toy-duman" group-title="🇰🇿 Казахстанское ТВ",Той Думан
-https://sc.id-tv.kz/ToiDuman.m3u8 
+https://ucdn.beetv.kz/btv/live/hls/000002936.m3u8 
 
 #EXTINF:-1 tvg-id="" group-title="🇰🇿 Казахстанское ТВ",Туран ТВ
-https://sc.id-tv.kz:443/TuranTV_34_35.m3u8
+http://109.248.236.21:4433/udp/238.1.1.61:1234
 
 #EXTINF:-1 tvg-id="kazsport" group-title="🇰🇿 Казахстанское ТВ",QazSport HD
 http://109.248.236.21:4433/udp/238.1.1.116:1234
