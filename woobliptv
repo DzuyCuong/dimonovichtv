@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg2.xml.gz"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 11.10.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 12.10.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
-http://moobl.ru/uploads/public_files/2023-08/tatyana_kurtukova_-_matushka_74861522.mp3
+https://moobl.ru/GRILLYAZH%20-%20%D0%92%D0%AB%D0%94%D0%AB%D0%A5%D0%90%D0%99.mp3
 
 #EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy" tvg-logo="http://moobl.ru/iptv/img/pervy_kanal.png", Первый канал
 http://moobl.ru/iptv/1_tv.m3u8
@@ -472,6 +472,9 @@ http://moobl.ru/iptv/Za_tv.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ea/%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA_24.jpg/revision/latest?cb=20180120125952&path-prefix=ru", Луганск 24
 http://moobl.ru/iptv/Lugansk_24.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ea/%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA_24.jpg/revision/latest?cb=20180120125952&path-prefix=ru", Луганск 24 HD
+http://moobl.ru/iptv/Lugansk_24_hd.m3u8
+
 #EXTINF:-1 tvg-id="pervy-yaroslavsky" group-title="🇷🇺 Региональные", Первый Ярославский HD
 http://moobl.ru/iptv/Pervy_yaroslavsky_hd.m3u8
 
@@ -586,7 +589,7 @@ http://moobl.ru/iptv/Multimania.m3u8
 http://193.123.63.171:8080/channel/12b783b1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="" group-title="👶 Детские" tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png",Disney Channel
-http://158.101.214.187:8080/channel/n1044df2f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.194.132:8888/channel/n1044df2f/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
 
 #EXTINF:-1 tvg-id="disney-jr" group-title="👶 Детские" ,Disney Junior PL
 http://149.62.183.220:4100/stream/channelid/1470868700?profile=pass
@@ -727,6 +730,9 @@ http://serv30.vintera.tv:8081/sochilive_site/sochi_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mir-24" group-title="🔅 Основные", МИР 24 HD
 http://moobl.ru/iptv/MIR_24_hd.m3u8
+
+#EXTINF:-1 tvg-id="hgtv" group-title="🔎 Познавательные",HGTV HD
+http://ronaldo.tvfor.pro/Yruo3gNfJGkW/39i17a12k12ew3b70s2w65lr
 
 #EXTINF:-1 tvg-id="usadba" group-title="🔎 Познавательные", Усадьба
 http://moobl.ru/iptv/Usadba.m3u8
@@ -1845,6 +1851,12 @@ http://moobl.ru/iptv/Izvestia.m3u8
 
 #EXTINF:-1 tvg-id="izvestia" group-title="🔅 Основные",Известия HD
 http://moobl.ru/iptv/Izvestia_hd.m3u8
+
+#EXTINF:-1 tvg-id="ostwest" group-title="🔅 Основные",OstWest
+http://158.101.194.132:8888/channel/26c77955/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+
+#EXTINF:-1 tvg-id="" group-title="🔅 Основные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/OstWest_logo.png?20190222084247",OstWest 24
+http://95.67.12.82:9077
 
 #EXTINF:-1 tvg-id="bcu-sssr" group-title="📽️ BCU",BCU СССР HD
 http://217.107.34.114:8006/playlist.m3u8
