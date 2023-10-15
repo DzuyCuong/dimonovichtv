@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg2.xml.gz"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 13.10.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 14.10.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -587,8 +587,8 @@ http://moobl.ru/iptv/Multimania.m3u8
 #EXTINF:-1 tvg-id="magic-disney" group-title="👶 Детские",Magic Disney HD
 http://193.123.63.171:8080/channel/12b783b1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
-#EXTINF:-1 tvg-id="" group-title="👶 Детские" tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png",Disney Channel
-http://158.101.194.132:8888/channel/n1044df2f/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 tvg-id="" group-title="👶 Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Disney_Channel_Russia.png/1600px-Disney_Channel_Russia.png?20210630231931",Disney Channel
+http://149.62.183.194:9293/play/a0dt
 
 #EXTINF:-1 tvg-id="disney-jr" group-title="👶 Детские" ,Disney Junior PL
 http://149.62.183.220:4100/stream/channelid/1470868700?profile=pass
@@ -1404,7 +1404,7 @@ http://moobl.ru/iptv/Kinosemya_hd.m3u8
 
 
 #EXTINF:-1 tvg-id="kinosvidanie" group-title="📺 Фильмовые",Киносвидание
-http://158.101.214.187:8080/channel/n7028860/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://moobl.ru/iptv/Kinosvidanie.m3u8
 
 #EXTINF:-1 tvg-id="kinosvidanie" group-title="📺 Фильмовые",Киносвидание HD
 http://moobl.ru/iptv/Kinosvidanie_hd.m3u8
@@ -2293,7 +2293,7 @@ http://553615947145627237.of23103.xyz:80/play/Diego626L/DiegoM121/627237.ts
 http://clientportal.link/iiViFgfcwY19/eGG25x30/14656
 
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные", Sky Sports Premier League
-http://553615947145301744.of23103.xyz:80/play/Diego626L/DiegoM121/301744.ts
+http://clientportal.link:80/1uEkqy319/XE4QUg813/14742
 
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные", Sky Sports Main Event HD
 http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/98777
@@ -2905,7 +2905,7 @@ http://45.159.74.13:80/NatGeoWild/tracks-v1a1/index.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000004474.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="🔎 Познавательные", National Geographic
-http://moobl.ru/iptv/National_Geographic.m3u8
+http://91.210.251.166:4577/udp/239.0.1.24:4000
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="🔎 Познавательные", National Geographic HD
 https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
@@ -3432,13 +3432,13 @@ http://185.235.187.10:8888/play/m2/index.m3u8
 http://91.210.251.166:4506/udp/239.0.2.37:4000
 
 #EXTINF:-1 tvg-id="k2" group-title="🇺🇦 Украинское ТВ", К2
-http://158.101.214.187:8080/channel/35ee8da3/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://91.210.251.166:4556/udp/239.0.2.38:4000
 
 #EXTINF:-1 tvg-id="niki-kids" group-title="🇺🇦 Украинское ТВ", Niki Kids HD
-https://ext.cdn.nashnet.tv/228.0.0.189/index.m3u8
+http://91.210.251.166:4636/udp/239.0.3.10:4000
 
 #EXTINF:-1 tvg-id="niki-junior" group-title="🇺🇦 Украинское ТВ", Niki Junior HD
-https://ext.cdn.nashnet.tv/228.0.0.186/index.m3u8
+http://91.210.251.166:4864/udp/239.0.3.9:4000
 
 #EXTINF:-1 tvg-id="" group-title="🇺🇦 Украинское ТВ",Nickelodeon UA
 https://ext.cdn.nashnet.tv/228.0.0.123/index.m3u8
