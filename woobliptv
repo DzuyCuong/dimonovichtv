@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg2.xml.gz"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 16.10.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 17.10.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -585,7 +585,7 @@ http://moobl.ru/iptv/Bunny_hd.m3u8
 http://moobl.ru/iptv/Multimania.m3u8
 
 #EXTINF:-1 tvg-id="magic-disney" group-title="👶 Детские",Magic Disney HD
-http://193.123.63.171:8080/channel/12b783b1/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://pl.iptv.monster/play/6680/5416F3BDBAB456F/video.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="👶 Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Disney_Channel_Russia.png/1600px-Disney_Channel_Russia.png?20210630231931",Disney Channel
 http://149.62.183.194:9293/play/a0dt
@@ -687,6 +687,9 @@ http://moobl.ru/iptv/Solnce.m3u8
 
 #EXTINF:-1 tvg-id="detsky-mir" group-title="👶 Детские", Детский Мир
 http://moobl.ru/iptv/Detsky_mir.m3u8
+
+#EXTINF:-1 tvg-id="detsky-mir" group-title="👶 Детские", Детский Мир HD
+http://moobl.ru/iptv/Detsky_mir_hd.m3u8
 
 #EXTINF:-1 tvg-id="super" group-title="🏄 Развлекательные", Суббота
 http://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
@@ -827,7 +830,7 @@ http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 http://158.101.214.187:8080/channel/1acd8e8f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="zhivi" group-title="⚽️ Спортивные",ЖИВИ HD
-
+http://moobl.ru/iptv/Jivi.m3u8
 
 #EXTINF:-1 tvg-id="match-premier" group-title="⚽️ Спортивные",Матч Премьер
 http://bl.uma.media/live/126866/HLS/6866944_2/2/1/playlist.m3u8
@@ -845,7 +848,7 @@ http://moobl.ru/iptv/STS_Kids_hd.m3u8
 http://moobl.ru/iptv/Boks_tv.m3u8
 
 #EXTINF:-1 tvg-id="box-tv" group-title="⚽️ Спортивные",БОКС ТВ HD
-
+http://moobl.ru/iptv/Boks_tv_hd.m3u8
 
 #EXTINF:-1 tvg-id="sila" group-title="⚽️ Спортивные",Сила HD
 https://d12a2vxqkkh1bo.cloudfront.net/hls/720phi/playlist.m3u8
@@ -929,7 +932,7 @@ http://moobl.ru/iptv/Black.m3u8
 http://moobl.ru/iptv/Red.m3u8
 
 #EXTINF:-1 tvg-id="sony-tv" group-title="🏄 Развлекательные",.red HD
-
+http://31.211.77.158:8000/play/a098/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15569/logo_256_1668760387.png" group-title="🏄 Развлекательные",Anime TV HD
 http://cdn-lb.iptv2022.com/p/bgjuNomIF2zarb7YPuaqvg,1695821188/streaming/anime_tv/324/1/index.m3u8
@@ -982,7 +985,8 @@ http://live-3.otcnet.ru/wfcrusmulti/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="🏄 Развлекательные",Загородная Жизнь
 http://moobl.ru/iptv/Zagorodnaya_zhizn.m3u8
-
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="🏄 Развлекательные",Загородная Жизнь HD
+http://ucdn.beetv.kz/btv/live/hls/000000289.m3u8
 #EXTINF:-1 tvg-id="novy-mir" group-title="🏄 Развлекательные",Новый мир HD
 http://moobl.ru/iptv/Novy_mir.m3u8
 
@@ -1012,7 +1016,7 @@ http://cdn-lb.iptv2022.com/p/DWRaVoWMjp53HD9I1xgFdw,1686430817/streaming/o2tv/32
 http://ucdn.beetv.kz/btv/live/hls/000004365.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disnick/images/7/76/Teen_Nick_Logo.png" group-title="👶 Детские",TeenNick PL
-
+http://194.145.202.71:8087/udp/239.254.1.54:6060
 
 
 #EXTINF:-1 tvg-id="fanhd" group-title="👶 Детские",FAN
@@ -1340,6 +1344,9 @@ http://moobl.ru/iptv/Start_HD.m3u8
 
 #EXTINF:-1 tvg-id="okko-sport" group-title="⚽️ Спортивные",Окко Спорт HD
 http://158.101.214.187:8080/channel/79f180dd/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+#EXTINF:-1 tvg-id="okko-sport" group-title="⚽️ Спортивные",Окко Спорт HD
+http://tv2.skaztv.online:34002/36/tracks-v1a1/mono.m3u8?token=xJI5DVMjmrTRP2
 
 #EXTINF:-1 tvg-id="start-triumf" group-title="⚽️ Спортивные" tvg-logo="https://moobl.ru/iptv/img/start-triumf.png",Старт Триумф
 http://moobl.ru/iptv/Start_Triumf_FHD.m3u8
@@ -1675,13 +1682,15 @@ http://moobl.ru/iptv/Sapfir_hd.m3u8
 
 
 #EXTINF:-1 tvg-id="fox" group-title="📺 Фильмовые", Fox
-
+http://moobl.ru/iptv/Fox.m3u8
 
 #EXTINF:-1 tvg-id="fox" group-title="📺 Фильмовые", Fox HD
 https://ucdn.beetv.kz/btv/live/hls/000004472.m3u8
 
+#EXTINF:-1 tvg-id="foxlife" group-title="📺 Фильмовые", Fox Life
+http://moobl.ru/iptv/Fox_Life.m3u8
 #EXTINF:-1 tvg-id="foxlife" group-title="📺 Фильмовые", Fox Life HD
-https://ucdn.beetv.kz/btv/live/hls/000004471.m3u8
+http://moobl.ru/iptv/Fox_Life_HD.m3u8
 
 #EXTINF:-1 tvg-id="backustv" group-title="📺 Фильмовые",BACKUS TV
 https://stream.backustv.ru/live/btv/index.m3u8
@@ -1954,30 +1963,86 @@ http://158.101.194.132:8888/channel/3e98bfb4/index.m3u8?q=f601bfe6ca637f5e7f8b0c
 #EXTINF:0 group-title="🌞 CineMan" tvg-rec="7" tvg-shift="0" tvg-id="hlsproxy-100315" tvg-logo="http://moobl.ru/iptv/img/cineman-uzhasy.png",CineMan Ужасы
 http://158.101.194.132:8888/channel/5fa11651/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
 
-#EXTINF:-1 group-title="💠 Liberty" tvg-logo="http://62.84.100.7/icon/1741.png" tvg-shift="0",Liberty DC HD
-http://158.101.194.132:8888/channel/n7121f8b3/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 group-title="💠 Liberty" tvg-logo="http://62.84.100.7/icon/1574.png" tvg-shift="0",Liberty Fan HD
-http://158.101.194.132:8888/channel/52163439/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 group-title="💠 Liberty" tvg-logo="http://62.84.100.7/icon/2341.png" tvg-shift="0",Liberty Plankton HD
-http://158.101.194.132:8888/channel/n54272d45/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 group-title="💠 Liberty" tvg-logo="http://62.84.100.7/icon/1761.png" tvg-shift="0",Liberty Аниме HD
-http://158.101.194.132:8888/channel/n63f786d8/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 group-title="💠 Liberty" tvg-logo="http://62.84.100.7/icon/1749.png" tvg-shift="0",Liberty Боевики HD
-http://158.101.194.132:8888/channel/3c6f8100/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 group-title="💠 Liberty" tvg-logo="http://62.84.100.7/icon/1760.png" tvg-shift="0",Liberty Занавес HD
-http://158.101.194.132:8888/channel/n5ad86bc6/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 group-title="💠 Liberty" tvg-logo="http://62.84.100.7/icon/1754.png" tvg-shift="0",Liberty Комедии HD
-http://158.101.194.132:8888/channel/41efd575/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 group-title="💠 Liberty" tvg-logo="http://62.84.100.7/icon/1745.png" tvg-shift="0",Liberty Короткометражный HD
-http://158.101.194.132:8888/channel/6f634d62/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 group-title="💠 Liberty" tvg-logo="http://62.84.100.7/icon/1748.png" tvg-shift="0",Liberty Мелодрамы HD
-http://158.101.194.132:8888/channel/700dca35/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 group-title="💠 Liberty" tvg-logo="http://62.84.100.7/icon/1752.png" tvg-shift="0",Liberty Сваты HD
-http://158.101.194.132:8888/channel/2ecfb064/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 group-title="💠 Liberty" tvg-logo="http://62.84.100.7/icon/1755.png" tvg-shift="0",Liberty Сериалы HD
-http://158.101.194.132:8888/channel/nedf0d68/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 group-title="💠 Liberty" tvg-logo="http://62.84.100.7/icon/1762.png" tvg-shift="0",Liberty Шоу HD
-http://158.101.194.132:8888/channel/2a760aff/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty BBC HD
+http://158.101.194.132:8888/channel/2b635eb0/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty DC HD
+http://158.101.194.132:8888/channel/6cdd48e6/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Disney HD
+http://158.101.194.132:8888/channel/n716b09af/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Marvel 4K
+http://158.101.194.132:8888/channel/5eae14e1/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Netflix 4K
+http://158.101.194.132:8888/channel/49bdb2fc/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Pixar HD
+http://158.101.194.132:8888/channel/n47ea81d/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty SouthPark HD
+http://158.101.194.132:8888/channel/n14186644/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty XX Век 4K
+http://158.101.194.132:8888/channel/n7ad87997/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Авто Гир HD
+http://158.101.194.132:8888/channel/1566274c/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Аниме HD
+http://158.101.194.132:8888/channel/n5884db11/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Бебимульт HD
+http://158.101.194.132:8888/channel/7f6ae274/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Боевики HD
+http://158.101.194.132:8888/channel/35e65707/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Занавес  HD
+http://158.101.194.132:8888/channel/352e4877/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Индия 4K
+http://158.101.194.132:8888/channel/n207b6558/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Кино UKR 4K
+http://158.101.194.132:8888/channel/1ed96665/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Комедии HD
+http://158.101.194.132:8888/channel/3b66ab7c/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Короткометражное HD
+http://158.101.194.132:8888/channel/n3379b3ce/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Куб 4K
+http://158.101.194.132:8888/channel/nb4697ba/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0" tvg-id="hlsproxy-100556",Liberty Легенда 4K
+http://158.101.194.132:8888/channel/617d3bf1/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Мелодрамы HD
+http://158.101.194.132:8888/channel/n18d8c584/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0" tvg-id="hlsproxy-100554",Liberty МиМ HD
+http://158.101.194.132:8888/channel/n881726d/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Микс Music HD
+http://158.101.194.132:8888/channel/7473603d/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Мульт 4K
+http://158.101.194.132:8888/channel/n368b74bc/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Мульт ENG 4K
+http://158.101.194.132:8888/channel/n48bd489a/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Мульт UKR 4K
+http://158.101.194.132:8888/channel/n2d950518/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0" tvg-id="hlsproxy-100553",Liberty Наука HD
+http://158.101.194.132:8888/channel/50e043ed/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Планета360 HD
+http://158.101.194.132:8888/channel/n1ae0a88e/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Планктон HD
+http://158.101.194.132:8888/channel/n2679628b/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty РусФильм 4K
+http://158.101.194.132:8888/channel/4f4b45e7/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Сваты HD
+http://158.101.194.132:8888/channel/3a425c2b/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Семейный 4K
+http://158.101.194.132:8888/channel/n3ef5ef5f/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Сериалы HD
+http://158.101.194.132:8888/channel/n15683761/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Симпсоны HD
+http://158.101.194.132:8888/channel/54dbbf60/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0" tvg-id="hlsproxy-100552",Liberty Сказки HD
+http://158.101.194.132:8888/channel/3b398147/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0" tvg-id="hlsproxy-100555",Liberty Союз 4K
+http://158.101.194.132:8888/channel/fab50ba/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Триллер 4K
+http://158.101.194.132:8888/channel/n5018f717/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0" tvg-id="hlsproxy-100551",Liberty Турк Фильм 4K
+http://158.101.194.132:8888/channel/n4471e072/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Ужасы 4K
+http://158.101.194.132:8888/channel/n227076f9/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Фан HD
+http://158.101.194.132:8888/channel/4c396c2/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="💠 Liberty" tvg-shift="0",Liberty Шоу HD
+http://158.101.194.132:8888/channel/c5efc86/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
 
 #EXTINF:-1 tvg-id="1hd" group-title="🎧 Музыкальные", 1HD
 http://moobl.ru/iptv/1HD.m3u8
@@ -2108,16 +2173,15 @@ http://bl.uma.media/live/126869/HLS/6866944_2/2/1/playlist.m3u8
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1-cee" group-title="⚽️ Спортивные",Eurosport 1
-http://91.196.39.252:4000/play/a01e
-
-#EXTINF:-1 tvg-id="eurosport1-cee" group-title="⚽️ Спортивные",Eurosport 1 HD
 https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1-cee" group-title="⚽️ Спортивные",Eurosport 2
-http://91.196.39.252:4000/play/a01g
+#EXTINF:-1 tvg-id="eurosport1-cee" group-title="⚽️ Спортивные",Eurosport 1 HD
+http://moobl.ru/iptv/Eurosport_1_hd.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2-cee" group-title="⚽️ Спортивные",Eurosport 2 HD
+#EXTINF:-1 tvg-id="eurosport1-cee" group-title="⚽️ Спортивные",Eurosport 2
 https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
+#EXTINF:-1 tvg-id="eurosport2-cee" group-title="⚽️ Спортивные",Eurosport 2 HD
+http://moobl.ru/iptv/Eurosport_2_hd.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные" tvg-logo="http://epg.do.am/logo2/redbull.png", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -2472,7 +2536,7 @@ https://ucdn.beetv.kz/btv/live/hls/000001478.m3u8
 http://158.101.214.187:8080/channel/1b2cd43c/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="nauka" group-title="🔎 Познавательные", Наука 2.0 HD
-http://158.101.214.187:8080/channel/65ce7360/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://moobl.ru/iptv/Nauka_20_hd.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🔎 Познавательные" tvg-logo="https://assets.iptv2022.com/static/channel/10480/logo_128_1652790001.png",ТВ Экстра HD
 
