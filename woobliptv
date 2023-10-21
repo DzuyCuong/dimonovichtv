@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg2.xml.gz"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 19.10.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 20.10.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -95,7 +95,7 @@ http://moobl.ru/iptv/RTR_Planeta_USA.m3u8
 http://moobl.ru/iptv/Karusel.m3u8
 
 #EXTINF:-1 tvg-id="karusel" group-title="🔅 Основные", Карусель HD
-
+http://moobl.ru/iptv/Karusel_hd.m3u8
 
 #EXTINF:-1 tvg-id="karusel-int" group-title="🔅 Основные", Карусель Int
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
@@ -686,7 +686,7 @@ http://moobl.ru/iptv/Ani.m3u8
 http://moobl.ru/iptv/Mult.m3u8
 
 #EXTINF:-1 tvg-id="mult" group-title="👶 Детские", Мульт HD
-http://158.101.214.187:8080/channel/n219d42e4/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://moobl.ru/iptv/Mult_hd.m3u8
 
 #EXTINF:-1 tvg-id="solnce" group-title="👶 Детские", Солнце
 http://moobl.ru/iptv/Solnce.m3u8
@@ -1499,7 +1499,7 @@ http://moobl.ru/iptv/Comedy.m3u8
 http://moobl.ru/iptv/SciFi.m3u8
 
 #EXTINF:-1 tvg-id="premialnoe-hd" group-title="📺 Фильмовые",Премиальное HD
-http://158.101.214.187:8080/channel/nfe1cb5d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" group-title="📺 Фильмовые",Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
@@ -2648,7 +2648,7 @@ http://45.159.74.13:80/NatGeoWild/tracks-v1a1/index.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000004474.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="🔎 Познавательные", National Geographic
-http://91.210.251.166:4577/udp/239.0.1.24:4000
+http://moobl.ru/iptv/National_Geographic.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="🔎 Познавательные", National Geographic HD
 https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
