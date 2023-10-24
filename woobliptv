@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 22.10.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 23.10.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -884,8 +884,12 @@ http://moobl.ru/iptv/Song_tv_russia_hd.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎧 Музыкальные" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/df/ae/2ddfae21-9e5c-1ae8-0806-b74a895e2b05/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.webp", Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🎧 Музыкальные" tvg-logo="https://online-red.com/images/tv/rockland-tv.png", Rockland Radio TV HD
+#EXTINF:-1 tvg-id="" group-title="🎧 Музыкальные" tvg-logo="http://moobl.ru/iptv/img/rockland_logo.png", Rockland Radio TV HD
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w351733131_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🎧 Музыкальные" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png", The Country Network HD
+https://cdn.tcncountry.net/scte35_aws/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="tochka-tv" group-title="🏄 Развлекательные", Точка ТВ
 http://cdn-lb.iptv2022.com/p/Peg6PBk0pYZPSjYkE3xoJw,1697749216/streaming/tochka/324/1/index.m3u8
@@ -966,11 +970,11 @@ http://moobl.ru/iptv/Kuhnya.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TgZbjTc/unnamed.jpg" group-title="🏄 Развлекательные",Kulinar TV Show
-http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://moobl.ru/iptv/img/kulinar.png" group-title="🏄 Развлекательные",Kulinar TV Show
+http://moobl.ru/iptv/Kulinar_tv.m3u8
 
 #EXTINF:-1 tvg-id="telekafe" group-title="🏄 Развлекательные",Телекафе
-https://ucdn.beetv.kz/btv/live/hls/000000206.m3u8
+http://moobl.ru/iptv/Telekafe.m3u8
 
 #EXTINF:-1 tvg-id="avto-plus" group-title="🏄 Развлекательные",Авто Плюс
 http://moobl.ru/iptv/Avto_plus.m3u8
@@ -2231,7 +2235,7 @@ http://cdn-lb.iptv2022.com/p/rSW2wkmGFuApf-K_Pu6UvQ,1674888325/streaming/pesiko/
 http://cdn-lb.iptv2022.com/p/t8eqN7WAR2iCLb8Gob0dbA,1674435986/streaming/pmobile/324/1/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="zhivaya-planeta" group-title="🔎 Познавательные", Живая Планета
-http://109.239.208.82:80/liveplanet/index.m3u8
+http://moobl.ru/iptv/Zhivaya_Planeta.m3u8
 
 #EXTINF:-1 tvg-id="sovsek" group-title="🔎 Познавательные", TOP SECRET
 https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
