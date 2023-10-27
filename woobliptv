@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 26.10.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 27.10.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/iptv/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -162,6 +162,8 @@ http://moobl.ru/iptv/Zvezda_plus.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="🔅 Основные", Звезда Плюс HD
 http://moobl.ru/iptv/Zvezda_plus_HD.m3u8
 
+#EXTINF:-1 tvg-id="mir" group-title="🔅 Основные", МИР
+http://moobl.ru/iptv/MIR.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="🔅 Основные", МИР HD
 http://moobl.ru/iptv/MIR_hd.m3u8
 #EXTINF:-1 tvg-id="mir-pl2" group-title="🔅 Основные", МИР (+2)
@@ -535,7 +537,8 @@ http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiODE5YTFiMDIiLCJwIjoiO
 http://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="mtv-live-hd" group-title="🎧 Музыкальные",MTV Live HD
-http://158.101.214.187:8080/channel/1ebde281/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
+
 
 #EXTINF:-1 tvg-id="491" group-title="🎧 Музыкальные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png?20210624174116",MTV 00s
 http://89.254.128.5:22280/mtv_00/mono.m3u8
@@ -639,7 +642,7 @@ http://rtmp.one.by:2200
 #EXTINF:-1 tvg-id="5364" group-title="🎧 Музыкальные" tvg-logo="http://epg.it999.ru/img2/5364.png", Первый Музыкальный Россия HD
 http://rtmp.one.by:2300
 
-#EXTINF:-1 tvg-id="5382" group-title="🎧 Музыкальные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/88/%D0%96%D0%B0%D1%80%D0%B0_Kids_TV.svg/revision/latest/scale-to-width-down/220?cb=20201203044811&path-prefix=ru", Жара Kids HD
+#EXTINF:-1 tvg-id="5382" group-title="🎧 Музыкальные" tvg-logo="https://moobl.ru/iptv/img/zhara_kids.png", Жара Kids HD
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 
 #EXTINF:-1 tvg-id="multimuzyka" group-title="🎧 Музыкальные", Мультимузыка
@@ -974,7 +977,7 @@ http://cdn-lb.iptv2022.com/p/bgjuNomIF2zarb7YPuaqvg,1695821188/streaming/anime_t
 http://cdn-lb.iptv2022.com/p/2ckixnVZOFCq9cDCH_zXsA,1696885213/streaming/travelhd/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="dikiy" group-title="🏄 Развлекательные",Дикий
-http://217.107.34.114:8007/playlist.m3u8
+http://moobl.ru/iptv/Dikiy.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="🏄 Развлекательные",Дикая Охота HD
 http://cdn-lb.iptv2022.com/p/r67VbDHry54LDjhyXmUNcQ,1686070926/streaming/ohotahd/324/1/index.m3u8
@@ -2101,15 +2104,18 @@ http://bl.uma.media/live/126869/HLS/6866944_2/2/1/playlist.m3u8
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1-cee" group-title="⚽️ Спортивные",Eurosport 1
-http://176.222.191.62/btv/live/hls/000002478.m3u8
-
+http://moobl.ru/iptv/Eurosport_1.m3u8
 #EXTINF:-1 tvg-id="eurosport1-cee" group-title="⚽️ Спортивные",Eurosport 1 HD
 http://moobl.ru/iptv/Eurosport_1_hd.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1-cee" group-title="⚽️ Спортивные",Eurosport 2
-http://176.222.191.62/btv/live/hls/000002479.m3u8
+#EXTINF:-1 tvg-id="eurosport1-cee" group-title="⚽️ Спортивные",Eurosport 1 HLS
+http://176.222.191.62/btv/live/hls/000002478.m3u8
+#EXTINF:-1 tvg-id="eurosport2-cee" group-title="⚽️ Спортивные",Eurosport 2
+http://moobl.ru/iptv/Eurosport_2.m3u8
 #EXTINF:-1 tvg-id="eurosport2-cee" group-title="⚽️ Спортивные",Eurosport 2 HD
 http://moobl.ru/iptv/Eurosport_2_hd.m3u8
+#EXTINF:-1 tvg-id="eurosport1-cee" group-title="⚽️ Спортивные",Eurosport 2 HLS
+http://176.222.191.62/btv/live/hls/000002479.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные" tvg-logo="http://epg.do.am/logo2/redbull.png", Red Bull TV
@@ -2182,6 +2188,8 @@ http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89213
 http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89212
 #EXTINF:-1 tvg-id="bt-sport4" group-title="⚽️ Спортивные", TNT Sports 4
 http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
+#EXTINF:-1 tvg-id="setanta-kz" group-title="⚽️ Спортивные",Setanta Qazaqstan
+http://moobl.ru/iptv/Setanta_Qazaqstan.m3u8
 
 #EXTINF:-1 tvg-id="setanta-kz" group-title="⚽️ Спортивные",Setanta Qazaqstan HD
 http://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
@@ -2425,7 +2433,7 @@ http://moobl.ru/iptv/Mama.m3u8
 #EXTINF:-1 tvg-id="univer-tv" group-title="👶 Детские", Universmotri
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://i.postimg.cc/sx6H4jvt/Multiki-i-Skazki.png",Мультики и Сказки HD
+#EXTINF:-1 tvg-id="" group-title="👶 Детские" tvg-logo="https://i.postimg.cc/sx6H4jvt/Multiki-i-Skazki.png",Мультики и Сказки HD
 http://195.9.195.3:8080/hls/198446.m3u8
 
 #EXTINF:-1 tvg-id="teleputeshestvia" group-title="🔎 Познавательные", Телепутешествия
@@ -3045,8 +3053,8 @@ https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1 tvg-id="tnt-bravo-moldova" group-title="🇲🇩 Молдавское ТВ", ТНТ Exclusiv TV
 http://89.28.25.122/hls/tnt_md.m3u8
 
-#EXTINF:-1 tvg-id="n4" group-title="🇲🇩 Молдавское ТВ", N4
-
+#EXTINF:-1 tvg-id="cinema1-md" group-title="🇲🇩 Молдавское ТВ",Cinema 1 MD
+http://212.0.211.102:9999/play/3/index.m3u8
 
 #EXTINF:-1 tvg-id="rtr-moldova" group-title="🇲🇩 Молдавское ТВ", RTR Moldova
 
@@ -3203,7 +3211,7 @@ http://149.5.17.34:20041/play/a05v
 #EXTINF:-1 tvg-id="bigudi" group-title="🇺🇦 Украинское ТВ", Бiгудi
 http://149.5.17.34:20041/play/a06h
 
-#EXTINF:-1 tvg-id="zoom-ua" group-title="🇺🇦 Украинское ТВ", Zoom
+#EXTINF:-1 tvg-id="zoom-ua" group-title="🇺🇦 Украинское ТВ", Zoom HD
 http://149.5.17.34:20041/play/a05q
 
 #EXTINF:-1 tvg-id="plusplus" group-title="🇺🇦 Украинское ТВ", ПлюсПлюс
@@ -3251,6 +3259,9 @@ http://xsport-hls1.cosmonova.net.ua/hls/xsport_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="xsport-ua" group-title="🇺🇦 Украинское ТВ", Xsport HD
 http://91.210.251.166:4858/udp/239.0.2.89:4000
+
+#EXTINF:-1 tvg-id="" group-title="🇺🇦 Украинское ТВ", Суспільне Спорт
+http://91.210.251.166:4702/udp/239.0.2.48:4000
 
 
 #EXTINF:-1 tvg-id="ternopil1" group-title="🇺🇦 Украинское ТВ", Тернопіль 1 HD
@@ -3321,6 +3332,12 @@ http://149.5.17.34:20041/play/a05i
 https://ext.cdn.nashnet.tv/228.0.0.76/index.m3u8
 #EXTINF:-1 tvg-id="paramount-comedy-ua" group-title="🇺🇦 Украинское ТВ",Comedy Central Україна
 http://91.210.251.166:4550/udp/239.0.2.30:4000
+
+#EXTINF:-1 tvg-id="sport1-ua" group-title="🇺🇦 Украинское ТВ",Sport 1 UA
+http://moobl.ru/iptv/Sport1.m3u8
+
+#EXTINF:-1 tvg-id="sport2-ua" group-title="🇺🇦 Украинское ТВ",Sport 2 UA
+http://moobl.ru/iptv/Sport2.m3u8
 
 #EXTINF:-1 tvg-id="megogo-live" group-title="🇺🇦 Украинское ТВ",Megogo Live HD
 http://91.210.251.166:4773/udp/239.0.20.46:4000
