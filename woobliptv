@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 27.10.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 29.10.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -174,6 +174,14 @@ http://moobl.ru/hls/MIR_plus7.m3u8
 http://moobl.ru/hls/TNT.m3u8
 #EXTINF:-1 tvg-id="tnt" group-title="🔅 Основные", ТНТ HD
 http://moobl.ru/hls/TNT_hd.m3u8
+#EXTINF:-1 tvg-id="tnt-pl2" group-title="🔅 Основные",ТНТ (+2)
+http://cdn-lb.iptv2022.com/p/qZzr5oYW6PFOuJxVuGF4Ew,1698613208/streaming/tntplus2/324/1/index.m3u8
+#EXTINF:-1 tvg-id="tnt-pl4" group-title="🔅 Основные",ТНТ (+4)
+http://cdn-lb.iptv2022.com/p/od8OVGMZB9dqocPyr33Flw,1698613208/streaming/tntplus4/324/1/index.m3u8
+#EXTINF:-1 tvg-id="tnt-pl6" group-title="🔅 Основные",ТНТ (+6)
+http://cdn-lb.iptv2022.com/p/AqTTIMueN8WMpfe6Rv9bow,1698613208/streaming/tntplus6/324/1/index.m3u8
+#EXTINF:-1 tvg-id="tnt-pl7" group-title="🔅 Основные",ТНТ (+7)
+http://cdn-lb.iptv2022.com/p/-6yagCyu4MoRtS2dx-Vx-Q,1698613209/streaming/tntplus7/324/1/index.m3u8
 #EXTINF:-1 tvg-id="tnt-int-eu" group-title="🔅 Основные", ТНТ-International (Европа)
 http://87.120.142.8:12000/TNTComedy
 
@@ -526,7 +534,8 @@ http://cdn-lb.iptv2022.com/p/0EhlVgEpgG2Vy0js1H9Hhg,1697230814/streaming/kaleido
 http://clientportal.link/iiViFgfcwY19/eGG25x30/14269
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://fix-rom.ucoz.com/iptv/img/mtv_music.png" group-title="🎧 Музыкальные",MTV Music
-http://login.lionboxtv.xyz:80/protoniom1201/wMLkbzV8dXCC/959
+http://clientportal.link:80/1uEkqy319/XE4QUg813/7316
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logospng.org/download/mtv/logo-mtv-amarelo-1024.png" group-title="🎧 Музыкальные",MTV Classic
 
@@ -596,7 +605,7 @@ https://cdn.wasd.tv/live/1669885/index.m3u8
 http://moobl.ru/hls/Multimania.m3u8
 
 #EXTINF:-1 tvg-id="magic-disney" group-title="👶 Детские",Magic Disney HD
-http://pl.iptv.monster/play/6680/5416F3BDBAB456F/video.m3u8
+http://moobl.ru/hls/Magic_Disney_hd.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="👶 Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Disney_Channel_Russia.png/1600px-Disney_Channel_Russia.png?20210630231931",Disney Channel
 http://149.62.183.194:9293/play/a0dt
@@ -1416,28 +1425,28 @@ http://moobl.ru/hls/Start_Triumf_FHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://moobl.ru/hls/img/no_image.png" group-title="📺 Фильмовые",Russian HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3524
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wpnkr29/7.png" group-title="📺 Фильмовые",Кино и сериалы
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wpnkr29/7.png" group-title="📺 Фильмовые",Смотрим Кино и сериалы
 http://moobl.ru/hls/Kino_i_serialy.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wpnkr29/7.png" group-title="📺 Фильмовые",Кино и сериалы HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wpnkr29/7.png" group-title="📺 Фильмовые",Смотрим Кино и сериалы HD
 http://moobl.ru/hls/Kino_i_serialy_hd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/V9Qfsvb/4.png" group-title="📺 Фильмовые", Мелодрамы
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/V9Qfsvb/4.png" group-title="📺 Фильмовые", Смотрим Мелодрамы
 http://moobl.ru/hls/Melodramy.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/V9Qfsvb/4.png" group-title="📺 Фильмовые", Мелодрамы HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/V9Qfsvb/4.png" group-title="📺 Фильмовые", Смотрим Мелодрамы HD
 http://moobl.ru/hls/Melodramy_hd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://moobl.ru/hls/img/tajny_i_sledstvie.png" group-title="📺 Фильмовые", Тайны и следствие
+#EXTINF:-1 tvg-id="" tvg-logo="http://moobl.ru/hls/img/tajny_i_sledstvie.png" group-title="📺 Фильмовые", Смотрим Тайны и следствие
 http://moobl.ru/hls/Tajny_i_sledstvie.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://moobl.ru/hls/img/tajny_i_sledstvie.png" group-title="📺 Фильмовые", Тайны и следствие HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://moobl.ru/hls/img/tajny_i_sledstvie.png" group-title="📺 Фильмовые", Смотрим Тайны и следствие HD
 http://moobl.ru/hls/Tajny_i_sledstvie_hd.m3u8
 
 #EXTINF:-1 tvg-id="timeless-dizi" group-title="📺 Фильмовые",Timeless Dizi Channel
 http://cdn-lb.iptv2022.com/p/ZaEd4SmnnRgiiD7KirkCww,1696885209/streaming/dizitv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="timeless-dizi" group-title="📺 Фильмовые",Timeless Dizi Channel HD
-
+http://158.101.214.187:8080/channel/n3a97cdc4/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="312-kino" group-title="📺 Фильмовые",312 Кино
 http://moobl.ru/hls/312_kino.m3u8
@@ -1578,7 +1587,7 @@ http://moobl.ru/hls/Shokiruyushcheye_HD.m3u8
 http://158.101.214.187:8080/channel/42c15d29/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="romantichnoe-hd" group-title="📺 Фильмовые",Романтичное HD
-http://158.101.214.187:8080/channel/22356a98/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://moobl.ru/hls/Romantichnoe_hd.m3u8
 
 #EXTINF:-1 tvg-id="kriminalnoe-hd" group-title="📺 Фильмовые", Криминальное HD
 http://46.17.46.31:2021/channel/n72eca47e/index.m3u8?q=979c4b71103103fb05dd9b99dc0ce5c8
@@ -1615,10 +1624,10 @@ http://moobl.ru/hls/Hollywood_hd.m3u8
 http://moobl.ru/hls/Mir_seriala.m3u8
 
 #EXTINF:-1 tvg-id="serial-ultrahd" group-title="📺 Фильмовые",Сериал UHD
-http://158.101.214.187:8080/channel/50f060af/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/4f968bb5/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="kino-ultrahd" group-title="📺 Фильмовые",Кино UHD
-http://158.101.214.187:8080/channel/4d51c3b7/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/4f72f83d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="📺 Фильмовые",TV XXI
 http://176.222.191.62/btv/live/hls/000000006.m3u8
@@ -1702,9 +1711,6 @@ http://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="russky-roman" group-title="📺 Фильмовые", Русский роман
 http://moobl.ru/hls/Russkiy_roman.m3u8
 
-#EXTINF:-1 tvg-id="russky-roman" group-title="📺 Фильмовые", Русский роман HD
-http://158.101.214.187:8080/channel/4e941ba3/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="📺 Фильмовые", Русский детектив
 http://moobl.ru/hls/Russkiy_detektiv.m3u8
 
@@ -1724,7 +1730,7 @@ http://moobl.ru/hls/Dorama.m3u8
 http://moobl.ru/hls/Dorama_hd.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://operators.1tvch.ru/system/pic_folder/channels/logo_images/original/%D0%9B%D0%B0%D0%B2%D1%81%D1%82%D0%BE%D1%80%D0%B8_72.png?1695653538", Лавстори HD
-http://158.101.214.187:8080/channel/79847de2/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
 
 #EXTINF:-1 tvg-id="kino-tv" group-title="📺 Фильмовые",Кино ТВ
 http://moobl.ru/hls/Kino_tv.m3u8
@@ -1801,7 +1807,7 @@ http://moobl.ru/hls/Hit_hd.m3u8
 http://cdn-lb.iptv2022.com/p/JzMExaTq-o3IVLv5zlInUw,1697749211/streaming/blokbaster/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="blokbaster-hd" group-title="📺 Фильмовые",Блокбастер HD
-http://158.101.214.187:8080/channel/nb0a289f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/n5cacd48e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="kinopokaz" group-title="📺 Фильмовые",Кинопоказ
 http://moobl.ru/hls/Kinopokaz.m3u8
@@ -1813,7 +1819,7 @@ http://cdn-lb.iptv2022.com/p/bvcavFDJ5-4UeLfN7xKm4Q,1697749211/streaming/nashpok
 http://moobl.ru/hls/Nashe_muzhskoe_hd.m3u8
 
 #EXTINF:-1 tvg-id="nashehd" group-title="📺 Фильмовые",Наше крутое HD
-http://158.101.214.187:8080/channel/37dadd2/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/n2314701f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="kinoboevik-kz" group-title="📺 Фильмовые",КиноБоевик HD KZ
 http://176.222.191.62/btv/live/hls/000008490.m3u8
@@ -1827,19 +1833,19 @@ http://cdn-lb.iptv2022.com/p/ZEkeo1Ap9zjDySdiIpOEQA,1697749211/streaming/kamedi/
 http://moobl.ru/hls/Kamedi_hd.m3u8
 
 #EXTINF:-1 tvg-id="nashe-lubimoe-hd" group-title="📺 Фильмовые",Любимое HD
-http://158.101.214.187:8080/channel/3c16e46d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/n7f310de8/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="lubimoe-kino" group-title="📺 Фильмовые",Наше любимое
 http://176.222.191.62/btv/live/hls/000000283.m3u8
 
 #EXTINF:-1 tvg-id="kinojam1" group-title="📺 Фильмовые" ,Kinojam 1 HD
-http://158.101.214.187:8080/channel/4d640b5e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/376768e7/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="kinojam2" group-title="📺 Фильмовые" ,Kinojam 2 HD
-http://158.101.214.187:8080/channel/4d640b5f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/376768e8/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="dushevnoe-hd" group-title="📺 Фильмовые",Душевное кино HD
-http://158.101.214.187:8080/channel/n407a872c/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/n5ceccf61/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 tvg-id="trashtv" group-title="📺 Фильмовые",Trash
 http://cdn-lb.iptv2022.com/p/_M9XmoC1dt0JlIi3cWRpEA,1697749212/streaming/trash/324/1/index.m3u8
 #EXTINF:-1 tvg-id="trashtv" group-title="📺 Фильмовые",Trash HD
@@ -2001,7 +2007,7 @@ http://176.222.191.62/btv/live/hls/000000030.m3u8
 
 
 #EXTINF:-1 tvg-id="mezzo-live-hd" group-title="🎧 Музыкальные", Mezzo Live HD
-
+http://91.210.251.166:4767/udp/239.0.20.6:4000
 
 #EXTINF:-1 group-title="🎧 Музыкальные" tvg-logo="http://epg.it999.ru/img2/5475.png",Stingray Classic Rock HD
 https://stirr.ott-channels.stingray.com/101/master.m3u8
@@ -2143,9 +2149,14 @@ http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sports" group-title="⚽️ Спортивные",Setanta Sports HD
-http://176.222.191.62/btv/live/hls/000004498.m3u8
+http://95.216.6.244:8000/play/a001/index.m3u8
 
+#EXTINF:-1 tvg-id="setanta-sports" group-title="⚽️ Спортивные",Setanta Sports HLS
+http://176.222.191.62/btv/live/hls/000004498.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="⚽️ Спортивные",Setanta Sports 2 HD
+http://95.216.6.244:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="setanta-sports-plus" group-title="⚽️ Спортивные",Setanta Sports 2 HLS
 http://176.222.191.62/btv/live/hls/000004499.m3u8
 
 
@@ -2231,7 +2242,7 @@ http://cdn-lb.iptv2022.com/p/wW9QVjd8j0qtnParaRqqgQ,1688590821/streaming/motospo
 
 
 #EXTINF:-1 tvg-id="russian-extreme-uhd" group-title="⚽️ Спортивные",Russian extreme
-http://158.101.214.187:8080/channel/n16e6c279/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/n75f119c2/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 
 #EXTINF:-1 tvg-id="oruzhie" group-title="🔎 Познавательные", Оружие
@@ -2353,7 +2364,7 @@ http://176.222.191.62/btv/live/hls/000002722.m3u8
 http://158.101.194.132:8888/channel/15bf5fc5/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
 
 #EXTINF:-1 tvg-id="curiosity-stream" group-title="🔎 Познавательные", Curiosity Stream HD
-http://158.101.214.187:8080/channel/56f44917/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/65739be0/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="prosveschenie" group-title="🔎 Познавательные", Просвещение
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
@@ -2481,7 +2492,7 @@ http://cdn-lb.iptv2022.com/p/5ImdOCRLD83nHhjaP4dHwg,1688590815/streaming/multikh
 http://176.222.191.62/btv/live/hls/000001478.m3u8
 
 #EXTINF:-1 tvg-id="nauka" group-title="🔎 Познавательные", Наука 2.0
-http://158.101.214.187:8080/channel/1b2cd43c/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://212.0.211.102:9999/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="nauka" group-title="🔎 Познавательные", Наука 2.0 HD
 http://moobl.ru/hls/Nauka_20_hd.m3u8
@@ -2994,7 +3005,7 @@ https://s3.radio.co/scfd7273b2/listen
 #EXTINF:-1 tvg-id="" group-title="🔉 Радио" tvg-logo="https://geografishka.ru/wp-content/uploads/2022/08/radio_95323_relax-90.8-fm.jpg", 🔉 Радио Relax FM
 https://pub0202.101.ru:8443/stream/air/aac/64/200
 
-#EXTINF:-1 tvg-id="radio-dacha" tvg-logo="https://www.radiodacha.ru/logo.png" group-title="🔉 Радио", 🔉 Радио Дача
+#EXTINF:-1 tvg-id="radio-dacha" tvg-logo="https://www.radiodacha.ru/logo.png" group-title="🔉 Радио", Радио Дача
 https://listen3.vdfm.ru:8000/dacha?type=.mp3
 
 #EXTINF:-1 tvg-id="radio-vania" group-title="🔉 Радио", 🔉 Радио Ваня
@@ -3024,10 +3035,10 @@ https://rp.amgradio.ru/RuWave48
 
 
 #EXTINF:-1 tvg-id="moldova-1" group-title="🇲🇩 Молдавское ТВ", Moldova 1
-https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/2.m3u8
+http://212.0.211.102:9999/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="moldova-2" group-title="🇲🇩 Молдавское ТВ", Moldova 2
-https://v1.trm.md/static/streaming-playlists/hls/78dc278f-1106-4e85-8714-20c9283494e5/master.m3u8
+http://212.0.211.102:9999/play/a00o/index.m3u8
 
 
 #EXTINF:-1 tvg-id="primul-in-moldova" group-title="🇲🇩 Молдавское ТВ", Primul in Moldova
@@ -3036,8 +3047,6 @@ https://v1.trm.md/static/streaming-playlists/hls/78dc278f-1106-4e85-8714-20c9283
 #EXTINF:-1 tvg-id="tcb" group-title="🇲🇩 Молдавское ТВ", ТСВ
 https://iptv-hls.idc.md/hls/2/live2.m3u8
 
-#EXTINF:-1 tvg-id="cinema1-md" group-title="🇲🇩 Молдавское ТВ", Cinema 1 MD
-http://194.114.144.244:8002/play/a0s2
 
 #EXTINF:-1 tvg-id="orhei-tv" group-title="🇲🇩 Молдавское ТВ", Orhei TV
 
@@ -3055,7 +3064,7 @@ https://livebeta.publika.md/LIVE/P/2000.m3u8
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 
 #EXTINF:-1 tvg-id="tvc-21" group-title="🇲🇩 Молдавское ТВ", TVC 21
-http://212.0.213.132:8084/TVC21/index.m3u8
+http://212.0.211.102:9999/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇲🇩 Молдавское ТВ" tvg-logo="http://troya.tv/images/chIcons/1615.png?62879e89d008d", Agrotv HD
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
@@ -3222,10 +3231,13 @@ http://149.5.17.34:20041/play/a05v
 http://149.5.17.34:20041/play/a06h
 
 #EXTINF:-1 tvg-id="zoom-ua" group-title="🇺🇦 Украинское ТВ", Zoom HD
-http://149.5.17.34:20041/play/a05q
+http://91.210.251.166:4604/udp/239.0.2.40:4000
 
 #EXTINF:-1 tvg-id="plusplus" group-title="🇺🇦 Украинское ТВ", ПлюсПлюс
 http://149.5.17.34:20041/play/a06q
+
+#EXTINF:-1 tvg-id="plusplus" group-title="🇺🇦 Украинское ТВ", ПлюсПлюс HD
+http://91.210.251.166:4547/udp/239.0.20.48:4000
 
 #EXTINF:-1 tvg-id="nastoyaschee-vremia" group-title="🇺🇦 Украинское ТВ" tvg-logo="https://teleprogramma.tv/images/nastoyashchee-vremya.png", Настоящее время HD
 http://portal.ott.pink/watch/207/mono.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
@@ -3242,22 +3254,27 @@ http://146.59.85.40:89/setantaplus/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="enter-film" group-title="🇺🇦 Украинское ТВ", Enter-фiльм
-http://149.5.17.34:20041/play/a078
+http://91.210.251.166:4586/udp/239.0.2.41:4000
 
 #EXTINF:-1 tvg-id="tet-ua" group-title="🇺🇦 Украинское ТВ", ТЕТ
 http://149.5.17.34:20041/play/a06f
 
 #EXTINF:-1 tvg-id="ua-kyiv" group-title="🇺🇦 Украинское ТВ", Суспільне Київ HD
-http://185.235.187.11:8888/play/a018
+http://portal.ott.pink/watch/7592/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 
 #EXTINF:-1 tvg-id="stb-ua" group-title="🇺🇦 Украинское ТВ", СТБ HD
 http://ip1.orgip.net/304/video.m3u8?token=M4f082ab4c
 
 #EXTINF:-1 tvg-id="lale" group-title="🇺🇦 Украинское ТВ", Lale
-http://185.235.187.10:8888/play/a06p/index.m3u8
-
+http://91.210.251.166:4825/udp/239.0.2.52:4000
+#EXTINF:-1 tvg-id="lale" group-title="🇺🇦 Украинское ТВ", Lale HD
+http://91.210.251.166:4618/udp/239.0.20.52:4000
+#EXTINF:-1 tvg-id="dacha" group-title="🇺🇦 Украинское ТВ", Дача
+http://91.210.251.166:4775/udp/239.0.20.45:4000
+#EXTINF:-1 tvg-id="rybalka" group-title="🇺🇦 Украинское ТВ",Рибалка ТБ
+http://91.210.251.166:4582/udp/239.0.2.104:4000
 #EXTINF:-1 tvg-id="trofey" group-title="🇺🇦 Украинское ТВ", Трофей HD
-
+http://91.210.251.166:4853/udp/239.0.2.83:4000
 
 #EXTINF:-1 tvg-id="kvartal-tv" group-title="🇺🇦 Украинское ТВ", Квартал ТВ HD
 http://158.101.194.132:8888/channel/25d971e8/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
@@ -3286,7 +3303,7 @@ http://149.5.17.34:20041/play/a05v
 #EXTINF:-1 tvg-id="otse" group-title="🇺🇦 Украинское ТВ", Оце
 http://91.210.251.166:4557/udp/239.0.2.23:4000
 #EXTINF:-1 tvg-id="otse" group-title="🇺🇦 Украинское ТВ", Оце HD
-http://158.101.214.187:8080/channel/n62f1aa86/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.214.187:8080/channel/1a15b06/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="" group-title="🇺🇦 Украинское ТВ" tvg-logo="https://i.ibb.co/WWHXmnR/channels4-profile.jpg", FREEДОМ UA
 http://176.74.80.162:8099/UA/index.m3u8
