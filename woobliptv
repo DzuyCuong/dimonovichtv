@@ -966,8 +966,14 @@ http://moobl.ru/hls/Perec_int.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" group-title="🏄 Развлекательные",.black
 http://moobl.ru/hls/Black.m3u8
 
+#EXTINF:-1 tvg-id="sony-turbo" group-title="🏄 Развлекательные",.black HD
+http://moobl.ru/hls/Black_hd.m3u8
+
 #EXTINF:-1 tvg-id="sony-tv" group-title="🏄 Развлекательные",.red
 http://moobl.ru/hls/Red.m3u8
+
+#EXTINF:-1 tvg-id="sony-tv" group-title="🏄 Развлекательные",.red HD
+http://moobl.ru/hls/Red_hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15569/logo_256_1668760387.png" group-title="🏄 Развлекательные",Anime TV HD
 http://cdn-lb.iptv2022.com/p/bgjuNomIF2zarb7YPuaqvg,1695821188/streaming/anime_tv/324/1/index.m3u8
@@ -1006,8 +1012,6 @@ http://moobl.ru/hls/Avto_plus.m3u8
 
 
 
-#EXTINF:-1 tvg-id="fashion-tv" group-title="🏄 Развлекательные",Fashion TV
-http://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fashion-tv" group-title="🏄 Развлекательные",Fashion TV UHD
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
@@ -1500,7 +1504,6 @@ http://cdn-lb.iptv2022.com/p/SBizXnGVBsQie4O8RJfSlw,1681400699/streaming/telenov
 #EXTINF:-1 tvg-id="kinoseria" group-title="📺 Фильмовые",Киносерия
 http://moobl.ru/hls/Kinoseria.m3u8
 #EXTINF:-1 tvg-id="kinoseria" group-title="📺 Фильмовые",Киносерия HD
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8zMDZmZTgyYy0yNDRhLTQ5MDgtOTA0OC1iN2ZiNWNkZTIxYzAvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 
 
 
@@ -1558,6 +1561,9 @@ http://moobl.ru/hls/Comedy.m3u8
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="📺 Фильмовые",.sci-fi
 http://moobl.ru/hls/SciFi.m3u8
+
+#EXTINF:-1 tvg-id="sony-scifi" group-title="📺 Фильмовые",.sci-fi HD
+http://moobl.ru/hls/SciFi_hd.m3u8
 
 #EXTINF:-1 tvg-id="premialnoe-hd" group-title="📺 Фильмовые",Премиальное HD
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
@@ -1832,8 +1838,12 @@ http://176.222.191.62/btv/live/hls/000000283.m3u8
 #EXTINF:-1 tvg-id="kinojam1" group-title="📺 Фильмовые" ,Kinojam 1
 http://31.40.155.227:9595/play/Kino_Jam_1
 
+#EXTINF:-1 tvg-id="kinojam1" group-title="📺 Фильмовые" ,Kinojam 1 HD
+http://moobl.ru/hls/Kinojam_1_hd.m3u8
 #EXTINF:-1 tvg-id="kinojam2" group-title="📺 Фильмовые" ,Kinojam 2
 http://31.40.155.227:9595/play/Kino_Jam_2
+#EXTINF:-1 tvg-id="kinojam1" group-title="📺 Фильмовые" ,Kinojam 2 HD
+http://moobl.ru/hls/Kinojam_2_hd.m3u8
 
 #EXTINF:-1 tvg-id="dushevnoe-hd" group-title="📺 Фильмовые",Душевное кино HD
 
@@ -2323,9 +2333,6 @@ http://moobl.ru/hls/Psixologia.m3u8
 
 #EXTINF:-1 tvg-id="zdorovoe-tv" group-title="🔎 Познавательные", Здоровое ТВ
 http://cdn-lb.iptv2022.com/p/pZEvvwGK9jkbmXtk1DI_jg,1687539733/streaming/zdorovoe/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🔎 Познавательные" tvg-logo="https://assets.iptv2022.com/static/channel/10670/logo_256_1658736096.png", Здоровье
-http://cdn-lb.iptv2022.com/p/KCfhIF_h_WM6Dih1bWi_jQ,1672887235/streaming/zdrav/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="ege-tv" group-title="🔎 Познавательные", ЕГЭ
 http://cdn-lb.iptv2022.com/p/IwYtQ4vwaX-7P5Xzn5m_vg,1672887201/streaming/ege/324/1/index.m3u8
@@ -3144,30 +3151,21 @@ http://moobl.ru/hls/Belarus24_hd.m3u8
 #EXTINF:-1 tvg-id="tro" group-title="🇧🇾 Белорусское ТВ", Белрос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="zvyazda-by" group-title="🇧🇾 Белорусское ТВ", Звязда HD
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9kOTQ3OTIzNS1mODU4LTQ1YTItOTU3MS0wOWU3ODg5YmI0Nzcvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="🇧🇾 Белорусское ТВ", Лагуна ТВ HD (Брест)
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy85NWMyNjc2ZS05YzM1LTQ5MWMtOWI0MC1hMzVlYjk2ZjI0ZGUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 tvg-id="bug-tv" group-title="🇧🇾 Белорусское ТВ",БУГ HD
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8zN2NjMzI4OC05Yzc4LTQ5MTctOGYyYi1iMmQxZTMyNWJiNmIvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 tvg-id="2-kanal-mogilev" group-title="🇧🇾 Белорусское ТВ",ТВ2 Могилёв
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8xMGZkNGVkMC1kZTA2LTRhNzctOWNiYS1kYWIzZjllZmRiNjcvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇧🇾 Белорусское ТВ",Бобруйск 360 HD
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9iNmU1YzgxZS05MTc1LTQzNTctODZlNC1mZTc2OTQ5YTA2NmMvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 
 #EXTINF:-1 tvg-id="variag" group-title="🇧🇾 Белорусское ТВ",Варяг HD
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9iZDc1NzQxMC1kZjUxLTQxZTktYTRhNC01MDEzNTBmYjk3MTkvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 tvg-id="8kanal-by" group-title="🇧🇾 Белорусское ТВ",8 канал HD Беларусь
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8xNDE3ZmJlMC1jMWZjLTQ0NGEtYmYzNS0zMzIzMzE2OGU5MTEvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 
 
 #EXTINF:-1 tvg-id="pervy-gorodskoy-gom" group-title="🇧🇾 Белорусское ТВ",Первый Городской (Гомель)
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy84Mzc2MjQ0ZC05MzdmLTQ1YTctOTk3Mi0wMTk1MGU3ZDJiMDAvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 
 #EXTINF:-1 tvg-id="tnt-int-by" group-title="🇧🇾 Белорусское ТВ", ТНТ International HD
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8zMWVjN2U0Yi1jN2FhLTQ4ZDQtOTc4ZC1mNDgyYTZkNGE4NTAvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 
 #EXTINF:-1 tvg-id="minsk-tv" group-title="🇧🇾 Белорусское ТВ", Яснае ТВ HD
 http://158.101.214.187:8080/channel/n106f4263/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
