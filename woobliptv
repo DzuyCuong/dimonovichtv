@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 03.11.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 04.11.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -2238,8 +2238,11 @@ http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/98781
 #EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные", Sky Sports Action HD
 http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/98789
 
+#EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные", Sky Sports Tennis HD
+http://clientportal.link:80/1uEkqy319/XE4QUg813/93831
 
-
+#EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные", Sky Super-Tennis HD
+http://clientportal.link:80/1uEkqy319/XE4QUg813/4084
 
 #EXTINF:-1 tvg-id="bt-sport1" group-title="⚽️ Спортивные", TNT Sports 1
 http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/110708
@@ -3009,7 +3012,7 @@ http://streams.radiosarova.ru/mcradio
 https://icecast-studio21.cdnvideo.ru/S21cl_1r
 
 #EXTINF:-1 tvg-id="" group-title="🔉 Радио" tvg-logo="https://i.ibb.co/0K3gG91/b-QTXPVANJPQ.jpg",MegaRadio
-https://radiosolo.ru/radio/mega/icecast.audio
+https://5.restream.one/162_1
 
 #EXTINF:-1 tvg-id="" group-title="🔉 Радио" tvg-logo="https://pcradio.ru/images/stations/627dae2d4dabb.jpg",Radio my hits Эстония
 https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac
@@ -3038,7 +3041,7 @@ https://live.relaxfm.lv/03
 https://stream.ehrhiti.lv:8000/Stream_38.aac
 
 #EXTINF:-1 tvg-id="" group-title="🔉 Радио" tvg-logo="https://lalaradio.online/wp-content/uploads/2021/11/92379.v4.png",Doubleclap Radio
-https://stream03.pcradio.ru/doubleclap_ee-med
+https://str1.pcradio.ru/doubleclap_ee-med
 
 #EXTINF:-1 tvg-id="" group-title="🔉 Радио" tvg-logo="https://geografishka.ru/wp-content/uploads/2022/08/radio_95323_relax-90.8-fm.jpg", Радио Relax FM
 https://pub0202.101.ru:8443/stream/air/aac/64/200
@@ -3260,7 +3263,7 @@ https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузинское ТВ",Rustavi 2
 https://tbs01-edge17.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузинское ТВ",TV Pirveli
-https://streaming.televizia.org/live/hls/OpzgokpkDsgQbqv2nXEvXw/1698862015/tvpirveli.m3u8
+https://tbs01-edge03.itdc.ge/pirvelitv/tracks-v1a1/mono.m3u8?token=kIDLyeBPVx7rKKMh9cjwhgfq_W1oAcNh2VEBWyCP2jZM-RttYipgwSgAfd5iTLHIbN_cenGzjOVIvZiZpTDnRFMEEBYZbcgc8wK9FzC4gk1I1gLPgLAGcKFVk5DhjiWpySxr1U0u8O6ulkSJLvomskKeA2aifwCGwjh2hn9tmTMrE4HTCJwIba_cFxhFxel1hEvpyc7Pd7QynU-CzqwC55jwBgTG0IOV9QInBH1xW0XtiUohY8QGF_9Lm7GvNtgGlvnNAQ1bsXzZxKjqy2gLCtISkn9RSoUr6f8lEJTO9VlaYiTK0UXa5KWBNU-6-7i9
 #EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузинское ТВ",TV Formula HD
 https://tbs01-edge17.itdc.ge/formula/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузинское ТВ",TV 25
@@ -3386,7 +3389,7 @@ http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 http://portal.ott.pink/watch/7/mono.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 
 #EXTINF:-1 tvg-id="pravdatyt-kyiv" group-title="🇺🇦 Украинское ТВ", ПравдаТУТ Київ
-http://91.210.251.166:4596/udp/239.0.2.79:4000
+http://91.210.251.166:4846/udp/239.0.2.79:4000
 
 #EXTINF:-1 tvg-id="piksel" group-title="🇺🇦 Украинское ТВ", Пиксель
 http://moobl.ru/hls/Piksel.m3u8
