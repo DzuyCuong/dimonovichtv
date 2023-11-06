@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 04.11.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 05.11.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -1319,8 +1319,9 @@ http://cdn-lb.iptv2022.com/p/vVrlRGsRXCG2947ABW1HEg,1677670299/streaming/tmtv/32
 http://moobl.ru/hls/Dozhd.m3u8
 #EXTINF:-1 tvg-id="dozhd" group-title="🔅 Основные", Дождь HD
 http://moobl.ru/hls/Dozhd_hd.m3u8
-
 #EXTINF:-1 tvg-id="rtvi" group-title="🔅 Основные", RTVi
+http://moobl.ru/hls/RTVI.m3u8
+#EXTINF:-1 tvg-id="rtvi" group-title="🔅 Основные", RTVi HD
 http://176.222.191.62/btv/live/hls/000000039.m3u8
 
 #EXTINF:-1 tvg-id="ginger-hd" group-title="👶 Детские",Капитан Фантастика HD
@@ -2100,6 +2101,8 @@ http://canal.mediaserver.com.co:8080/live/MelodyChannel.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🎧 Музыкальные" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png", Retro Plus Tv
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w794356504.m3u8
+#EXTINF:-1 tvg-id="" group-title="🎧 Музыкальные" tvg-logo="https://ritsatv.ru/files/poster/medium/900767.jpg", Retro 80 HD
+https://autopilot.catcast.tv/content/38204/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🎧 Музыкальные" tvg-logo="https://ritsatv.ru/files/poster/medium/700809.jpg",Eurodance 90 HD
 https://eurodance90.catcast.tv/content/36987/index.m3u8
@@ -2998,6 +3001,8 @@ https://retro.hostingradio.ru:8043/retro256.mp3
 
 #EXTINF:-1 tvg-id="" group-title="🔉 Радио" tvg-logo="https://topradio.me/assets/image/radio/180/dorojnoe-radio.webp", Дорожное  Радио Тирасполь 105.4 FM
 https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="🔉 Радио" tvg-logo="https://pervoesetevoe.ru/wp-content/uploads/2022/08/02-lipeczk.png",Радио Первое сетевое
+https://streamer.radiovseti.ru:8000/320
 
 #EXTINF:-1 tvg-id="" group-title="🔉 Радио" tvg-logo="https://topradio.me/assets/image/radio/180/city-fm.jpg", City FM
 https://city.stream.laut.fm/city
