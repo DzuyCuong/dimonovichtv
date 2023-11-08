@@ -610,7 +610,7 @@ http://moobl.ru/hls/Multimania.m3u8
 http://moobl.ru/hls/Magic_Disney_hd.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="👶 Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Disney_Channel_Russia.png/1600px-Disney_Channel_Russia.png?20210630231931",Disney Channel
-http://149.62.183.194:9293/play/a0dt
+
 
 #EXTINF:-1 tvg-id="disney-jr" group-title="👶 Детские" ,Disney Junior PL
 http://149.62.183.220:4100/stream/channelid/1470868700?profile=pass
@@ -674,7 +674,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v3
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/index.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-hd" group-title="👶 Детские" tvg-logo="http://moobl.ru/hls/img/nickelodeon-ru.png", Nickelodeon
-http://176.222.191.62/btv/live/hls/000000499.m3u8
+http://moobl.ru/hls/Nickelodeon.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-hd" group-title="👶 Детские" tvg-logo="http://moobl.ru/hls/img/nickelodeon-ru.png", Nickelodeon HD
 http://moobl.ru/hls/Nickelodeon_hd.m3u8
@@ -683,13 +683,13 @@ http://moobl.ru/hls/Nickelodeon_hd.m3u8
 http://clientportal.link:80/1uEkqy319/XE4QUg813/32815
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="👶 Детские", Nick JR
-http://176.222.191.62/btv/live/hls/000000449.m3u8
+http://moobl.ru/hls/Nick_jr.m3u8
 
 #EXTINF:-1 tvg-id="cartoon-network" group-title="👶 Детские",Cartoon Network
-http://176.222.191.62/btv/live/hls/000000015.m3u8
+http://moobl.ru/hls/Cartoon_network.m3u8
 
 #EXTINF:-1 tvg-id="boomerang" group-title="👶 Детские",Cartoonito
-http://176.222.191.62/btv/live/hls/000000160.m3u8
+http://moobl.ru/hls/Cartoonito.m3u8
 
 #EXTINF:-1 tvg-id="ani" group-title="👶 Детские", Ani
 http://moobl.ru/hls/Ani.m3u8
@@ -758,6 +758,8 @@ http://moobl.ru/hls/MIR_24_hd.m3u8
 
 #EXTINF:-1 tvg-id="hgtv" group-title="🔎 Познавательные",HGTV HD
 http://195.181.169.162:80/US_HGTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="myzen-4k" group-title="🔎 Познавательные",MyZen HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="usadba" group-title="🔎 Познавательные", Усадьба
 http://moobl.ru/hls/Usadba.m3u8
@@ -996,7 +998,7 @@ http://cdn-lb.iptv2022.com/p/r67VbDHry54LDjhyXmUNcQ,1686070926/streaming/ohotahd
 http://moobl.ru/hls/Okhota_i_rybalka.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="🏄 Развлекательные",Дикая Рыбалка HD
-http://ucdn.beetv.kz/btv/live/hls/000004610.m3u8
+http://cdn-lb.iptv2022.com/p/XtI_LjKczgDT4rEfEhNYjQ,1699131611/streaming/ribalkahd/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="🏄 Развлекательные",Кухня ТВ
 http://moobl.ru/hls/Kuhnya.m3u8
@@ -1029,8 +1031,6 @@ http://live-3.otcnet.ru/wfcrusmulti/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="🏄 Развлекательные",Загородная Жизнь
 http://moobl.ru/hls/Zagorodnaya_zhizn.m3u8
-#EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="🏄 Развлекательные",Загородная Жизнь HD
-http://ucdn.beetv.kz/btv/live/hls/000000289.m3u8
 #EXTINF:-1 tvg-id="novy-mir" group-title="🏄 Развлекательные",Новый мир HD
 http://moobl.ru/hls/Novy_mir.m3u8
 
@@ -1210,9 +1210,6 @@ http://stream1.servers.chd-tv.tk/chdtv-ru-rock/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🎧 Музыкальные" tvg-logo="https://e7.pngegg.com/pngimages/958/802/png-clipart-wall-decal-sticker-rock-and-roll-rock-music-guitar-text-logo.png", Rock НАРЯД
 http://rocknaryad.streaming-elbrus.su:56373/rock_naryad/mono.m3u8?token=rocknaryad
-
-#EXTINF:-1 tvg-id="" group-title="🎧 Музыкальные" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-hot-rock-tv_0.jpg?itok=bWS8lcId",HOT ROCK TV
-https://rpn1.bozztv.com/36bay2/gusa-30atvmusic/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🎧 Музыкальные" tvg-logo="https://static.tuneyou.com/images/logos/500_500/77/3477/RadioVeseljak94.9FM.png", Veseljak
 https://vr.veseljak.tv/hls/stream.m3u8
@@ -1717,7 +1714,8 @@ http://moobl.ru/hls/Viju_plus_Serial_hd.m3u8
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="📺 Фильмовые", Русский роман
 http://moobl.ru/hls/Russkiy_roman.m3u8
-
+#EXTINF:-1 tvg-id="russky-roman" group-title="📺 Фильмовые", Русский роман HD
+http://moobl.ru/hls/Russkiy_roman_hd.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="📺 Фильмовые", Русский детектив
 http://moobl.ru/hls/Russkiy_detektiv.m3u8
 
@@ -2376,9 +2374,9 @@ https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 https://stream.teotv.ru/live/site360/chunklist_w1193401690.m3u8
 
 #EXTINF:-1 tvg-id="tlc" group-title="🔎 Познавательные", TLC
-
-#EXTINF:-1 tvg-id="tlc" group-title="🔎 Познавательные", TLC HD
 http://176.222.191.62/btv/live/hls/000001498.m3u8
+#EXTINF:-1 tvg-id="tlc" group-title="🔎 Познавательные", TLC HD
+http://moobl.ru/hls/TLC_hd.m3u8
 
 #EXTINF:-1 tvg-id="euronews" group-title="🔅 Основные", Euronews HD
 http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
@@ -4141,7 +4139,7 @@ http://109.248.236.21:4433/udp/238.1.1.116:1234
 
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="🇰🇿 Казахстанское ТВ", Nick JR
-https://ext.cdn.nashnet.tv/228.0.0.146/index.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузинское ТВ",Imedi tv
