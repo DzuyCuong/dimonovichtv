@@ -629,7 +629,7 @@ https://s6.hopslan.com/kika/index.m3u8
 http://moobl.ru/hls/Gulli_girl.m3u8
 
 #EXTINF:-1 tvg-id="tiji" group-title="👶 Детские",TIJI TV
-http://moobl.ru/hls/Tiji.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000174.m3u8
 
 #EXTINF:-1 tvg-id="muztv" group-title="🎧 Музыкальные", МУЗ ТВ
 http://moobl.ru/hls/MuzTV.m3u8
@@ -2332,7 +2332,7 @@ http://ucdn.beetv.kz/btv/live/hls/000000608.m3u8
 http://moobl.ru/hls/365_dnej.m3u8
 
 #EXTINF:-1 tvg-id="vremia" group-title="🔎 Познавательные", Время
-http://moobl.ru/hls/Vremya.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000205.m3u8
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="🔎 Познавательные", Ретро
 http://cdn-lb.iptv2022.com/p/KfoJZDOlX8LiJpKnIYJ6qg,1691010024/streaming/retro/324/1/index.m3u8
