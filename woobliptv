@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 06.11.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 09.11.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
@@ -1537,10 +1537,6 @@ https://strtv.at.ua/hls/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="📺 Фильмовые" tvg-logo="http://mytorrent.ucoz.ua/Onlain_TV/film_tv/Akuji.png", Akudji
 http://195.9.195.3:8080/hls/5346.m3u8
 
-
-#EXTINF:-1 tvg-id="" group-title="📺 Фильмовые" tvg-logo="http://moobl.ru/hls/img/no_image.png",Сериал HD
-https://playlist.wasd.tv/live/1730345/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="plan-b" group-title="📺 Фильмовые",Plan_B HD
 http://31.148.6.4:10236/index.m3u8
 
@@ -1944,7 +1940,7 @@ http://158.101.194.132:8888/channel/n4b0b724e/index.m3u8?q=4df2c8476b65d08b14ea2
 http://158.101.194.132:8888/channel/n1dfef8a2/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
 
 #EXTINF:-1 tvg-id="bcu-sssr" group-title="📽️ BCU",BCU СССР HD
-http://217.107.34.114:8006/playlist.m3u8
+http://ru.iptv.monster/play/7120/DAF7E574BE5237A/video.m3u8
 
 #EXTINF:-1 group-title="📽️ BCU",BCU Action HD
 http://nl4.iptv.monster/play/7100/DAF7E574BE5237A/video.m3u8
