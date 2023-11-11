@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 09.11.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 10.11.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/tg.png" group-title="📌 Информация", https://t.me/woobl_iptv	
+#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/tg.png" group-title="📌 Информация", https://t.me/woobliptv	
 https://moobl.ru/GRILLYAZH%20-%20%D0%92%D0%AB%D0%94%D0%AB%D0%A5%D0%90%D0%99.mp3
 
 #EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy" tvg-logo="http://moobl.ru/hls/img/pervy_kanal.png", Первый канал
@@ -1435,7 +1435,6 @@ http://moobl.ru/hls/Tajny_i_sledstvie_hd.m3u8
 #EXTINF:-1 tvg-id="timeless-dizi" group-title="📺 Фильмовые",Timeless Dizi Channel
 http://cdn-lb.iptv2022.com/p/ZaEd4SmnnRgiiD7KirkCww,1696885209/streaming/dizitv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="timeless-dizi" group-title="📺 Фильмовые",Timeless Dizi Channel HD
-http://158.101.214.187:8080/channel/n3a97cdc4/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="312-kino" group-title="📺 Фильмовые",312 Кино
 http://moobl.ru/hls/312_kino.m3u8
