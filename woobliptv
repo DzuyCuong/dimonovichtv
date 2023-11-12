@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 10.11.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 11.11.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/tg.png" group-title="📌 Информация", https://t.me/woobliptv	
@@ -4142,7 +4142,6 @@ https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузинское ТВ",Rustavi 2
 https://tbs01-edge17.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузинское ТВ",TV Pirveli
-https://tbs01-edge03.itdc.ge/pirvelitv/tracks-v1a1/mono.m3u8?token=kIDLyeBPVx7rKKMh9cjwhgfq_W1oAcNh2VEBWyCP2jZM-RttYipgwSgAfd5iTLHIbN_cenGzjOVIvZiZpTDnRFMEEBYZbcgc8wK9FzC4gk1I1gLPgLAGcKFVk5DhjiWpySxr1U0u8O6ulkSJLvomskKeA2aifwCGwjh2hn9tmTMrE4HTCJwIba_cFxhFxel1hEvpyc7Pd7QynU-CzqwC55jwBgTG0IOV9QInBH1xW0XtiUohY8QGF_9Lm7GvNtgGlvnNAQ1bsXzZxKjqy2gLCtISkn9RSoUr6f8lEJTO9VlaYiTK0UXa5KWBNU-6-7i9
 #EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузинское ТВ",TV Formula HD
 https://tbs01-edge17.itdc.ge/formula/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇬🇪 Грузинское ТВ",TV 25
@@ -4172,7 +4171,7 @@ http://149.5.17.34:20041/play/a06i
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="inter-ua" group-title="🇺🇦 Украинское ТВ", Iнтер
-http://91.210.251.166:4643/udp/239.0.1.50:4000
+http://91.210.251.166:4505/udp/239.0.2.24:4000
 
 #EXTINF:-1 tvg-id="inter-plus-ua" group-title="🇺🇦 Украинское ТВ", Iнтер+
 
