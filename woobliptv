@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 11.11.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 15.11.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/tg.png" group-title="📌 Информация", https://t.me/woobliptv	
@@ -570,9 +570,6 @@ https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="🎧 Музыкальные",Bridge Classic
 http://moobl.ru/hls/Bridge_tv_classic.m3u8
-
-#EXTINF:-1 tvg-id="bridge-tv-rock" group-title="🎧 Музыкальные",Bridge Rock
-
 #EXTINF:-1 tvg-id="bridge-tv-rock" group-title="🎧 Музыкальные",Bridge Rock HD
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 
@@ -581,14 +578,8 @@ http://cdn-lb.iptv2022.com/p/EkFcRJa9BnFURo7Cnr266w,1674889867/streaming/br_fres
 
 #EXTINF:-1 tvg-id="bridge-tv" group-title="🎧 Музыкальные", Bridge
 http://moobl.ru/hls/Bridge_tv.m3u8
-
-#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="🎧 Музыкальные",Bridge Hits
-http://moobl.ru/hls/Bridge_tv_hits.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" group-title="🎧 Музыкальные",Bridge Hits HD
 https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
-
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="🎧 Музыкальные",Bridge Русский хит
-http://moobl.ru/hls/Bridge_tv_rusky_hit.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="🎧 Музыкальные",Bridge Русский хит HD
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 
@@ -615,12 +606,8 @@ http://moobl.ru/hls/Magic_Disney_hd.m3u8
 #EXTINF:-1 tvg-id="disney-jr" group-title="👶 Детские" ,Disney Junior PL
 http://149.62.183.220:4100/stream/channelid/1470868700?profile=pass
 
-#EXTINF:-1 tvg-id="" group-title="👶 Детские",Disney Channel Germany
-https://s6.hopslan.com/disneyx1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="👶 Детские",Super RTL 
 https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="👶 Детские",Nickelodeon Germany
-https://s6.hopslan.com/nick/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="👶 Детские",KIKA HD
 https://s6.hopslan.com/kika/index.m3u8
@@ -1405,9 +1392,6 @@ http://moobl.ru/hls/Start_HD.m3u8
 #EXTINF:-1 tvg-id="okko-sport" group-title="⚽️ Спортивные",Окко Спорт HD
 http://158.101.214.187:8080/channel/79f180dd/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
-#EXTINF:-1 tvg-id="okko-sport" group-title="⚽️ Спортивные",Окко Спорт HD
-https://kinescope.io/45MS3AGtLrPJPTSP2XPf7Y/master.m3u8
-
 #EXTINF:-1 tvg-id="start-triumf" group-title="⚽️ Спортивные" tvg-logo="https://moobl.ru/iptv/img/start-triumf.png",Старт Триумф
 http://moobl.ru/hls/Start_Triumf_FHD.m3u8
 
@@ -1609,12 +1593,6 @@ http://moobl.ru/hls/Hollywood_hd.m3u8
 
 #EXTINF:-1 tvg-id="mir-seriala" group-title="📺 Фильмовые",Мир сериала
 http://moobl.ru/hls/Mir_seriala.m3u8
-
-#EXTINF:-1 tvg-id="serial-ultrahd" group-title="📺 Фильмовые",Сериал UHD
-http://158.101.214.187:8080/channel/4f968bb5/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-
-#EXTINF:-1 tvg-id="kino-ultrahd" group-title="📺 Фильмовые",Кино UHD
-http://158.101.214.187:8080/channel/4f72f83d/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="📺 Фильмовые",TV XXI
 http://176.222.191.62/btv/live/hls/000000006.m3u8
@@ -2267,9 +2245,6 @@ http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
 
 #EXTINF:-1 tvg-id="setanta-kz" group-title="⚽️ Спортивные",Setanta Qazaqstan HD
 http://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="⚽️ Спортивные",Setanta Sports 1 Baltic HD
-https://tv.movielab.pro/942/video.m3u8
 
 #EXTINF:-1 tvg-id="m1global" group-title="⚽️ Спортивные",MMA-TV.com
 http://cdn-lb.iptv2022.com/p/70VMP7a3hoCnSMNtHwyAGg,1696885216/streaming/m1global/324/1/index.m3u8
