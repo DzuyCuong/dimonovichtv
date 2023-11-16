@@ -471,7 +471,7 @@ http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://i.ibb.co/PNLJ1yf/oplotdnr.png", Оплот 1 HD
 http://moobl.ru/hls/Oplot_1_hd.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://tvtvtv.ru/icons/oplot_2.png", Оплот 2
-http://130.193.73.10:8937/play/a004
+http://92.242.110.52:9835/udp/238.1.12.12:1234
 
 #EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ef/%D0%92%D0%A2%D0%92_%D0%9F%D0%BB%D1%8E%D1%81_%28%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD%29.png/revision/latest?cb=20200717200932&path-prefix=ru",ВТВ Плюс
 https://streaming.televizor-24-tochka.ru/live/26-req_offset_28000000-req_window_0-1k_v5.m3u8
