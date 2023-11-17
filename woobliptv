@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 15.11.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 17.11.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/tg.png" group-title="📌 Информация", https://t.me/woobliptv	
-https://moobl.ru/GRILLYAZH%20-%20%D0%92%D0%AB%D0%94%D0%AB%D0%A5%D0%90%D0%99.mp3
+https://moobl.ru/uploads/public_files/2023-11/10age-demony.mp3
 
 #EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy" tvg-logo="http://moobl.ru/hls/img/pervy_kanal.png", Первый канал
 http://moobl.ru/hls/1_tv.m3u8
@@ -380,6 +380,8 @@ http://cdn-lb.iptv2022.com/p/VVwN19_ebeKmxxMz-CwXiw,1678474702/streaming/topspb/
 
 #EXTINF:-1 tvg-id="yugra" group-title="🇷🇺 Региональные", Югра HD
 http://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://tsargrad.tv/img/logo-tsargrad_134x134.png", Царьград
+https://live.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/480p/media.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://tsargrad.tv/img/logo-tsargrad_134x134.png", Царьград HD
 https://live.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/1080p/media.m3u8
 
@@ -569,7 +571,7 @@ http://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="🎧 Музыкальные",Bridge Classic
-http://moobl.ru/hls/Bridge_tv_classic.m3u8
+http://cdn-lb.iptv2022.com/p/Sy8GYHlPA2nrTxtnDPoKIg,1699131616/streaming/br_classic/324/1/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-rock" group-title="🎧 Музыкальные",Bridge Rock HD
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 
@@ -591,9 +593,6 @@ http://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://moobl.ru/hls/img/knopka-tv.png" group-title="👶 Детские",Кнопка ТВ
 http://moobl.ru/hls/Knopka_tv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/230px-FOX_Kids_logo.svg.png" group-title="👶 Детские",Fox Kids HD
-http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-
 #EXTINF:-1 tvg-id="multimania-lv" group-title="👶 Детские",Мультимания
 http://moobl.ru/hls/Multimania.m3u8
 
@@ -605,9 +604,6 @@ http://moobl.ru/hls/Magic_Disney_hd.m3u8
 
 #EXTINF:-1 tvg-id="disney-jr" group-title="👶 Детские" ,Disney Junior PL
 http://149.62.183.220:4100/stream/channelid/1470868700?profile=pass
-
-#EXTINF:-1 tvg-id="" group-title="👶 Детские",Super RTL 
-https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="👶 Детские",KIKA HD
 https://s6.hopslan.com/kika/index.m3u8
@@ -670,7 +666,7 @@ http://moobl.ru/hls/Nickelodeon_hd.m3u8
 http://clientportal.link:80/1uEkqy319/XE4QUg813/32815
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="👶 Детские", Nick JR
-http://moobl.ru/hls/Nick_jr.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
 
 #EXTINF:-1 tvg-id="cartoon-network" group-title="👶 Детские",Cartoon Network
 http://moobl.ru/hls/Cartoon_network.m3u8
@@ -1002,10 +998,6 @@ http://moobl.ru/hls/Telekafe.m3u8
 
 #EXTINF:-1 tvg-id="avto-plus" group-title="🏄 Развлекательные",Авто Плюс
 http://moobl.ru/hls/Avto_plus.m3u8
-#EXTINF:-1 tvg-id="avto-plus" group-title="🏄 Развлекательные",Авто Плюс HD
-
-
-
 
 #EXTINF:-1 tvg-id="fashion-tv" group-title="🏄 Развлекательные",Fashion TV UHD
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
@@ -1366,7 +1358,7 @@ https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 http://cdn-lb.iptv2022.com/p/sVFCxRshZUSVsTNWz6UmaQ,1696885211/streaming/zaj/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="sovmultf" group-title="👶 Детские",Советские мультфильмы
-http://moobl.ru/hls/Sovetskiye_multfilmy.m3u8
+http://cdn-lb.iptv2022.com/p/rapVw-cOf1IWWnmAawYcFw,1700266993/streaming/rusmult/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="o_" group-title="👶 Детские",О!
 http://moobl.ru/hls/O_.m3u8
@@ -1630,18 +1622,18 @@ http://moobl.ru/hls/Tri_angela_hd.m3u8
 #EXTINF:-1 tvg-id="kinosat" group-title="📺 Фильмовые",Киносат
 http://moobl.ru/hls/Kinosat.m3u8
 
-#EXTINF:-1 tvg-id="kinosezon" group-title="📺 Фильмовые",Киносезон HD
-http://moobl.ru/hls/Kinosezon_hd.m3u8
+#EXTINF:-1 tvg-id="kinosezon" group-title="📺 Фильмовые",Киносезон
+http://cdn-lb.iptv2022.com/p/lHC8soskuRZ4sWwaV4VHJA,1700251079/streaming/kinosezon/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="kinoliving" group-title="📺 Фильмовые",Kinoliving
 http://cdn-lb.iptv2022.com/p/Ph3xYW3jq1wWz5Dt6OKHyA,1697749211/streaming/kinoliving/324/1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sovkino" group-title="📺 Фильмовые",Советское кино
-http://moobl.ru/hls/Sovetskoye_kino.m3u8
+http://cdn-lb.iptv2022.com/p/NEEP5Fh7ASH1TQZQUHA2bQ,1700267079/streaming/sovietmovs/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="mosfilm" group-title="📺 Фильмовые",Мосфильм. Золотая коллекция
-http://moobl.ru/hls/Mosfilm.m3u8
+http://ucdn.beetv.kz/btv/live/hls/000006365.m3u8
 
 #EXTINF:-1 tvg-id="mosfilm" group-title="📺 Фильмовые",Мосфильм. Золотая коллекция HD
 http://moobl.ru/hls/Mosfilm_hd.m3u8
