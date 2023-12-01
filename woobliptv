@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 20.11.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 30.11.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/tg.png" group-title="📌 Информация", https://t.me/woobliptv	
@@ -599,9 +599,6 @@ http://moobl.ru/hls/Multimania.m3u8
 #EXTINF:-1 tvg-id="magic-disney" group-title="👶 Детские",Magic Disney HD
 http://moobl.ru/hls/Magic_Disney_hd.m3u8
 
-#EXTINF:-1 tvg-id="disney-jr" group-title="👶 Детские" ,Disney Junior PL
-http://149.62.183.220:4100/stream/channelid/1470868700?profile=pass
-
 #EXTINF:-1 tvg-id="" group-title="👶 Детские",KIKA HD
 https://s6.hopslan.com/kika/index.m3u8
 
@@ -663,10 +660,10 @@ http://moobl.ru/hls/Nickelodeon_hd.m3u8
 http://clientportal.link:80/1uEkqy319/XE4QUg813/32815
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://moobl.ru/hls/img/nickrewindlogokvadrat.png" group-title="👶 Детские",Nick Rewind Фан
-http://54.37.49.119:8787/live/stream3.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://moobl.ru/hls/img/disneyfanlogo2kvadrat.png" group-title="👶 Детские",Disney Channel Фан
-http://54.37.49.119:8787/live/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="👶 Детские", Nick JR
 http://edge02.odtv.az/o2/nickjr/playlist.m3u8
@@ -1488,7 +1485,7 @@ http://moobl.ru/hls/Rodnoe_kino.m3u8
 http://moobl.ru/hls/Kinouzhas.m3u8
 
 #EXTINF:-1 tvg-id="kinouzhas" group-title="📺 Фильмовые",Киноужас HD
-http://moobl.ru/hls/Kinouzhas_hd.m3u8
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBjBATQpv0mNyYYwc3vTC6q8/ts
 #EXTINF:-1 tvg-id="scream" group-title="📺 Фильмовые",Scream
 http://158.101.214.187:8080/channel/n64296347/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 tvg-id="scream" group-title="📺 Фильмовые",Scream HD
@@ -1546,7 +1543,7 @@ http://moobl.ru/hls/Shokiruyushcheye_HD.m3u8
 http://158.101.214.187:8080/channel/42c15d29/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="romantichnoe-hd" group-title="📺 Фильмовые",Романтичное HD
-http://moobl.ru/hls/Romantichnoe_hd.m3u8
+http://158.101.214.187:8080/channel/22356a98/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="kriminalnoe-hd" group-title="📺 Фильмовые", Криминальное HD
 http://158.101.214.187:8080/channel/5ae044d0/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
@@ -1574,7 +1571,7 @@ http://moobl.ru/hls/Amedia_2_hd.m3u8
 http://moobl.ru/hls/Amedia_Premium_hd.m3u8
 
 #EXTINF:-1 tvg-id="hollywood" group-title="📺 Фильмовые",Hollywood
-http://31.40.155.227:9595/play/hollywood_sd
+http://moobl.ru/hls/Hollywood.m3u8
 
 #EXTINF:-1 tvg-id="hollywood" group-title="📺 Фильмовые",Hollywood HD
 http://moobl.ru/hls/Hollywood_hd.m3u8
@@ -1616,7 +1613,7 @@ http://moobl.ru/hls/Tri_angela.m3u8
 http://moobl.ru/hls/Tri_angela_hd.m3u8
 
 #EXTINF:-1 tvg-id="kinosat" group-title="📺 Фильмовые",Киносат
-http://moobl.ru/hls/Kinosat.m3u8
+http://cdn-lb.iptv2022.com/p/WSMYqwQGeajePMwNLyWwmQ,1697749212/streaming/kinosat/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="kinosezon" group-title="📺 Фильмовые",Киносезон
 http://cdn-lb.iptv2022.com/p/lHC8soskuRZ4sWwaV4VHJA,1700251079/streaming/kinosezon/324/1/index.m3u8
@@ -1769,7 +1766,7 @@ http://moobl.ru/hls/Hit_hd.m3u8
 http://cdn-lb.iptv2022.com/p/JzMExaTq-o3IVLv5zlInUw,1697749211/streaming/blokbaster/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="blokbaster-hd" group-title="📺 Фильмовые",Блокбастер HD
-http://moobl.ru/hls/Blokbaster_hd.m3u8
+http://158.101.214.187:8080/channel/nb0a289f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 tvg-id="kinopokaz" group-title="📺 Фильмовые",Кинопоказ
 http://moobl.ru/hls/Kinopokaz.m3u8
@@ -1801,12 +1798,12 @@ http://158.101.214.187:8080/channel/3c16e46d/index.m3u8?q=103bce48d8fe1dcdb5781d
 http://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
 
 #EXTINF:-1 tvg-id="kinojam1" group-title="📺 Фильмовые" ,Kinojam 1
-http://31.40.155.227:9595/play/Kino_Jam_1
+
 
 #EXTINF:-1 tvg-id="kinojam1" group-title="📺 Фильмовые" ,Kinojam 1 HD
-http://moobl.ru/hls/Kinojam_1_hd.m3u8
+http://158.101.214.187:8080/channel/4d640b5e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 tvg-id="kinojam2" group-title="📺 Фильмовые" ,Kinojam 2
-http://31.40.155.227:9595/play/Kino_Jam_2
+
 #EXTINF:-1 tvg-id="kinojam1" group-title="📺 Фильмовые" ,Kinojam 2 HD
 http://moobl.ru/hls/Kinojam_2_hd.m3u8
 
@@ -1845,8 +1842,6 @@ http://moobl.ru/hls/Feniks_plus_kino.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="📺 Фильмовые",Феникс плюс Кино HD
 http://moobl.ru/hls/Feniks_plus_kino_hd.m3u8
 
-#EXTINF:-1 tvg-id="bollywood-hd" group-title="📺 Фильмовые",Bollywood
-http://31.40.155.227:9595/play/Bollywood_HD
 #EXTINF:-1 tvg-id="bollywood-hd" group-title="📺 Фильмовые",Bollywood HD
 http://ucdn.beetv.kz/btv/live/hls/000001419.m3u8
 
@@ -1901,101 +1896,92 @@ http://158.101.194.132:8888/channel/n1dfef8a2/index.m3u8?q=4df2c8476b65d08b14ea2
 #EXTINF:-1 tvg-id="bcu-sssr" group-title="📽️ BCU",BCU СССР HD
 http://ru.iptv.monster/play/7120/DAF7E574BE5237A/video.m3u8
 
-#EXTINF:-1 group-title="📽️ BCU",BCU Action HD
-http://nl4.iptv.monster/play/7100/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Catastrophe HD
-http://nl4.iptv.monster/play/7101/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Cinema HD
-http://nl4.iptv.monster/play/7102/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU CINEMA+ HD
-http://nl4.iptv.monster/play/7122/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Comedy HD
-http://nl4.iptv.monster/play/7103/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Criminal HD
-http://nl4.iptv.monster/play/7128/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Fantastic HD
-http://nl4.iptv.monster/play/7104/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU FilMystic HD
-http://nl4.iptv.monster/play/7105/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU History HD
-http://nl4.iptv.monster/play/7106/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Kinorating HD
-http://nl4.iptv.monster/play/7107/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Marvel
-http://nl4.iptv.monster/play/7108/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Premiere HD
-http://nl4.iptv.monster/play/7109/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Romantic HD
-http://nl4.iptv.monster/play/7110/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Ruserial HD
-http://nl4.iptv.monster/play/7119/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Russian HD
-http://nl4.iptv.monster/play/7111/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU STARS HD
-http://nl4.iptv.monster/play/7123/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Ultra 4K
-http://nl4.iptv.monster/play/7125/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU VHS HD
-http://nl4.iptv.monster/play/7112/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Кинозал Premiere 1 HD
-http://nl4.iptv.monster/play/7113/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Кинозал Premiere 2 HD
-http://nl4.iptv.monster/play/7114/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Кинозал Premiere 3 HD
-http://nl4.iptv.monster/play/7115/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Кинозал Premiere 4 HD
-http://nl4.iptv.monster/play/7116/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Кинозал Premiere 5 HD
-http://nl4.iptv.monster/play/7130/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU СВАТЫ HD
-http://nl4.iptv.monster/play/7127/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Kids HD
-http://nl4.iptv.monster/play/7117/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Kids+ HD
-http://nl4.iptv.monster/play/7126/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="📽️ BCU",BCU Мультсериал
-http://nl4.iptv.monster/play/7118/DAF7E574BE5237A/video.m3u8
+#EXTINF:-1 timeshift="5" xui-id="26175" tvg-id="bcu-action" tvg-name="BCU Action HD" tvg-logo="http://icon.dnsfor.me/icon/BCUActionHD.png" group-title="📽️ BCU",BCU Action HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBo4xSed7xsj4YWI9O_ivSnw/ts
+#EXTINF:-1 timeshift="5" xui-id="26176" tvg-id="bcu-catastrophe" tvg-name="BCU Catastrophe HD" tvg-logo="http://icon.dnsfor.me/icon/BCUCatastropheHD.png" group-title="📽️ BCU",BCU Catastrophe HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBvl11pK0E9NbqnV6fimBffc/ts
+#EXTINF:-1 timeshift="5" xui-id="26178" tvg-id="bcu-cinema" tvg-name="BCU Cinema HD" tvg-logo="http://icon.dnsfor.me/icon/BCUCinemaHD.png" group-title="📽️ BCU",BCU Cinema HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBnzqmQm4pO7wzX8cwpqeC80/ts
+#EXTINF:-1 xui-id="26177" tvg-id="bcu-cinemaplus" tvg-name="BCU Cinema+ HD" tvg-logo="http://icon.dnsfor.me/icon/BCUCinema_plus.png" group-title="📽️ BCU",BCU Cinema+ HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBoXDNmWXpYftnt39IkAMV0w/ts
+#EXTINF:-1 timeshift="5" xui-id="26179" tvg-id="bcu-comedy" tvg-name="BCU Comedy HD" tvg-logo="http://icon.dnsfor.me/icon/BCUComedyHD.png" group-title="📽️ BCU",BCU Comedy HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBlg8oFM-cHT2SwWnUSHGuzo/ts
+#EXTINF:-1 timeshift="5" xui-id="26182" tvg-id="bcu-history" tvg-name="BCU History HD" tvg-logo="http://icon.dnsfor.me/icon/BCUHistoryHD.png" group-title="📽️ BCU",BCU History HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBsxLQjnOxWDYObMklwSwgpo/ts
+#EXTINF:-1 timeshift="5" xui-id="26180" tvg-id="bcu-fantastic" tvg-name="BCU Fantastic HD" tvg-logo="http://icon.dnsfor.me/icon/BCUFantasticHD.png" group-title="📽️ BCU",BCU Fantastic HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBphmkRXfotTuw7QR0lSYXek/ts
+#EXTINF:-1 timeshift="5" xui-id="26185" tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="http://icon.dnsfor.me/icon/BCUKinoratingHD.png" group-title="📽️ BCU",BCU Kinorating HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBv8j55K8iGYoI9A8ArN2iAc/ts
+#EXTINF:-1 timeshift="5" xui-id="26186" tvg-id="bcu-marvel" tvg-name="BCU Marvel HD" tvg-logo="http://icon.dnsfor.me/icon/BCUMarvelHD.png" group-title="📽️ BCU",BCU Marvel HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBrgWXyr2R_y4bAO7AsLznfM/ts
+#EXTINF:-1 timeshift="5" xui-id="26187" tvg-id="bcu-premiere" tvg-name="BCU Premiere HD" tvg-logo="http://icon.dnsfor.me/icon/BCUPremiereHD.png" group-title="📽️ BCU",BCU Premiere HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBqUeVi2lA2XfgCF2Pbm6VMc/ts
+#EXTINF:-1 timeshift="5" xui-id="26189" tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="http://icon.dnsfor.me/icon/BCURomanticHD.png" group-title="📽️ BCU",BCU Romantic HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBtHyRN8D8UJa0b-NDHs3osg/ts
+#EXTINF:-1 timeshift="5" xui-id="26190" tvg-id="bcu-russian" tvg-name="BCU Russian HD" tvg-logo="http://icon.dnsfor.me/icon/BCURussianHD.png" group-title="📽️ BCU",BCU Russian HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBsJH8ttjmKLTCKSxdQDC9QI/ts
+#EXTINF:-1 timeshift="5" xui-id="26193" tvg-id="bcu-vhs" tvg-name="BCU VHS HD" tvg-logo="http://icon.dnsfor.me/icon/BCUVHSHD.png" group-title="📽️ BCU",BCU VHS HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBqLDvEpxKmxHNq-nDyzHQxE/ts
+#EXTINF:-1 timeshift="5" xui-id="26194" tvg-id="bcu-kinozal-prem-1" tvg-name="BCU Premiere 1 HD" tvg-logo="http://icon.dnsfor.me/icon/BCUPremiere1HD.png" group-title="📽️ BCU",BCU Premiere 1 HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBg0TUoO24_h-A4W1XQErAVo/ts
+#EXTINF:-1 timeshift="5" xui-id="26195" tvg-id="bcu-kinozal-prem-2" tvg-name="BCU Premiere 2 HD" tvg-logo="http://icon.dnsfor.me/icon/BCUPremiere2HD.png" group-title="📽️ BCU",BCU Premiere 2 HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBvURzllN21rPYRdylhHvZTI/ts
+#EXTINF:-1 timeshift="5" xui-id="26196" tvg-id="bcu-kinozal-prem-3" tvg-name="BCU Premiere 3 HD" tvg-logo="http://icon.dnsfor.me/icon/BCUPremiere3HD.png" group-title="📽️ BCU",BCU Premiere 3 HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBv_WlGD2HJd9Uoa7VYMyeBA/ts
+#EXTINF:-1 xui-id="26198" tvg-id="bcu-multserial" tvg-name="BCU Multserial HD" tvg-logo="http://icon.dnsfor.me/icon/BCUMultserialHD.png" group-title="📽️ BCU",BCU Multserial HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBmAQE3GgXs-Yn2gSMSqDqmo/ts
+#EXTINF:-1 xui-id="26184" tvg-id="bcu-kids" tvg-name="BCU Kids HD" tvg-logo="http://icon.dnsfor.me/icon/BCUKidsHD.png" group-title="📽️ BCU",BCU Kids HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBtPXG9Tv0bKjCnznZwSkbZA/ts
+#EXTINF:-1 xui-id="26183" tvg-id="bcu-kids-plus" tvg-name="BCU Kids + HD" tvg-logo="http://icon.dnsfor.me/icon/BCUKids_plus.png" group-title="📽️ BCU",BCU Kids + HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBhG5v3ItQMkeOiy7nzzqyUM/ts
+#EXTINF:-1 timeshift="5" xui-id="26188" tvg-id="bcu-ruserial" tvg-name="BCU RUSerial HD" tvg-logo="http://icon.dnsfor.me/icon/BCURuserial.png" group-title="📽️ BCU",BCU RUSerial HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBh2ifl7fzh29qw6mjn6kqWQ/ts
+#EXTINF:-1 timeshift="5" xui-id="26199" tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="http://icon.dnsfor.me/icon/BCUSSSRHD.png" group-title="📽️ BCU",BCU СССР HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBhh1RON_OdkNLKmUK4qI3Kw/ts
+#EXTINF:-1 timeshift="5" xui-id="26191" tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="http://icon.dnsfor.me/icon/BCUStarsHD.png" group-title="📽️ BCU",BCU Stars HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBmPrKrUHWX-iV0MKvGkouik/ts
+#EXTINF:-1 timeshift="5" xui-id="26181" tvg-id="bcu-filmystic" tvg-name="BCU FilMystic HD" tvg-logo="http://icon.dnsfor.me/icon/BCUFilmysticHD.png" group-title="📽️ BCU",BCU FilMystic HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBroWX1VPeY3Ftqj2yzNsiCA/ts
+#EXTINF:-1 timeshift="5" xui-id="26200" tvg-id="bcu-svaty" tvg-name="BCU Сваты HD" tvg-logo="http://icon.dnsfor.me/icon/BCUSvatyHD.png" group-title="📽️ BCU",BCU Сваты HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBnKj7OeBwjzn6FeFzE8AyaA/ts
+#EXTINF:-1 timeshift="5" xui-id="26222" tvg-id="bcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="http://icon.dnsfor.me/icon/BCUCriminal.png" group-title="📽️ BCU",BCU Criminal HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBiUEhaSht_vVErOjOfFZJv0/ts
+#EXTINF:-1 xui-id="24320" tvg-id="bcu-reality" tvg-name="BCU Reality HD" tvg-logo="http://icon.dnsfor.me/icon/BCUReality.png" group-title="📽️ BCU",BCU Reality HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBpeyMF_tCtKeGooiawo3HWA/ts
+#EXTINF:-1 xui-id="24247" tvg-id="bcu-survival" tvg-name="BCU Survival HD" tvg-logo="http://icon.dnsfor.me/icon/BCUSurvival.png" group-title="📽️ BCU",BCU Survival HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBgZ7RSlfOUqHht9DC1ETTPc/ts
+#EXTINF:-1 xui-id="24246" tvg-id="bcu-cosmo" tvg-name="BCU Cosmo HD" tvg-logo="http://icon.dnsfor.me/icon/BCUCCCPHD.png" group-title="📽️ BCU",BCU Cosmo HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBrA0O0fzihq8hbgf3IO1byk/ts
+#EXTINF:-1 xui-id="19836" tvg-id="bcu-trumotion" tvg-name="BCU Trumotion HD" tvg-logo="http://icon.dnsfor.me/icon/BCURomanticHD.png" group-title="📽️ BCU",BCU Trumotion HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBtpqJYhrAoNAeMLrWxW9VpI/ts
+#EXTINF:-1 xui-id="19800" tvg-id="bcu-kids-4k" tvg-name="BCU Kids 4K" tvg-logo="http://icon.dnsfor.me/icon/BCUMediaKids4K.png" group-title="📽️ BCU",BCU Kids 4K
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBjQHzFkuZZ6dliY7AmtolCE/ts
+#EXTINF:-1 xui-id="19797" tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HD" tvg-logo="http://icon.dnsfor.me/icon/BCUKidsplusHD.png" group-title="📽️ BCU",BCU Kids+ HD
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBlEwYb8kXeZ3YexJIUc4iH8/ts
 
-#EXTINF:-1 group-title="🍿 CineMan"",CineMan
+#EXTINF:-1 group-title="🍿 CineMan",CineMan
 
-#EXTINF:-1 group-title="🍿 CineMan", CineMan
-http://ru.iptv.monster/play/13001/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Action
-http://ru.iptv.monster/play/13002/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Комедия
-http://ru.iptv.monster/play/13003/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Катастрофы
-http://ru.iptv.monster/play/13004/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Лесник
-http://ru.iptv.monster/play/13005/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Marvel
-http://ru.iptv.monster/play/13006/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Melodrama
-http://ru.iptv.monster/play/13007/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Ментовские Войны
-http://ru.iptv.monster/play/13008/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan MiniSeries
-http://ru.iptv.monster/play/13009/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Пёс
-http://ru.iptv.monster/play/13010/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Premium
-http://ru.iptv.monster/play/13011/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan РуКино
-http://ru.iptv.monster/play/13012/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Симпсоны
-http://ru.iptv.monster/play/13013/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Скорая помощь
-http://ru.iptv.monster/play/13014/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Сваты
-http://ru.iptv.monster/play/13015/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Thriller
-http://ru.iptv.monster/play/13016/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Top
-http://ru.iptv.monster/play/13017/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan Ужасы
-http://ru.iptv.monster/play/13018/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="🍿 CineMan", CineMan VHS
-http://ru.iptv.monster/play/13019/DAF7E574BE5237A/video.m3u8
+
+#EXTINF:-1 xui-id="26233" tvg-id="cineman-action" tvg-name="CineMan Action" tvg-logo="http://icon.dnsfor.me/icon/CineManAction.png" group-title="🍿 CineMan",CineMan Action
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBk1K7KH6bKKQIswTayemRcM/ts
+#EXTINF:-1 xui-id="26234" tvg-id="cineman-uzhasy" tvg-name="CineMan Ужасы" tvg-logo="http://icon.dnsfor.me/icon/CineManUzhasy.png" group-title="🍿 CineMan",CineMan Ужасы
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBoXf9q_1CJ-NjCdZ0lvSAfg/ts
+#EXTINF:-1 xui-id="26236" tvg-id="cineman-comedy" tvg-name="CineMan Комедия" tvg-logo="http://icon.dnsfor.me/icon/CineManKomedia.png" group-title="🍿 CineMan",CineMan Комедия
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBsEfXvXow5QCrIOrRZpF96E/ts
+#EXTINF:-1 xui-id="26237" tvg-id="cineman" tvg-name="CineMan" tvg-logo="http://icon.dnsfor.me/icon/CineMan.png" group-title="🍿 CineMan",CineMan
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBuo_3uK-f2c5m-KIg8A8X1g/ts
+#EXTINF:-1 xui-id="26238" tvg-id="cineman-marvel" tvg-name="CineMan Marvel" tvg-logo="http://icon.dnsfor.me/icon/CineManMarvel.png" group-title="🍿 CineMan",CineMan Marvel
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBgCIk_OAeuf4WJyLkLEGPRQ/ts
+#EXTINF:-1 xui-id="26239" tvg-id="cineman-melodrama" tvg-name="CineMan Мелодрама" tvg-logo="http://icon.dnsfor.me/icon/CineManMelodrama.png" group-title="🍿 CineMan",CineMan Мелодрама
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBl5ubIyFwukSM3Gksp9UrIs/ts
+#EXTINF:-1 xui-id="26240" tvg-id="cineman-thriller" tvg-name="CineMan Thriller" tvg-logo="http://icon.dnsfor.me/icon/CineManThriller.png" group-title="🍿 CineMan",CineMan Thriller
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBjUTR4AlsdO6boij1fJpr8M/ts
+#EXTINF:-1 xui-id="26241" tvg-id="cineman-top" tvg-name="CineMan Top" tvg-logo="http://icon.dnsfor.me/icon/CineManTop.png" group-title="🍿 CineMan",CineMan Top
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBrFnlgCB0DzwD1KDG_2miLA/ts
+#EXTINF:-1 xui-id="26242" tvg-id="cineman-vhs" tvg-name="CineMan VHS" tvg-logo="http://icon.dnsfor.me/icon/CineManVHS.png" group-title="🍿 CineMan",CineMan VHS
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBoqWvWGvU9RAo783B4pb0GY/ts
+#EXTINF:-1 xui-id="26243" tvg-id="cineman-rukino" tvg-name="CineMan РуКино" tvg-logo="http://icon.dnsfor.me/icon/CineManRUkino.png" group-title="🍿 CineMan",CineMan РуКино
+http://a.stroj-bt.com:89/play/XpzAvafqH4iZBRibXM0gBsNcE1zIZtQVlLaV7oUO1Vg/ts
 
 #EXTINF:-1 tvg-id="1hd" group-title="🎧 Музыкальные", 1HD
 http://moobl.ru/hls/1HD.m3u8
@@ -2158,7 +2144,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
 #EXTINF:-1 tvg-id="setanta-sports" group-title="⚽️ Спортивные",Setanta Sports HD
-http://158.101.214.187:8080/channel/18b15187/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://ucdn.beetv.kz/btv/live/hls/000006998.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sports" group-title="⚽️ Спортивные",Setanta Sports HLS
 http://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
@@ -2284,7 +2270,7 @@ http://ucdn.beetv.kz/btv/live/hls/000000608.m3u8
 http://moobl.ru/hls/365_dnej.m3u8
 
 #EXTINF:-1 tvg-id="vremia" group-title="🔎 Познавательные", Время
-http://92.100.39.32:2289/play/VeremaDelako/index.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000205.m3u8
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="🔎 Познавательные", Ретро
 http://cdn-lb.iptv2022.com/p/KfoJZDOlX8LiJpKnIYJ6qg,1691010024/streaming/retro/324/1/index.m3u8
@@ -2368,8 +2354,6 @@ http://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 tvg-id="docubox-hd" group-title="🔎 Познавательные", DocuBox HD
 http://158.101.194.132:8888/channel/15bf5fc5/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
 
-#EXTINF:-1 tvg-id="curiosity-stream" group-title="🔎 Познавательные", Curiosity Stream
-http://31.40.155.227:9595/play/Curiositysity_stream
 
 #EXTINF:-1 tvg-id="prosveschenie" group-title="🔎 Познавательные", Просвещение
 http://moobl.ru/hls/Prosveschenie.m3u8
@@ -2448,9 +2432,6 @@ http://moobl.ru/hls/Soloviev_live.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" group-title="🔅 Основные",Соловьев LIVE HD
 http://moobl.ru/hls/Soloviev_live_hd.m3u8
 
-#EXTINF:-1 tvg-id="morskoy" group-title="🔎 Познавательные",Моя стихия
-http://31.40.155.227:9595/play/moya_stihiya
-
 #EXTINF:-1 tvg-id="mama" group-title="👶 Детские", Мама
 http://moobl.ru/hls/Mama.m3u8
 
@@ -2482,9 +2463,6 @@ http://moobl.ru/hls/Ocean_tv.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="🔎 Познавательные", Приключения HD
 http://cdn-lb.iptv2022.com/p/lXvn1dtFRLHK6Yprb_8cFA,1688590818/streaming/adventurehd/324/1/index.m3u8
 
-#EXTINF:-1 tvg-id="big-planet" group-title="🔎 Познавательные", Big Planet
-http://31.40.155.227:9595/play/big_planet
-
 #EXTINF:-1 tvg-id="big-planet" group-title="🔎 Познавательные", Big Planet HD
 http://ucdn.beetv.kz/btv/live/hls/000008052.m3u8
 
@@ -2493,9 +2471,6 @@ http://cdn-lb.iptv2022.com/p/5ImdOCRLD83nHhjaP4dHwg,1688590815/streaming/multikh
 
 #EXTINF:-1 tvg-id="bobior" group-title="🔎 Познавательные", Бобёр
 http://moobl.ru/hls/Bobior.m3u8
-
-#EXTINF:-1 tvg-id="nauka" group-title="🔎 Познавательные", Наука 2.0
-http://212.0.211.102:9999/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="nauka" group-title="🔎 Познавательные", Наука 2.0 HD
 http://moobl.ru/hls/Nauka_20_hd.m3u8
@@ -4046,8 +4021,8 @@ http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇰🇿 Казахстанское ТВ" tvg-logo="https://jjtv.kz/templates/gk_news/img/qazaqtv_default.png?v=2", Jibek Joly HD
 https://jjtv-stream.qazcdn.com/jjtv/jjtv/jjtv/jjtv_1080/chunks.m3u8
 
-#EXTINF:-1 tvg-id="xabar24" group-title="🇰🇿 Казахстанское ТВ", Хабар 24
-http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1 tvg-id="xabar24" group-title="🇰🇿 Казахстанское ТВ", Хабар 24 HD
+https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="7kanal-kz" group-title="🇰🇿 Казахстанское ТВ", 7 канал Казахстан
