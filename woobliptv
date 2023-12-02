@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 30.11.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 01.12.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/tg.png" group-title="📌 Информация", https://t.me/woobliptv	
@@ -81,6 +81,9 @@ http://moobl.ru/hls/RTR_Planeta_USA.m3u8
 
 #EXTINF:-1 tvg-id="karusel" group-title="🔅 Основные", Карусель
 http://moobl.ru/hls/Karusel.m3u8
+
+#EXTINF:-1 tvg-id="karusel" group-title="🔅 Основные", Карусель HD
+http://moobl.ru/hls/Karusel_hd.m3u8
 
 #EXTINF:-1 tvg-id="karusel-int" group-title="🔅 Основные", Карусель Int
 http://moobl.ru/hls/Karusel_int.m3u8
@@ -666,7 +669,7 @@ http://clientportal.link:80/1uEkqy319/XE4QUg813/32815
 
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="👶 Детские", Nick JR
-http://edge02.odtv.az/o2/nickjr/playlist.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
 
 #EXTINF:-1 tvg-id="cartoon-network" group-title="👶 Детские",Cartoon Network
 http://moobl.ru/hls/Cartoon_network.m3u8
@@ -1040,10 +1043,10 @@ http://moobl.ru/hls/O_kino.m3u8
 http://cdn-lb.iptv2022.com/p/DWRaVoWMjp53HD9I1xgFdw,1686430817/streaming/o2tv/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="nicktoons" group-title="👶 Детские",NickToons
-http://91.210.251.166:4886/udp/239.0.2.10:4000
+http://ucdn.beetv.kz/btv/live/hls/000004365.m3u8
 
 #EXTINF:-1 tvg-id="nicktoons" group-title="👶 Детские",NickToons HD
-http://ucdn.beetv.kz/btv/live/hls/000004365.m3u8
+http://moobl.ru/hls/Nicktoons_hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disnick/images/7/76/Teen_Nick_Logo.png" group-title="👶 Детские",TeenNick PL
 http://194.145.202.71:8087/udp/239.254.1.54:6060
@@ -1766,7 +1769,7 @@ http://moobl.ru/hls/Hit_hd.m3u8
 http://cdn-lb.iptv2022.com/p/JzMExaTq-o3IVLv5zlInUw,1697749211/streaming/blokbaster/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="blokbaster-hd" group-title="📺 Фильмовые",Блокбастер HD
-http://158.101.214.187:8080/channel/nb0a289f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://moobl.ru/hls/Blokbaster_hd.m3u8
 
 #EXTINF:-1 tvg-id="kinopokaz" group-title="📺 Фильмовые",Кинопоказ
 http://moobl.ru/hls/Kinopokaz.m3u8
