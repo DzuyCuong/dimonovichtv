@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 04.12.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
@@ -290,10 +290,10 @@ http://cdn-lb.iptv2022.com/p/xr_4G73qBfIl7vCckwZFGA,1687602640/streaming/1crimea
 
 #EXTINF:-1 tvg-id="pervy-sevastopolsky" group-title="🇷🇺 Региональные", Первый Севастопольский HD
 http://cdn-lb.iptv2022.com/p/za96ZvV8nZyalQNoaHnlPQ,1698832672/streaming/1sevastopol/324/1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bst.bratsk.ru/bst24_mainlogo_v1.png" group-title="🇷🇺 Региональные",БСТ 24
+#EXTINF:-1 tvg-id="2464" tvg-logo="https://bst.bratsk.ru/bst24_mainlogo_v1.png" group-title="🇷🇺 Региональные",БСТ 24
 http://moobl.ru/hls/BST24.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://bst.bratsk.ru/bst24_mainlogo_v1.png" group-title="🇷🇺 Региональные",БСТ 24 HD
+#EXTINF:-1 tvg-id="2464" tvg-logo="https://bst.bratsk.ru/bst24_mainlogo_v1.png" group-title="🇷🇺 Региональные",БСТ 24 HD
 http://moobl.ru/hls/BST24_hd.m3u8
 
 #EXTINF:-1 tvg-id="bst" group-title="🇷🇺 Региональные",БСТ
@@ -711,6 +711,9 @@ https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 
 #EXTINF:-1 tvg-id="che" group-title="🏄 Развлекательные", Че
 http://moobl.ru/hls/Che.m3u8
+
+#EXTINF:-1 tvg-id="onemedia" tvg-logo="http://moobl.ru/hls/img/one_zalupa.png" group-title="🏄 Развлекательные" timeshift="onemedia",ONE
+http://91.217.77.106:8787/live/stream.m3u8
 
 #EXTINF:-1 tvg-id="2na2" group-title="🏄 Развлекательные", 2х2
 http://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
@@ -1782,6 +1785,8 @@ http://moobl.ru/hls/Nashe_muzhskoe_hd.m3u8
 
 #EXTINF:-1 tvg-id="nashehd" group-title="📺 Фильмовые",Наше крутое HD
 
+#EXTINF:-1 tvg-id="5181" group-title="📺 Фильмовые" tvg-logo="https://epg.it999.ru/img2/5181.png",UZ-Ужасное ТВ HD
+http://moobl.ru/hls/UZ_Kinouzhas_hd.m3u8
 
 #EXTINF:-1 tvg-id="kinoboevik-kz" group-title="📺 Фильмовые",КиноБоевик HD KZ
 http://ucdn.beetv.kz/btv/live/hls/000008490.m3u8
@@ -4158,9 +4163,10 @@ http://91.210.251.166:4547/udp/239.0.20.48:4000
 
 #EXTINF:-1 tvg-id="nastoyaschee-vremia" group-title="🇺🇦 Украинское ТВ" tvg-logo="https://teleprogramma.tv/images/nastoyashchee-vremya.png", Настоящее время HD
 http://portal.ott.pink/watch/207/mono.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-
+#EXTINF:-1 tvg-id="bolt" group-title="🇺🇦 Украинское ТВ",Bolt
+http://moobl.ru/hls/Bolt.m3u8
 #EXTINF:-1 tvg-id="bolt" group-title="🇺🇦 Украинское ТВ",Bolt HD
-http://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
+http://moobl.ru/hls/Bolt_hd.m3u8
 
 #EXTINF:-1 tvg-id="setanta-ua" group-title="🇺🇦 Украинское ТВ",Setanta Ukraine HD
 http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
