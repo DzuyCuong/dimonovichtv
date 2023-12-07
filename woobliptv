@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
-#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 04.12.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 07.12.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/tg.png" group-title="📌 Информация", https://t.me/woobliptv	
@@ -73,10 +73,10 @@ http://moobl.ru/hls/Russia_K.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="🔅 Основные", Россия 24
 http://moobl.ru/hls/Russia_24.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-eu" group-title="🔅 Основные" tvg-logo="http://moobl.ru/hls/img/rtr-planeta.png", РТР-Планета Европа
+#EXTINF:-1 tvg-id="rtr-planeta-eu" group-title="🔅 Основные" tvg-logo="http://moobl.ru/hls/img/rtr-planeta.png", РТР-Планета Европа HD
 http://moobl.ru/hls/RTR_Planeta_Eu.m3u8
 
-#EXTINF:-1 tvg-id="rtr-planeta-amerika" group-title="🔅 Основные" tvg-logo="http://moobl.ru/hls/img/rtr-planeta.png", РТР-Планета Америка
+#EXTINF:-1 tvg-id="rtr-planeta-amerika" group-title="🔅 Основные" tvg-logo="http://moobl.ru/hls/img/rtr-planeta.png", РТР-Планета Америка HD
 http://moobl.ru/hls/RTR_Planeta_USA.m3u8
 
 #EXTINF:-1 tvg-id="karusel" group-title="🔅 Основные", Карусель
@@ -214,6 +214,9 @@ http://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="kavkaz24" group-title="🇷🇺 Региональные", Кавказ 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/2_93b61749/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇷🇺 Региональные" tvg-logo="https://cdn-st4.smotrim.ru/vh/pictures/r/452/475/5.png",ОТВ Приморья HD
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7427" group-title="🇷🇺 Региональные" tvg-logo="https://zapad-24.ru/img/logo.png", Запад 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/track_101_349aa0f0/chunklist.m3u8
@@ -1500,7 +1503,8 @@ http://158.101.214.187:8080/channel/n64296347/index.m3u8?q=103bce48d8fe1dcdb5781
 http://cdn-lb.iptv2022.com/p/JO51zkFM_kuwr_Rlt-mHfQ,1696194010/streaming/horror_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="📺 Фильмовые",Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://app-tv.ru/images/logo-channel/tv-koshmar-hd.png" group-title="📺 Фильмовые",Кошмар
+http://195.9.195.3:8080/hls/204709.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://i.ibb.co/L01G3Lj/EBy-BCZSQ17plk-VBHg-zr0-Ca-E0vl-ZVREajr-DUKVh-Hb-Fw7-T5-SRxovk-R5-Zq-Jf-G5d-Lp-Fff3-WDJQJGian-Zh1lys.jpg", MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
@@ -1904,80 +1908,62 @@ http://158.101.194.132:8888/channel/n1dfef8a2/index.m3u8?q=4df2c8476b65d08b14ea2
 #EXTINF:-1 tvg-id="bcu-sssr" group-title="📽️ BCU",BCU СССР HD
 http://217.107.34.114:8006/playlist.m3u8
 
-#EXTINF:0 group-title="📽️ BCU",BCU Action HD 
-http://ch01.spr24.net/20810/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Catastrophe HD 
-http://ch01.spr24.net/20811/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Cinema HD 
-http://ch01.spr24.net/20812/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Cinema+ HD 
-http://ch01.spr24.net/20832/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Comedy HD 
-http://ch01.spr24.net/20813/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Comedy OLD 
-http://ch01.spr24.net/20841/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Fantastic HD 
-http://ch01.spr24.net/20814/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU FilMystic HD 
-http://ch01.spr24.net/20815/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU History HD 
-http://ch01.spr24.net/20816/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Kinorating HD 
-http://ch01.spr24.net/20817/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Marvel HD 
-http://ch01.spr24.net/20818/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Marvel OLD 
-http://ch01.spr24.net/20840/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Premiere HD 
-http://ch01.spr24.net/20819/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Romantic HD 
-http://ch01.spr24.net/20820/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Romantic OLD 
-http://ch01.spr24.net/20891/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Russian HD 
-http://ch01.spr24.net/20821/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Stars HD 
-http://ch01.spr24.net/20833/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU VHS HD 
-http://ch01.spr24.net/20822/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Мультсериал HD 
-http://ch01.spr24.net/20828/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Сваты HD 
-http://ch01.spr24.net/20829/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU RUSERIAL HD 
-http://ch01.spr24.net/20836/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU СССР HD 
-http://ch01.spr24.net/20830/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCUMEDIA HD 
-http://ch01.spr24.net/20831/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCUMEDIA OLD 
-http://ch01.spr24.net/20839/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Ultra 4K 
-http://ch01.spr24.net/20835/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Criminal HD 
-http://ch01.spr24.net/20837/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Кинозал Premiere 1 HD 
-http://ch01.spr24.net/20823/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Кинозал Premiere 2 HD 
-http://ch01.spr24.net/20824/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Кинозал Premiere 3 HD 
-http://ch01.spr24.net/20825/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Reality HD 
-http://ch01.spr24.net/20826/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Reality OLD 
-http://ch01.spr24.net/20843/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Survival HD 
-http://ch01.spr24.net/20838/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Survival OLD 
-http://ch01.spr24.net/20842/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Cosmo HD 
-http://ch01.spr24.net/20845/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Cosmo OLD 
-http://ch01.spr24.net/20846/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU TruMotion HD 
-http://ch01.spr24.net/20847/mpegts?token=Ks2SdLkb9WvZ2S 
-#EXTINF:0 group-title="📽️ BCU",BCU Premiere Ultra 4K 
-http://ch01.spr24.net/20848/mpegts?token=Ks2SdLkb9WvZ2S
+#EXTINF:-1 group-title="📽️ BCU",BCU Action HD
+http://ru.iptv.monster/play/7100/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Catastrophe HD
+http://ru.iptv.monster/play/7101/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Comedy HD
+http://ru.iptv.monster/play/7103/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Cinema HD
+http://ru.iptv.monster/play/7102/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU CINEMA+ HD
+http://ru.iptv.monster/play/7122/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Fantastic HD
+http://ru.iptv.monster/play/7104/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU STARS HD
+http://ru.iptv.monster/play/7123/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU FilMystic HD
+http://ru.iptv.monster/play/7105/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Reality HD
+http://ru.iptv.monster/play/7136/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU History HD
+http://ru.iptv.monster/play/7106/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Kinorating HD
+http://ru.iptv.monster/play/7107/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Marvel
+http://ru.iptv.monster/play/7108/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Premiere HD
+http://ru.iptv.monster/play/7109/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Romantic HD
+http://ru.iptv.monster/play/7110/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Russian HD
+http://ru.iptv.monster/play/7111/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU VHS HD
+http://ru.iptv.monster/play/7112/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU TruMotion HD
+http://ru.iptv.monster/play/7139/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Кинозал Premiere 1 HD
+http://ru.iptv.monster/play/7113/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Кинозал Premiere 2 HD
+http://ru.iptv.monster/play/7114/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Кинозал Premiere 3 HD
+http://ru.iptv.monster/play/7115/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Survival HD
+http://ru.iptv.monster/play/7116/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU СВАТЫ HD
+http://ru.iptv.monster/play/7127/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Ruserial HD
+http://ru.iptv.monster/play/7119/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU СССР HD
+http://ru.iptv.monster/play/7120/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Cosmo HD
+http://ru.iptv.monster/play/7137/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Criminal HD
+http://ru.iptv.monster/play/7128/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Ultra 4K
+http://ru.iptv.monster/play/7125/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Premiere Ultra 4K
+http://ru.iptv.monster/play/7140/5416F3BDBAB456F/video.m3u8
 
 #EXTINF:-1 group-title="🍿 CineMan",CineMan
 
