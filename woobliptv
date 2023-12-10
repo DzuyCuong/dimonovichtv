@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
-#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 07.12.23 ===	
+#EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/logo.png" group-title="📌 Информация",=== ОБНОВЛЕНО 09.12.23 ===	
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://moobl.ru/hls/img/tg.png" group-title="📌 Информация", https://t.me/woobliptv	
@@ -550,7 +550,7 @@ http://clientportal.link:80/1uEkqy319/XE4QUg813/7316
 #EXTINF:-1 tvg-id="" tvg-logo="https://logospng.org/download/mtv/logo-mtv-amarelo-1024.png" group-title="🎧 Музыкальные",MTV Classic
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
 #EXTINF:-1 tvg-id="mtv-dance" group-title="🎧 Музыкальные",MTV Club
-http://91.210.251.166:4643/udp/239.0.1.50:4000
+http://clientportal.link/iiViFgfcwY19/eGG25x30/7318
 
 #EXTINF:-1 tvg-id="mtv-hits" group-title="🎧 Музыкальные",MTV Hits
 http://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
